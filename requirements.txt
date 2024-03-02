@@ -1,0 +1,10 @@
+numpy==1.23.5
+pandapower==2.10.1
+pandas==1.5.2
+PuLP~=2.7.0
+matplotlib~=3.6.2
+cvxpy~=1.2.2
+scipy~=1.9.3
+bokeh~=3.0.3
+mpyc==0.9
+CurrencyConverter==0.17.3

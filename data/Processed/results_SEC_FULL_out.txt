@@ -1,0 +1,50 @@
+C:\Users\matth\Documents\WS\Scripts\python.exe C:/Users/matth/Documents/master-thesis/main.py
+Data Import Complete
+Mode 3, Scenario 0, Multi 0.0
+Setup of Network Complete
+Begin mode SEC_FULL with scenario 0 with Multi 0.0 at 2023-04-21 11:52:15.567667
+Took 126.71374193032582 minutes
+At time: 2023-04-21 13:58 W. Europe Summer Time
+Begin SMPC DVS Phase 1
+SMPC DVS Phase 1 took 5.196122169494629 seconds or 0.08660203615824381 minutes
+Mode 3, Scenario 0, Multi 0.0
+593 its, 126.68 minutes, 4.2070 %, 0.00781355 abs.
+Total Errors Determined:
+[6.261692134136122e-05, 0.00017267679283389974, -6.042769438212475e-05, 8.974185076741544e-05, -0.00013783142815676486, 0.00019193483178929765, -0.00020044867775960066, 0.0003111339091295654, 0.000246977188859667, -0.00030297403352713475, -0.00011369451730365153, 0.00014399014526000035, -5.318714340199927e-05, 6.2035900106332e-05, -5.793783945936809e-05, 6.0473733419245646e-05, 0.00048289470355079427, 0.00016652371896568575, -0.00022178004681861312, 0.0004518229083888444, -5.342629337102081e-05, -0.0002799376307236716, -0.0002117546971202387, 0.00019203262699354808]
+Response Policies Activated
+Updated Power Flows according to Schedules
+C:\Users\matth\Documents\WS\lib\site-packages\cvxpy\problems\problem.py:1337: UserWarning: Solution may be inaccurate. Try another solver, adjusting the solver settings, or solve with verbose=True for more information.
+  warnings.warn(
+At time: 2023-04-21 13:59 W. Europe Summer Time
+Begin SMPC Recover
+SMPC Recover took 2.7413883209228516 seconds or 0.04568980534871419 minutes
+Recovered Injection Measurements for all Nodes and Timesteps
+At time: 2023-04-21 13:59 W. Europe Summer Time
+Begin SMPC Imbalance
+SMPC Imbalance took 871.7766835689545 seconds or 14.529611392815907 minutes
+DVS check returned 1
+Determined Penalties
+Finalized Balances
+Balance Node 0: -8.3977909500245 CHF
+Balance Node 1: -0.31195691507309675 CHF
+Balance Node 2: -7.546992627670988 CHF
+Balance Node 3: -7.557088695699349 CHF
+Balance Node 4: -0.4681331804022193 CHF
+Balance Node 5: -6.731947867432609 CHF
+Balance Node 6: -0.9117310412693769 CHF
+Balance Node 7: 5.96067966404371 CHF
+Balance Node 8: -1.2553847497329116 CHF
+Balance Node 9: -7.597913861274719 CHF
+Balance Node 10: -4.019773781532422 CHF
+Balance Node 11: -0.571029998594895 CHF
+Balance Node 12: 8.074437086703256 CHF
+Balance Node 13: -7.623505613999441 CHF
+Balance Node 14: -3.969785308931023 CHF
+Balance Node 15: -3.1251933332532644 CHF
+-46.05311117414385
+Success
+At time: 2023-04-21 14:13 W. Europe Summer Time
+Begin SMPC Covariance
+SMPC Covariance took 2912.1235246658325 seconds or 48.53539207776387 minutes
+Mode 3, Scenario 0, Multi 0.0
+Took 189.92897442181905 minutes

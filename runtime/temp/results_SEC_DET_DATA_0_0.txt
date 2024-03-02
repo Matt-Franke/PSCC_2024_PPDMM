@@ -1,0 +1,1018 @@
+Total arguments passed: 5
+Begin mode 0 with scenario 0 with Multi 0.0
+Data Import Complete
+Setup Data Bundling and Community
+SMPC Setup Complete
+Spawn Nodes
+DCP CHECK: True, Vals: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Begin Nodes
+Begin first SMPC
+SMPC took 3.8055191040039062 seconds or 0.0634253184000651 minutes
+It. 0: OF Values: -6.03009745, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It0, Primal: 2.4764297822920445, P_Sum: 0.0, Dual:175.38153022144883, D_Sum: 0.0, Surplus: -96.208430692716, DEC:0, Terminate:0.0
+SMPC took 3.7543833255767822 seconds or 0.06257305542627971 minutes
+It. 1: OF Values: -4.09942842, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It1, Primal: 0.7103806004237676, P_Sum: 0.0, Dual:1.1435316500755472, D_Sum: 0.0, Surplus: -77.97492327381737, DEC:0, Terminate:0.0
+SMPC took 3.736121892929077 seconds or 0.06226869821548462 minutes
+It. 2: OF Values: -6.4493934, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It2, Primal: 0.713014621360283, P_Sum: 0.0, Dual:0.5528188114999791, D_Sum: 1, Surplus: -96.55309397049618, DEC:0, Terminate:0.0
+SMPC took 3.825374126434326 seconds or 0.0637562354405721 minutes
+It. 3: OF Values: -54.31354639, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It3, Primal: 0.24859426623471198, P_Sum: 1, Dual:0.3758114589186248, D_Sum: 2, Surplus: -547.5614661200527, DEC:0, Terminate:0.0
+SMPC took 3.783480644226074 seconds or 0.06305801073710124 minutes
+It. 4: OF Values: -93.28506516, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It4, Primal: 0.15773148984383834, P_Sum: 0.0, Dual:0.31922566447814554, D_Sum: 2, Surplus: -914.8768848293689, DEC:0, Terminate:0.0
+SMPC took 3.701935291290283 seconds or 0.06169892152150472 minutes
+It. 5: OF Values: -107.62267296, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It5, Primal: 0.1573234706325508, P_Sum: 0.0, Dual:0.2566920627026392, D_Sum: 0.0, Surplus: -1048.2635601259467, DEC:0, Terminate:0.0
+SMPC took 3.8422465324401855 seconds or 0.06403744220733643 minutes
+It. 6: OF Values: -101.97054198, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It6, Primal: 0.1692235416697524, P_Sum: 0.0, Dual:0.1809187181693768, D_Sum: 0.0, Surplus: -992.0284186080128, DEC:0, Terminate:0.0
+SMPC took 3.893251419067383 seconds or 0.06488752365112305 minutes
+It. 7: OF Values: -85.08305267, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It7, Primal: 0.1672629695431565, P_Sum: 0.0, Dual:0.1044092724800588, D_Sum: 0.0, Surplus: -829.1592089479124, DEC:0, Terminate:0.0
+SMPC took 3.8346168994903564 seconds or 0.06391028165817261 minutes
+It. 8: OF Values: -63.58903532, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It8, Primal: 0.14554124953952968, P_Sum: 0.0, Dual:0.084072454447162, D_Sum: 1, Surplus: -622.6102970745568, DEC:0, Terminate:0.0
+SMPC took 3.8351521492004395 seconds or 0.06391920248667399 minutes
+It. 9: OF Values: -41.29998002, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It9, Primal: 0.10933803005717829, P_Sum: 0.0, Dual:0.1333051801130604, D_Sum: 0.0, Surplus: -408.5052729300714, DEC:0, Terminate:0.0
+SMPC took 3.7815563678741455 seconds or 0.0630259394645691 minutes
+It. 10: OF Values: -20.19897628, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It10, Primal: 0.07065929192661366, P_Sum: 0.0, Dual:0.1573095075382152, D_Sum: 0.0, Surplus: -205.9857495332662, DEC:0, Terminate:0.0
+SMPC took 3.875351905822754 seconds or 0.06458919843037923 minutes
+It. 11: OF Values: -0.74875113, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It11, Primal: 0.040375938117351115, P_Sum: 0.0, Dual:0.15882728939468677, D_Sum: 0.0, Surplus: -34.334246249779355, DEC:0, Terminate:0.0
+SMPC took 3.8451130390167236 seconds or 0.0640852173169454 minutes
+It. 12: OF Values: 19.02161821, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It12, Primal: 0.039991135493485194, P_Sum: 1, Dual:0.1310887595071448, D_Sum: 0.0, Surplus: 114.60974427153991, DEC:0, Terminate:0.0
+SMPC took 3.8929295539855957 seconds or 0.06488215923309326 minutes
+It. 13: OF Values: 36.40655644, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It13, Primal: 0.07559023902255961, P_Sum: 1, Dual:0.08820364364962804, D_Sum: 0.0, Surplus: 240.1150166227954, DEC:0, Terminate:0.0
+SMPC took 3.8557207584381104 seconds or 0.06426201264063518 minutes
+It. 14: OF Values: 50.38672968, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It14, Primal: 0.111752755128798, P_Sum: 0.0, Dual:0.04959201288652319, D_Sum: 0.0, Surplus: 340.5893829275298, DEC:0, Terminate:0.0
+SMPC took 3.8451123237609863 seconds or 0.06408520539601643 minutes
+It. 15: OF Values: 61.46854624, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It15, Primal: 0.13632071229822917, P_Sum: 1, Dual:0.021167233615974404, D_Sum: 0.0, Surplus: 420.4972429912688, DEC:0, Terminate:0.0
+SMPC took 3.855739116668701 seconds or 0.06426231861114502 minutes
+It. 16: OF Values: 70.3063241, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It16, Primal: 0.14454945259588242, P_Sum: 0.0, Dual:0.015118888220539606, D_Sum: 0.0, Surplus: 484.41565708576024, DEC:0, Terminate:0.0
+SMPC took 3.834338426589966 seconds or 0.0639056404431661 minutes
+It. 17: OF Values: 77.42191034, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It17, Primal: 0.1366886725061476, P_Sum: 0.0, Dual:0.01247473229085119, D_Sum: 0.0, Surplus: 536.0614352749154, DEC:0, Terminate:0.0
+SMPC took 3.8985776901245117 seconds or 0.06497629483540852 minutes
+It. 18: OF Values: 83.22458333, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It18, Primal: 0.11667052469311245, P_Sum: 1, Dual:0.017031232205875994, D_Sum: 1, Surplus: 578.3085609126446, DEC:0, Terminate:0.0
+SMPC took 3.8453197479248047 seconds or 0.0640886624654134 minutes
+It. 19: OF Values: 87.99974755, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It19, Primal: 0.09024619373120915, P_Sum: 1, Dual:0.030657100412427602, D_Sum: 3, Surplus: 613.2416672128484, DEC:0, Terminate:0.0
+SMPC took 3.8272342681884766 seconds or 0.06378723780314127 minutes
+It. 20: OF Values: 91.95119045, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It20, Primal: 0.06311558123186203, P_Sum: 1, Dual:0.042562876601518806, D_Sum: 3, Surplus: 642.2737696980141, DEC:0, Terminate:0.0
+SMPC took 3.865780830383301 seconds or 0.06442968050638835 minutes
+It. 21: OF Values: 95.18574179, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It21, Primal: 0.039583098117947246, P_Sum: 2, Dual:0.05274446567356239, D_Sum: 3, Surplus: 666.3916273847312, DEC:0, Terminate:0.0
+SMPC took 3.7154154777526855 seconds or 0.06192359129587809 minutes
+It. 22: OF Values: 97.71666078, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It22, Primal: 0.02865582346583038, P_Sum: 2, Dual:0.057366398461841606, D_Sum: 3, Surplus: 685.0016675757499, DEC:0, Terminate:0.0
+SMPC took 3.9235475063323975 seconds or 0.06539245843887329 minutes
+It. 23: OF Values: 99.52391193, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It23, Primal: 0.026202151176384456, P_Sum: 1, Dual:0.05634236029996279, D_Sum: 3, Surplus: 698.9105885291339, DEC:0, Terminate:0.0
+SMPC took 3.99080753326416 seconds or 0.06651345888773601 minutes
+It. 24: OF Values: 100.50286658, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It24, Primal: 0.020924974909454438, P_Sum: 1, Dual:0.0513958704973584, D_Sum: 3, Surplus: 706.7660446771554, DEC:0, Terminate:0.0
+SMPC took 3.8450405597686768 seconds or 0.06408400932947794 minutes
+It. 25: OF Values: 100.55743836, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It25, Primal: 0.01407618991721559, P_Sum: 3, Dual:0.047634820350172816, D_Sum: 3, Surplus: 708.0333618524827, DEC:0, Terminate:0.0
+SMPC took 4.068362712860107 seconds or 0.06780604521433513 minutes
+It. 26: OF Values: 99.61172352, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It26, Primal: 0.008139332353446806, P_Sum: 3, Dual:0.045773064399435216, D_Sum: 4, Surplus: 702.1951547788682, DEC:0, Terminate:0.0
+SMPC took 3.988457679748535 seconds or 0.06647429466247559 minutes
+It. 27: OF Values: 97.64433737, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It27, Primal: 0.0126795609241488, P_Sum: 3, Dual:0.043911912125052396, D_Sum: 5, Surplus: 689.1253669262416, DEC:0, Terminate:0.0
+SMPC took 3.9276838302612305 seconds or 0.06546139717102051 minutes
+It. 28: OF Values: 94.70148052, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It28, Primal: 0.018030132109049208, P_Sum: 1, Dual:0.03942897084282927, D_Sum: 6, Surplus: 669.1627065697235, DEC:0, Terminate:0.0
+SMPC took 3.9476990699768066 seconds or 0.06579498449961345 minutes
+It. 29: OF Values: 90.89218849, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It29, Primal: 0.02343559518792322, P_Sum: 1, Dual:0.032973380920350744, D_Sum: 4, Surplus: 643.0797895380532, DEC:0, Terminate:0.0
+SMPC took 3.8874948024749756 seconds or 0.06479158004124959 minutes
+It. 30: OF Values: 86.37417031, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It30, Primal: 0.028381940306908784, P_Sum: 3, Dual:0.025389421376854394, D_Sum: 3, Surplus: 611.9712971564109, DEC:0, Terminate:0.0
+SMPC took 3.9445629119873047 seconds or 0.06574271519978842 minutes
+It. 31: OF Values: 81.32193458, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It31, Primal: 0.032528950815619205, P_Sum: 1, Dual:0.019070412719809214, D_Sum: 3, Surplus: 577.0944349409974, DEC:0, Terminate:0.0
+SMPC took 3.936485767364502 seconds or 0.0656080961227417 minutes
+It. 32: OF Values: 75.91490922, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It32, Primal: 0.03565204030471958, P_Sum: 1, Dual:0.013277716446276401, D_Sum: 2, Surplus: 539.6403649517588, DEC:0, Terminate:0.0
+SMPC took 3.905616521835327 seconds or 0.06509360869725546 minutes
+It. 33: OF Values: 70.30085789, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It33, Primal: 0.03760319999154599, P_Sum: 1, Dual:0.007795483553017186, D_Sum: 2, Surplus: 500.7280838773553, DEC:0, Terminate:0.0
+SMPC took 4.120617628097534 seconds or 0.06867696046829223 minutes
+It. 34: OF Values: 64.61435316, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It34, Primal: 0.04135669265610279, P_Sum: 1, Dual:0.006633941854927198, D_Sum: 2, Surplus: 461.25613485411543, DEC:0, Terminate:0.0
+SMPC took 3.945096492767334 seconds or 0.0657516082127889 minutes
+It. 35: OF Values: 58.94226376, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It35, Primal: 0.0431261878652904, P_Sum: 1, Dual:0.005852497029702394, D_Sum: 6, Surplus: 421.9028443739171, DEC:0, Terminate:0.0
+SMPC took 3.9068760871887207 seconds or 0.06511460145314535 minutes
+It. 36: OF Values: 53.36661396, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It36, Primal: 0.04122869449618561, P_Sum: 1, Dual:0.004679068533002028, D_Sum: 10, Surplus: 383.19107889990437, DEC:0, Terminate:0.0
+SMPC took 3.9568605422973633 seconds or 0.06594767570495605 minutes
+It. 37: OF Values: 48.11804853, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It37, Primal: 0.03612621369949594, P_Sum: 1, Dual:0.00369635706193958, D_Sum: 11, Surplus: 346.21156770305146, DEC:0, Terminate:0.0
+SMPC took 3.8960323333740234 seconds or 0.0649338722229004 minutes
+It. 38: OF Values: 42.95538845, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It38, Primal: 0.028994185082274818, P_Sum: 1, Dual:0.007824219376998025, D_Sum: 2, Surplus: 309.9504742727605, DEC:0, Terminate:0.0
+SMPC took 3.9158005714416504 seconds or 0.06526334285736084 minutes
+It. 39: OF Values: 38.05367713, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It39, Primal: 0.02437420330833279, P_Sum: 1, Dual:0.012645771342215596, D_Sum: 2, Surplus: 275.5119293281242, DEC:0, Terminate:0.0
+SMPC took 3.9476449489593506 seconds or 0.06579408248265585 minutes
+It. 40: OF Values: 33.43078885, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It40, Primal: 0.019356591531956423, P_Sum: 1, Dual:0.017477490746076407, D_Sum: 2, Surplus: 243.0337432607002, DEC:0, Terminate:0.0
+SMPC took 3.9606943130493164 seconds or 0.06601157188415527 minutes
+It. 41: OF Values: 29.30523224, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It41, Primal: 0.014298272093806397, P_Sum: 2, Dual:0.02169512653462922, D_Sum: 3, Surplus: 213.68512107722964, DEC:0, Terminate:0.0
+SMPC took 4.076801061630249 seconds or 0.06794668436050415 minutes
+It. 42: OF Values: 25.42661322, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It42, Primal: 0.009582839779073196, P_Sum: 3, Dual:0.024796285079771937, D_Sum: 3, Surplus: 185.676767543797, DEC:0, Terminate:0.0
+SMPC took 3.935354232788086 seconds or 0.06558923721313477 minutes
+It. 43: OF Values: 21.83572683, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It43, Primal: 0.005591116591232799, P_Sum: 3, Dual:0.026442307528319216, D_Sum: 4, Surplus: 159.78682275019773, DEC:0, Terminate:0.0
+SMPC took 3.957730531692505 seconds or 0.06596217552820842 minutes
+It. 44: OF Values: 18.427074, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It44, Primal: 0.004395265309464838, P_Sum: 6, Dual:0.026479710163148415, D_Sum: 4, Surplus: 134.9911177716359, DEC:0, Terminate:0.0
+SMPC took 3.9578518867492676 seconds or 0.0659641981124878 minutes
+It. 45: OF Values: 15.19297512, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It45, Primal: 0.008441369303150786, P_Sum: 6, Dual:0.02494443127124926, D_Sum: 4, Surplus: 111.18343711312187, DEC:0, Terminate:0.0
+SMPC took 4.007058620452881 seconds or 0.06678431034088135 minutes
+It. 46: OF Values: 11.9489975, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It46, Primal: 0.013776044457643995, P_Sum: 8, Dual:0.02204828341972151, D_Sum: 4, Surplus: 86.80659603769894, DEC:0, Terminate:0.0
+SMPC took 3.856879949569702 seconds or 0.06428133249282837 minutes
+It. 47: OF Values: 8.37804112, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It47, Primal: 0.019487048609390396, P_Sum: 9, Dual:0.018150666439031626, D_Sum: 6, Surplus: 60.03462704824003, DEC:0, Terminate:0.0
+SMPC took 3.9345791339874268 seconds or 0.06557631889979045 minutes
+It. 48: OF Values: 4.41962735, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It48, Primal: 0.024729631772460337, P_Sum: 8, Dual:0.01371619044629801, D_Sum: 6, Surplus: 30.27877636917719, DEC:0, Terminate:0.0
+SMPC took 3.877635955810547 seconds or 0.06462726593017579 minutes
+It. 49: OF Values: 0.16168875, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It49, Primal: 0.02884437031775326, P_Sum: 6, Dual:0.011039954067587204, D_Sum: 7, Surplus: -2.35256525940564, DEC:0, Terminate:0.0
+SMPC took 3.9357750415802 seconds or 0.06559625069300333 minutes
+It. 50: OF Values: -4.54062734, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It50, Primal: 0.03108905028402838, P_Sum: 6, Dual:0.009148226436657199, D_Sum: 7, Surplus: -39.54131457410675, DEC:0, Terminate:0.0
+SMPC took 3.94655179977417 seconds or 0.0657758633295695 minutes
+It. 51: OF Values: -9.65357348, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It51, Primal: 0.03125709617934763, P_Sum: 5, Dual:0.007354399751501202, D_Sum: 8, Surplus: -81.91674736678097, DEC:0, Terminate:0.0
+SMPC took 3.9474096298217773 seconds or 0.06579016049702963 minutes
+It. 52: OF Values: -15.47210703, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It52, Primal: 0.030072273538176042, P_Sum: 5, Dual:0.005930571261697997, D_Sum: 8, Surplus: -132.18823908781417, DEC:0, Terminate:0.0
+SMPC took 3.94697904586792 seconds or 0.06578298409779866 minutes
+It. 53: OF Values: -22.0012751, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It53, Primal: 0.027843121609454017, P_Sum: 4, Dual:0.005207459742400802, D_Sum: 9, Surplus: -189.68303058054505, DEC:0, Terminate:0.0
+SMPC took 3.965712785720825 seconds or 0.06609521309534709 minutes
+It. 54: OF Values: -29.30100022, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It54, Primal: 0.024704057951429943, P_Sum: 3, Dual:0.0050615721899376, D_Sum: 10, Surplus: -254.16019729796676, DEC:0, Terminate:0.0
+SMPC took 3.916057586669922 seconds or 0.0652676264444987 minutes
+It. 55: OF Values: -37.13944951, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It55, Primal: 0.020883729047874833, P_Sum: 2, Dual:0.005659006514234794, D_Sum: 10, Surplus: -323.85739227769125, DEC:0, Terminate:0.0
+SMPC took 4.040920257568359 seconds or 0.06734867095947265 minutes
+It. 56: OF Values: -45.22971195, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It56, Primal: 0.016738132379095213, P_Sum: 3, Dual:0.0069735292700504065, D_Sum: 8, Surplus: -397.752018801773, DEC:0, Terminate:0.0
+SMPC took 4.056358337402344 seconds or 0.06760597229003906 minutes
+It. 57: OF Values: -53.7852973, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It57, Primal: 0.012571037148617677, P_Sum: 3, Dual:0.008671739336453196, D_Sum: 7, Surplus: -477.46130160233395, DEC:0, Terminate:0.0
+SMPC took 4.015653371810913 seconds or 0.06692755619684855 minutes
+It. 58: OF Values: -62.4914657, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It58, Primal: 0.00871151290861722, P_Sum: 3, Dual:0.010607292050726861, D_Sum: 7, Surplus: -558.7957132434293, DEC:0, Terminate:0.0
+SMPC took 3.958590507507324 seconds or 0.0659765084584554 minutes
+It. 59: OF Values: -71.31323352, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It59, Primal: 0.005393063096457197, P_Sum: 2, Dual:0.01274715885549877, D_Sum: 7, Surplus: -641.9588114380197, DEC:0, Terminate:0.0
+SMPC took 3.924672842025757 seconds or 0.06541121403376261 minutes
+It. 60: OF Values: -80.08083291, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It60, Primal: 0.003996101286284417, P_Sum: 2, Dual:0.014117197807851993, D_Sum: 6, Surplus: -724.6956208210921, DEC:0, Terminate:0.0
+SMPC took 3.936955690383911 seconds or 0.06561592817306519 minutes
+It. 61: OF Values: -88.65634457, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It61, Primal: 0.004122944899015999, P_Sum: 3, Dual:0.01454593575444311, D_Sum: 5, Surplus: -805.6119815838239, DEC:0, Terminate:0.0
+SMPC took 3.9594480991363525 seconds or 0.06599080165227254 minutes
+It. 62: OF Values: -96.8190958, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It62, Primal: 0.004318102842737602, P_Sum: 5, Dual:0.014009149963266099, D_Sum: 2, Surplus: -883.0159945529707, DEC:0, Terminate:0.0
+SMPC took 3.9340951442718506 seconds or 0.06556825240453085 minutes
+It. 63: OF Values: -103.88217794, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It63, Primal: 0.0045622879104056, P_Sum: 7, Dual:0.01262404869344919, D_Sum: 2, Surplus: -952.8589040326649, DEC:0, Terminate:0.0
+SMPC took 4.039113521575928 seconds or 0.06731855869293213 minutes
+It. 64: OF Values: -110.35792886, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It64, Primal: 0.004835453656708, P_Sum: 7, Dual:0.010612512583702008, D_Sum: 2, Surplus: -1016.9227418765443, DEC:0, Terminate:0.0
+SMPC took 3.9681389331817627 seconds or 0.06613564888636271 minutes
+It. 65: OF Values: -116.03606997, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It65, Primal: 0.005117275426798799, P_Sum: 2, Dual:0.0082552328319284, D_Sum: 3, Surplus: -1073.1698526267671, DEC:0, Terminate:0.0
+SMPC took 4.015788793563843 seconds or 0.06692981322606405 minutes
+It. 66: OF Values: -120.65436671, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It66, Primal: 0.006326638008553589, P_Sum: 1, Dual:0.0058459904299403955, D_Sum: 4, Surplus: -1119.8765268427198, DEC:0, Terminate:0.0
+SMPC took 3.9883134365081787 seconds or 0.06647189060846964 minutes
+It. 67: OF Values: -124.2024011, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It67, Primal: 0.00822094592880361, P_Sum: 1, Dual:0.0038742590040195812, D_Sum: 7, Surplus: -1156.6768926069528, DEC:0, Terminate:0.0
+SMPC took 3.92852520942688 seconds or 0.06547542015711466 minutes
+It. 68: OF Values: -126.7265853, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It68, Primal: 0.009681884359092407, P_Sum: 1, Dual:0.0025703008670728087, D_Sum: 8, Surplus: -1183.212368303644, DEC:0, Terminate:0.0
+SMPC took 4.007538080215454 seconds or 0.06679230133692424 minutes
+It. 69: OF Values: -128.31306911, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It69, Primal: 0.011086427278376398, P_Sum: 1, Dual:0.001462463726292801, D_Sum: 10, Surplus: -1200.5126686557257, DEC:0, Terminate:0.0
+SMPC took 3.8887722492218018 seconds or 0.06481287082036337 minutes
+It. 70: OF Values: -129.23266336, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It70, Primal: 0.012313838217698027, P_Sum: 1, Dual:0.0008416554047187951, D_Sum: 16, Surplus: -1210.1953252987125, DEC:0, Terminate:0.0
+SMPC took 3.9557600021362305 seconds or 0.06592933336893718 minutes
+It. 71: OF Values: -129.46116661, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It71, Primal: 0.0128263827877924, P_Sum: 1, Dual:0.0006759133321655832, D_Sum: 16, Surplus: -1212.04107460395, DEC:0, Terminate:0.0
+SMPC took 3.9573922157287598 seconds or 0.06595653692881266 minutes
+It. 72: OF Values: -128.92183526, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It72, Primal: 0.012545656579349617, P_Sum: 1, Dual:0.0006871092718639995, D_Sum: 16, Surplus: -1205.21520934065, DEC:0, Terminate:0.0
+SMPC took 3.9677510261535645 seconds or 0.06612918376922608 minutes
+It. 73: OF Values: -126.98835114, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It73, Primal: 0.01143454920846321, P_Sum: 1, Dual:0.0015624993535255998, D_Sum: 16, Surplus: -1185.189531487637, DEC:0, Terminate:0.0
+SMPC took 3.866705894470215 seconds or 0.06444509824117024 minutes
+It. 74: OF Values: -123.4754356, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It74, Primal: 0.009649336109249208, P_Sum: 1, Dual:0.002808877563936396, D_Sum: 14, Surplus: -1151.146380413055, DEC:0, Terminate:0.0
+SMPC took 3.9280731678009033 seconds or 0.06546788613001506 minutes
+It. 75: OF Values: -119.02789388, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It75, Primal: 0.007476813224602812, P_Sum: 1, Dual:0.004329644291917599, D_Sum: 9, Surplus: -1107.5134998120282, DEC:0, Terminate:0.0
+SMPC took 3.9839086532592773 seconds or 0.0663984775543213 minutes
+It. 76: OF Values: -113.52937719, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It76, Primal: 0.005234639546347215, P_Sum: 1, Dual:0.005958904444961205, D_Sum: 9, Surplus: -1053.9897097715832, DEC:0, Terminate:0.0
+SMPC took 3.921175479888916 seconds or 0.06535292466481527 minutes
+It. 77: OF Values: -107.0624882, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It77, Primal: 0.003317925188157192, P_Sum: 1, Dual:0.007511580635474403, D_Sum: 7, Surplus: -991.3149920597737, DEC:0, Terminate:0.0
+SMPC took 3.9439475536346436 seconds or 0.06573245922724406 minutes
+It. 78: OF Values: -99.73652999, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It78, Primal: 0.002671160151882007, P_Sum: 2, Dual:0.008880848112986797, D_Sum: 7, Surplus: -920.5073721492852, DEC:0, Terminate:0.0
+SMPC took 3.868443489074707 seconds or 0.06447405815124511 minutes
+It. 79: OF Values: -91.6659718, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It79, Primal: 0.0022151390560696017, P_Sum: 6, Dual:0.0100621452150888, D_Sum: 7, Surplus: -842.6676263589782, DEC:0, Terminate:0.0
+SMPC took 3.915377616882324 seconds or 0.0652562936147054 minutes
+It. 80: OF Values: -82.97102519, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It80, Primal: 0.0018438172824764042, P_Sum: 9, Dual:0.010910818644919607, D_Sum: 7, Surplus: -758.9264890861905, DEC:0, Terminate:0.0
+SMPC took 3.9055144786834717 seconds or 0.06509190797805786 minutes
+It. 81: OF Values: -73.77123878, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It81, Primal: 0.0015314241233196013, P_Sum: 10, Dual:0.011390476336043995, D_Sum: 7, Surplus: -670.4121587370732, DEC:0, Terminate:0.0
+SMPC took 3.915637493133545 seconds or 0.06526062488555909 minutes
+It. 82: OF Values: -64.1850058, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It82, Primal: 0.0014524602252820068, P_Sum: 12, Dual:0.011465374989870802, D_Sum: 7, Surplus: -578.9544202562086, DEC:0, Terminate:0.0
+SMPC took 3.938277244567871 seconds or 0.06563795407613118 minutes
+It. 83: OF Values: -54.18280299, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It83, Primal: 0.0024740704058528033, P_Sum: 10, Dual:0.011236222309000404, D_Sum: 7, Surplus: -484.3548632927898, DEC:0, Terminate:0.0
+SMPC took 3.9201419353485107 seconds or 0.06533569892247518 minutes
+It. 84: OF Values: -44.07716647, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It84, Primal: 0.0037535210871308196, P_Sum: 10, Dual:0.010686692866708402, D_Sum: 7, Surplus: -389.4216377310032, DEC:0, Terminate:0.0
+SMPC took 3.9032511711120605 seconds or 0.06505418618520101 minutes
+It. 85: OF Values: -33.69090521, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It85, Primal: 0.004995047851644763, P_Sum: 9, Dual:0.009877442983751593, D_Sum: 7, Surplus: -295.4735720576055, DEC:0, Terminate:0.0
+SMPC took 3.966700315475464 seconds or 0.06611167192459107 minutes
+It. 86: OF Values: -23.08018247, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It86, Primal: 0.0060240540780728, P_Sum: 8, Dual:0.009064680085080403, D_Sum: 8, Surplus: -200.76200074036893, DEC:0, Terminate:0.0
+SMPC took 3.9975457191467285 seconds or 0.06662576198577881 minutes
+It. 87: OF Values: -12.734157, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It87, Primal: 0.006734737619309606, P_Sum: 7, Dual:0.008209080540362798, D_Sum: 11, Surplus: -109.11616817008539, DEC:0, Terminate:0.0
+SMPC took 3.997837543487549 seconds or 0.06663062572479247 minutes
+It. 88: OF Values: -2.73858237, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It88, Primal: 0.007052011176092388, P_Sum: 7, Dual:0.0072243793805596, D_Sum: 11, Surplus: -24.324398285277496, DEC:0, Terminate:0.0
+SMPC took 3.8663265705108643 seconds or 0.06443877617518107 minutes
+It. 89: OF Values: 7.69864529, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It89, Primal: 0.006941517129191606, P_Sum: 6, Dual:0.0064263968943732005, D_Sum: 11, Surplus: 57.493240822960686, DEC:0, Terminate:0.0
+SMPC took 3.9674463272094727 seconds or 0.0661241054534912 minutes
+It. 90: OF Values: 18.21992779, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It90, Primal: 0.00645244375670679, P_Sum: 6, Dual:0.0059868304977344, D_Sum: 11, Surplus: 137.45824952885613, DEC:0, Terminate:0.0
+SMPC took 3.9483227729797363 seconds or 0.06580537954966227 minutes
+It. 91: OF Values: 28.02589892, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It91, Primal: 0.005672021275009612, P_Sum: 7, Dual:0.005705390837421599, D_Sum: 11, Surplus: 211.09519565758058, DEC:0, Terminate:0.0
+SMPC took 3.786567211151123 seconds or 0.06310945351918539 minutes
+It. 92: OF Values: 37.20040253, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It92, Primal: 0.004679786211762363, P_Sum: 7, Dual:0.005529038136714005, D_Sum: 10, Surplus: 278.4439228073964, DEC:0, Terminate:0.0
+SMPC took 4.005481481552124 seconds or 0.0667580246925354 minutes
+It. 93: OF Values: 46.05511386, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It93, Primal: 0.0035838387153231824, P_Sum: 9, Dual:0.005530323904577196, D_Sum: 10, Surplus: 342.2792683837806, DEC:0, Terminate:0.0
+SMPC took 3.9660451412200928 seconds or 0.06610075235366822 minutes
+It. 94: OF Values: 53.97995919, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It94, Primal: 0.0025142685477612275, P_Sum: 9, Dual:0.005587603916500796, D_Sum: 7, Surplus: 399.59152235376916, DEC:0, Terminate:0.0
+SMPC took 3.9739017486572266 seconds or 0.06623169581095377 minutes
+It. 95: OF Values: 61.30059538, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It95, Primal: 0.0015632653158411847, P_Sum: 9, Dual:0.005896844696582815, D_Sum: 6, Surplus: 452.1302871125762, DEC:0, Terminate:0.0
+SMPC took 3.927393913269043 seconds or 0.06545656522115072 minutes
+It. 96: OF Values: 67.83958244, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It96, Primal: 0.0008520527301756015, P_Sum: 13, Dual:0.006053222841254793, D_Sum: 6, Surplus: 499.29305745896323, DEC:0, Terminate:0.0
+SMPC took 3.9468483924865723 seconds or 0.06578080654144287 minutes
+It. 97: OF Values: 73.66720453, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It97, Primal: 0.0009375022809116, P_Sum: 16, Dual:0.006015974385055994, D_Sum: 5, Surplus: 541.4602213023956, DEC:0, Terminate:0.0
+SMPC took 3.889798164367676 seconds or 0.06482996940612792 minutes
+It. 98: OF Values: 78.83677944, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It98, Primal: 0.0011186202965039996, P_Sum: 16, Dual:0.005765853909407599, D_Sum: 5, Surplus: 579.0052962237737, DEC:0, Terminate:0.0
+SMPC took 3.935364246368408 seconds or 0.06558940410614014 minutes
+It. 99: OF Values: 83.41027422, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It99, Primal: 0.0013777697153480005, P_Sum: 15, Dual:0.005309435538425198, D_Sum: 5, Surplus: 612.3465269351823, DEC:0, Terminate:0.0
+SMPC took 3.8567020893096924 seconds or 0.06427836815516154 minutes
+It. 100: OF Values: 87.45072042, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It100, Primal: 0.0017041834626440005, P_Sum: 12, Dual:0.004678568938213203, D_Sum: 5, Surplus: 641.925924316643, DEC:0, Terminate:0.0
+SMPC took 3.895591974258423 seconds or 0.06492653290430704 minutes
+It. 101: OF Values: 91.02246044, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It101, Primal: 0.0020785273923616004, P_Sum: 12, Dual:0.0039243602021816005, D_Sum: 5, Surplus: 668.1910665833936, DEC:0, Terminate:0.0
+SMPC took 3.895474672317505 seconds or 0.06492457787195842 minutes
+It. 102: OF Values: 94.18670935, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It102, Primal: 0.002475418912286799, P_Sum: 7, Dual:0.003111894913451999, D_Sum: 5, Surplus: 691.5647427714289, DEC:0, Terminate:0.0
+SMPC took 3.7995917797088623 seconds or 0.06332652966181437 minutes
+It. 103: OF Values: 96.99877274, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It103, Primal: 0.0029360395176364004, P_Sum: 5, Dual:0.0023122645399407996, D_Sum: 8, Surplus: 712.4277715318176, DEC:0, Terminate:0.0
+SMPC took 3.8855807781219482 seconds or 0.0647596796353658 minutes
+It. 104: OF Values: 99.50574988, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It104, Primal: 0.003524346620306805, P_Sum: 4, Dual:0.001594136151485598, D_Sum: 12, Surplus: 731.1013191879046, DEC:0, Terminate:0.0
+SMPC took 4.026347637176514 seconds or 0.06710579395294189 minutes
+It. 105: OF Values: 101.69263994, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It105, Primal: 0.003924451370748002, P_Sum: 2, Dual:0.001016410891746796, D_Sum: 15, Surplus: 747.0540067456201, DEC:0, Terminate:0.0
+SMPC took 3.9452648162841797 seconds or 0.06575441360473633 minutes
+It. 106: OF Values: 103.63792785, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It106, Primal: 0.004091172623086402, P_Sum: 2, Dual:0.0007790086004359964, D_Sum: 16, Surplus: 761.2197196898054, DEC:0, Terminate:0.0
+SMPC took 4.008267402648926 seconds or 0.06680445671081543 minutes
+It. 107: OF Values: 105.36311296, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It107, Primal: 0.0040092341282492025, P_Sum: 2, Dual:0.0006168602851396101, D_Sum: 16, Surplus: 773.8170970737905, DEC:0, Terminate:0.0
+SMPC took 4.138408422470093 seconds or 0.06897347370783488 minutes
+It. 108: OF Values: 106.86787964, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It108, Primal: 0.003960674772134403, P_Sum: 2, Dual:0.0004913586691171972, D_Sum: 16, Surplus: 784.8407815488903, DEC:0, Terminate:0.0
+SMPC took 3.9779670238494873 seconds or 0.06629945039749145 minutes
+It. 109: OF Values: 108.15527907, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It109, Primal: 0.003941902984659604, P_Sum: 1, Dual:0.0006535482681524006, D_Sum: 16, Surplus: 794.3398184308573, DEC:0, Terminate:0.0
+SMPC took 3.908412456512451 seconds or 0.06514020760854085 minutes
+It. 110: OF Values: 109.21243764, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It110, Primal: 0.003855158134672798, P_Sum: 1, Dual:0.0010102412556188011, D_Sum: 16, Surplus: 802.2061346515404, DEC:0, Terminate:0.0
+SMPC took 3.896345615386963 seconds or 0.06493909358978271 minutes
+It. 111: OF Values: 110.00801543, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It111, Primal: 0.003715682404167201, P_Sum: 1, Dual:0.0014687460653067988, D_Sum: 16, Surplus: 808.2346325967484, DEC:0, Terminate:0.0
+SMPC took 3.9855895042419434 seconds or 0.06642649173736573 minutes
+It. 112: OF Values: 110.50022069, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It112, Primal: 0.0035407365735415962, P_Sum: 1, Dual:0.001971992015048001, D_Sum: 16, Surplus: 812.1172297193219, DEC:0, Terminate:0.0
+SMPC took 3.9455180168151855 seconds or 0.06575863361358643 minutes
+It. 113: OF Values: 110.63965891, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It113, Primal: 0.0033476209898691974, P_Sum: 3, Dual:0.0024611551111987993, D_Sum: 12, Surplus: 813.5202843422434, DEC:0, Terminate:0.0
+SMPC took 4.050650119781494 seconds or 0.06751083532969157 minutes
+It. 114: OF Values: 110.37881361, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It114, Primal: 0.0031519258193307967, P_Sum: 5, Dual:0.0028854692357439993, D_Sum: 9, Surplus: 812.1216609735611, DEC:0, Terminate:0.0
+SMPC took 4.025501728057861 seconds or 0.06709169546763102 minutes
+It. 115: OF Values: 109.67162276, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It115, Primal: 0.0029662176100168003, P_Sum: 7, Dual:0.003206538877318399, D_Sum: 9, Surplus: 807.6081297039618, DEC:0, Terminate:0.0
+SMPC took 3.8971571922302246 seconds or 0.06495261987050374 minutes
+It. 116: OF Values: 108.47418655, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It116, Primal: 0.0027989238740064, P_Sum: 8, Dual:0.0034014163426320005, D_Sum: 9, Surplus: 799.660774834975, DEC:0, Terminate:0.0
+SMPC took 4.040431976318359 seconds or 0.06734053293863933 minutes
+It. 117: OF Values: 106.74634134, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It117, Primal: 0.0026538809269556025, P_Sum: 9, Dual:0.0034635795220023993, D_Sum: 9, Surplus: 788.0190838452046, DEC:0, Terminate:0.0
+SMPC took 3.955077886581421 seconds or 0.06591796477635702 minutes
+It. 118: OF Values: 104.4518517, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It118, Primal: 0.0025306372843071985, P_Sum: 9, Dual:0.003402888550778402, D_Sum: 9, Surplus: 772.4090243111959, DEC:0, Terminate:0.0
+SMPC took 3.9742302894592285 seconds or 0.06623717149098714 minutes
+It. 119: OF Values: 101.52948615, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It119, Primal: 0.0024252309242452, P_Sum: 9, Dual:0.0032412092033175994, D_Sum: 9, Surplus: 752.2046533042459, DEC:0, Terminate:0.0
+SMPC took 3.9465115070343018 seconds or 0.06577519178390503 minutes
+It. 120: OF Values: 97.96361737, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It120, Primal: 0.0023313678930792, P_Sum: 7, Dual:0.003010756009491999, D_Sum: 12, Surplus: 727.4395417480255, DEC:0, Terminate:0.0
+SMPC took 3.926159143447876 seconds or 0.06543598572413127 minutes
+It. 121: OF Values: 93.74964474, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It121, Primal: 0.002485782564223607, P_Sum: 7, Dual:0.002750174605854801, D_Sum: 12, Surplus: 698.075601316304, DEC:0, Terminate:0.0
+SMPC took 4.00620698928833 seconds or 0.06677011648813884 minutes
+It. 122: OF Values: 88.88274037, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It122, Primal: 0.0030789119683339965, P_Sum: 5, Dual:0.0025214555288348, D_Sum: 12, Surplus: 664.0593069806589, DEC:0, Terminate:0.0
+SMPC took 3.907482147216797 seconds or 0.06512470245361328 minutes
+It. 123: OF Values: 83.37396107, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It123, Primal: 0.0035719986565112037, P_Sum: 5, Dual:0.0023756518849087993, D_Sum: 12, Surplus: 625.4591628087514, DEC:0, Terminate:0.0
+SMPC took 3.934507369995117 seconds or 0.06557512283325195 minutes
+It. 124: OF Values: 77.28568138, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It124, Primal: 0.003918064184325988, P_Sum: 5, Dual:0.0023613565182291994, D_Sum: 12, Surplus: 582.5886571548564, DEC:0, Terminate:0.0
+SMPC took 3.9234964847564697 seconds or 0.0653916080792745 minutes
+It. 125: OF Values: 70.7713563, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It125, Primal: 0.004081822403655988, P_Sum: 6, Dual:0.0025678911746140004, D_Sum: 13, Surplus: 535.9495393750384, DEC:0, Terminate:0.0
+SMPC took 3.9482102394104004 seconds or 0.06580350399017335 minutes
+It. 126: OF Values: 63.62648025, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It126, Primal: 0.004046351680065594, P_Sum: 8, Dual:0.0028558274163527995, D_Sum: 13, Surplus: 484.99435842917194, DEC:0, Terminate:0.0
+SMPC took 4.038997650146484 seconds or 0.06731662750244141 minutes
+It. 127: OF Values: 56.04077329, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It127, Primal: 0.0038081209500368017, P_Sum: 8, Dual:0.003168024330651605, D_Sum: 12, Surplus: 430.76478750393807, DEC:0, Terminate:0.0
+SMPC took 3.867982864379883 seconds or 0.06446638107299804 minutes
+It. 128: OF Values: 48.0690554, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It128, Primal: 0.0033912547636120063, P_Sum: 9, Dual:0.0034257804955759984, D_Sum: 12, Surplus: 373.68903759525733, DEC:0, Terminate:0.0
+SMPC took 3.9106249809265137 seconds or 0.0651770830154419 minutes
+It. 129: OF Values: 40.07695238, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It129, Primal: 0.002855404249886802, P_Sum: 9, Dual:0.003643359315923198, D_Sum: 12, Surplus: 315.51098223502595, DEC:0, Terminate:0.0
+SMPC took 4.001138925552368 seconds or 0.06668564875920614 minutes
+It. 130: OF Values: 31.92313309, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It130, Primal: 0.002282185935129598, P_Sum: 9, Dual:0.0038539419718619985, D_Sum: 12, Surplus: 255.42171023019597, DEC:0, Terminate:0.0
+SMPC took 3.8971145153045654 seconds or 0.06495190858840942 minutes
+It. 131: OF Values: 23.75384839, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It131, Primal: 0.0017338150177071997, P_Sum: 10, Dual:0.004031166965790001, D_Sum: 11, Surplus: 194.38129077079108, DEC:0, Terminate:0.0
+SMPC took 3.9465267658233643 seconds or 0.06577544609705607 minutes
+It. 132: OF Values: 15.68198459, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It132, Primal: 0.0013581277446828022, P_Sum: 12, Dual:0.0041335765274776014, D_Sum: 11, Surplus: 133.23820943462002, DEC:0, Terminate:0.0
+SMPC took 3.9683499336242676 seconds or 0.06613916556040446 minutes
+It. 133: OF Values: 7.60584735, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It133, Primal: 0.0014987466946172043, P_Sum: 13, Dual:0.004153520183720801, D_Sum: 11, Surplus: 71.9479167714093, DEC:0, Terminate:0.0
+SMPC took 3.9488208293914795 seconds or 0.06581368048985799 minutes
+It. 134: OF Values: -0.02730392, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It134, Primal: 0.0017417284117792046, P_Sum: 14, Dual:0.004013354840071198, D_Sum: 11, Surplus: 13.25791963193593, DEC:0, Terminate:0.0
+SMPC took 3.8457179069519043 seconds or 0.06409529844919841 minutes
+It. 135: OF Values: -7.10985113, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It135, Primal: 0.002076546529227202, P_Sum: 12, Dual:0.0037390181938844, D_Sum: 11, Surplus: -42.903667373043554, DEC:0, Terminate:0.0
+SMPC took 3.98055362701416 seconds or 0.066342560450236 minutes
+It. 136: OF Values: -13.25667501, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It136, Primal: 0.0024858087520360046, P_Sum: 12, Dual:0.0032978216967368005, D_Sum: 11, Surplus: -93.6686759012574, DEC:0, Terminate:0.0
+SMPC took 3.875563144683838 seconds or 0.06459271907806396 minutes
+It. 137: OF Values: -19.04698891, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It137, Primal: 0.002919530978055599, P_Sum: 12, Dual:0.002916765147939999, D_Sum: 11, Surplus: -144.83111355359898, DEC:0, Terminate:0.0
+SMPC took 3.9058704376220703 seconds or 0.06509784062703451 minutes
+It. 138: OF Values: -24.38040002, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It138, Primal: 0.0033600225766412194, P_Sum: 12, Dual:0.0025265698464376016, D_Sum: 13, Surplus: -192.17716445199315, DEC:0, Terminate:0.0
+SMPC took 3.8546502590179443 seconds or 0.0642441709836324 minutes
+It. 139: OF Values: -29.23059187, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It139, Primal: 0.0037524661573552056, P_Sum: 12, Dual:0.0021093687548327986, D_Sum: 13, Surplus: -235.1520603333359, DEC:0, Terminate:0.0
+SMPC took 3.976095199584961 seconds or 0.06626825332641602 minutes
+It. 140: OF Values: -33.5733604, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It140, Primal: 0.0040495484077859994, P_Sum: 12, Dual:0.0016858186060723997, D_Sum: 13, Surplus: -273.5893411052107, DEC:0, Terminate:0.0
+SMPC took 3.9949004650115967 seconds or 0.06658167441685994 minutes
+It. 141: OF Values: -37.37288586, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It141, Primal: 0.004218161358779606, P_Sum: 12, Dual:0.0012811181643968008, D_Sum: 15, Surplus: -307.1826579554098, DEC:0, Terminate:0.0
+SMPC took 3.887920618057251 seconds or 0.06479867696762084 minutes
+It. 142: OF Values: -40.53320281, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It142, Primal: 0.0042395308741419915, P_Sum: 12, Dual:0.0009075140757467998, D_Sum: 16, Surplus: -335.007704015485, DEC:0, Terminate:0.0
+SMPC took 3.9081296920776367 seconds or 0.06513549486796061 minutes
+It. 143: OF Values: -43.1421362, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It143, Primal: 0.004107238080505187, P_Sum: 12, Dual:0.000817148951447999, D_Sum: 16, Surplus: -358.30170377553554, DEC:0, Terminate:0.0
+SMPC took 3.9899744987487793 seconds or 0.06649957497914633 minutes
+It. 144: OF Values: -45.17194351, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It144, Primal: 0.0038379813097943966, P_Sum: 12, Dual:0.0009938726043575868, D_Sum: 16, Surplus: -376.2569521190013, DEC:0, Terminate:0.0
+SMPC took 3.9652302265167236 seconds or 0.0660871704419454 minutes
+It. 145: OF Values: -46.60037289, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It145, Primal: 0.0034470267261992008, P_Sum: 12, Dual:0.001174866121058812, D_Sum: 16, Surplus: -388.68423502829614, DEC:0, Terminate:0.0
+SMPC took 4.077093601226807 seconds or 0.06795156002044678 minutes
+It. 146: OF Values: -47.49402932, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It146, Primal: 0.0029694857112608037, P_Sum: 12, Dual:0.0013522604822208024, D_Sum: 16, Surplus: -396.33568118467394, DEC:0, Terminate:0.0
+SMPC took 3.8676187992095947 seconds or 0.06446031332015992 minutes
+It. 147: OF Values: -47.89457722, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It147, Primal: 0.0024438722530559912, P_Sum: 12, Dual:0.001517882125227194, D_Sum: 16, Surplus: -399.5517756723674, DEC:0, Terminate:0.0
+SMPC took 3.9174070358276367 seconds or 0.06529011726379394 minutes
+It. 148: OF Values: -47.82694853, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It148, Primal: 0.001909992043774794, P_Sum: 12, Dual:0.0016653341469115989, D_Sum: 15, Surplus: -398.5361677369279, DEC:0, Terminate:0.0
+SMPC took 3.9265854358673096 seconds or 0.0654430905977885 minutes
+It. 149: OF Values: -47.33513705, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It149, Primal: 0.001405919271246407, P_Sum: 12, Dual:0.0017908736961772063, D_Sum: 14, Surplus: -393.8163543137299, DEC:0, Terminate:0.0
+SMPC took 3.9279215335845947 seconds or 0.06546535889307657 minutes
+It. 150: OF Values: -46.41375742, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It150, Primal: 0.0009623383831696057, P_Sum: 12, Dual:0.0018910652571887932, D_Sum: 13, Surplus: -385.20373519197113, DEC:0, Terminate:0.0
+SMPC took 3.876864433288574 seconds or 0.06461440722147624 minutes
+It. 151: OF Values: -45.12924616, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It151, Primal: 0.0007098975646072008, P_Sum: 16, Dual:0.001965500250969208, D_Sum: 12, Surplus: -373.3517776887759, DEC:0, Terminate:0.0
+SMPC took 3.935373067855835 seconds or 0.06558955113093058 minutes
+It. 152: OF Values: -43.54184865, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It152, Primal: 0.0005444354914252013, P_Sum: 16, Dual:0.002014627403430392, D_Sum: 10, Surplus: -358.92701136037425, DEC:0, Terminate:0.0
+SMPC took 3.9058470726013184 seconds or 0.06509745121002197 minutes
+It. 153: OF Values: -41.68497955, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It153, Primal: 0.0004683697089292002, P_Sum: 16, Dual:0.0020395554278048057, D_Sum: 10, Surplus: -342.3777305299191, DEC:0, Terminate:0.0
+SMPC took 3.9490954875946045 seconds or 0.06581825812657674 minutes
+It. 154: OF Values: -39.5606527, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It154, Primal: 0.00044001562700679965, P_Sum: 16, Dual:0.0020416314685363954, D_Sum: 9, Surplus: -323.41118705131225, DEC:0, Terminate:0.0
+SMPC took 3.8837835788726807 seconds or 0.06472972631454468 minutes
+It. 155: OF Values: -37.26493476, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It155, Primal: 0.0004180180699532002, P_Sum: 16, Dual:0.002022215694680817, D_Sum: 9, Surplus: -302.9671729536236, DEC:0, Terminate:0.0
+SMPC took 3.842590570449829 seconds or 0.06404317617416382 minutes
+It. 156: OF Values: -34.83530332, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It156, Primal: 0.0004909543516520012, P_Sum: 16, Dual:0.0019826508777983903, D_Sum: 9, Surplus: -281.36999897389956, DEC:0, Terminate:0.0
+SMPC took 3.8777530193328857 seconds or 0.06462921698888142 minutes
+It. 157: OF Values: -32.31543802, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It157, Primal: 0.0005521750361048062, P_Sum: 16, Dual:0.0019243418677059958, D_Sum: 9, Surplus: -258.9994230620113, DEC:0, Terminate:0.0
+SMPC took 3.8575446605682373 seconds or 0.06429241100947063 minutes
+It. 158: OF Values: -29.74885449, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It158, Primal: 0.0006806180504739948, P_Sum: 16, Dual:0.0018488997990915885, D_Sum: 10, Surplus: -236.22620066833093, DEC:0, Terminate:0.0
+SMPC took 3.8777570724487305 seconds or 0.06462928454081217 minutes
+It. 159: OF Values: -27.17537738, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It159, Primal: 0.0008766639206279931, P_Sum: 16, Dual:0.0017582627150676162, D_Sum: 10, Surplus: -213.39999167323157, DEC:0, Terminate:0.0
+SMPC took 3.917429208755493 seconds or 0.06529048681259156 minutes
+It. 160: OF Values: -24.63228484, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It160, Primal: 0.001058997271500006, P_Sum: 16, Dual:0.0016547832510476071, D_Sum: 11, Surplus: -190.8386672267969, DEC:0, Terminate:0.0
+SMPC took 3.855794906616211 seconds or 0.06426324844360351 minutes
+It. 161: OF Values: -22.15261297, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It161, Primal: 0.0012131932758408161, P_Sum: 15, Dual:0.0015412158736131999, D_Sum: 13, Surplus: -168.82584913741508, DEC:0, Terminate:0.0
+SMPC took 3.9967329502105713 seconds or 0.06661221583684286 minutes
+It. 162: OF Values: -19.78465268, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It162, Primal: 0.0013309851470215983, P_Sum: 15, Dual:0.0014206020367623856, D_Sum: 15, Surplus: -147.88893203932992, DEC:0, Terminate:0.0
+SMPC took 4.028625726699829 seconds or 0.06714376211166381 minutes
+It. 163: OF Values: -17.5548333, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It163, Primal: 0.0014108981584732099, P_Sum: 15, Dual:0.001348306787476809, D_Sum: 16, Surplus: -128.4731627588541, DEC:0, Terminate:0.0
+SMPC took 3.929457426071167 seconds or 0.06549095710118612 minutes
+It. 164: OF Values: -15.48204638, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It164, Primal: 0.0014534686224656165, P_Sum: 14, Dual:0.0013941617931652022, D_Sum: 16, Surplus: -110.57091178534733, DEC:0, Terminate:0.0
+SMPC took 3.9660210609436035 seconds or 0.06610035101572673 minutes
+It. 165: OF Values: -13.51985212, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It165, Primal: 0.0014646750464512078, P_Sum: 14, Dual:0.0014275099093507986, D_Sum: 16, Surplus: -93.89773351710613, DEC:0, Terminate:0.0
+SMPC took 3.93664813041687 seconds or 0.06561080217361451 minutes
+It. 166: OF Values: -11.68956219, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It166, Primal: 0.0014551589272119878, P_Sum: 13, Dual:0.0014717383628427981, D_Sum: 16, Surplus: -78.64889389123661, DEC:0, Terminate:0.0
+SMPC took 3.9601857662200928 seconds or 0.06600309610366821 minutes
+It. 167: OF Values: -9.98381802, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It167, Primal: 0.0014357243526359935, P_Sum: 13, Dual:0.001492848143380004, D_Sum: 16, Surplus: -64.39472277463867, DEC:0, Terminate:0.0
+SMPC took 3.974675416946411 seconds or 0.06624459028244019 minutes
+It. 168: OF Values: -8.48327263, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It168, Primal: 0.001417908548171993, P_Sum: 13, Dual:0.0014730573877304014, D_Sum: 16, Surplus: -51.84850672453052, DEC:0, Terminate:0.0
+SMPC took 4.087653636932373 seconds or 0.06812756061553955 minutes
+It. 169: OF Values: -7.20872546, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It169, Primal: 0.001410015206874005, P_Sum: 12, Dual:0.0014106994367163942, D_Sum: 16, Surplus: -41.2934152706173, DEC:0, Terminate:0.0
+SMPC took 3.8461925983428955 seconds or 0.06410320997238159 minutes
+It. 170: OF Values: -6.08436025, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It170, Primal: 0.0014150809297652001, P_Sum: 12, Dual:0.0013069887969380015, D_Sum: 16, Surplus: -32.09156317325748, DEC:0, Terminate:0.0
+SMPC took 4.038052797317505 seconds or 0.06730087995529174 minutes
+It. 171: OF Values: -5.09558325, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It171, Primal: 0.0014407295664455994, P_Sum: 12, Dual:0.0011666450596532006, D_Sum: 16, Surplus: -23.966204336898176, DEC:0, Terminate:0.0
+SMPC took 3.968536376953125 seconds or 0.06614227294921875 minutes
+It. 172: OF Values: -4.25862579, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It172, Primal: 0.0014823635754323964, P_Sum: 12, Dual:0.0009985616669435972, D_Sum: 16, Surplus: -17.031953717784358, DEC:0, Terminate:0.0
+SMPC took 3.8590247631073 seconds or 0.06431707938512167 minutes
+It. 173: OF Values: -3.60380755, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It173, Primal: 0.001538143994392796, P_Sum: 12, Dual:0.0008138605847516041, D_Sum: 16, Surplus: -11.484427230574468, DEC:0, Terminate:0.0
+SMPC took 3.904367685317993 seconds or 0.06507279475529988 minutes
+It. 174: OF Values: -3.06633476, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It174, Primal: 0.0016031748739131957, P_Sum: 11, Dual:0.000625628483031198, D_Sum: 16, Surplus: -6.879503361393219, DEC:0, Terminate:0.0
+SMPC took 4.078024864196777 seconds or 0.06796708106994628 minutes
+It. 175: OF Values: -2.66372968, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It175, Primal: 0.0017953761560171996, P_Sum: 11, Dual:0.0004466685933220009, D_Sum: 16, Surplus: -3.3127905932603556, DEC:0, Terminate:0.0
+SMPC took 3.9868202209472656 seconds or 0.06644700368245443 minutes
+It. 176: OF Values: -2.39949329, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It176, Primal: 0.0020171084109700016, P_Sum: 10, Dual:0.0002886364038436001, D_Sum: 16, Surplus: -0.8101495751562116, DEC:1, Terminate:0.0
+SMPC took 3.9670379161834717 seconds or 0.06611729860305786 minutes
+It. 177: OF Values: -2.26657011, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It177, Primal: 0.0021853519855616, P_Sum: 9, Dual:0.00016925843649879955, D_Sum: 16, Surplus: 0.6722961094382122, DEC:1, Terminate:0.0
+SMPC took 4.054939031600952 seconds or 0.0675823171933492 minutes
+It. 178: OF Values: -2.26366773, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It178, Primal: 0.002289746442152799, P_Sum: 8, Dual:8.695138916679483e-05, D_Sum: 16, Surplus: 1.144604276949164, DEC:1, Terminate:0.0
+SMPC took 3.909201145172119 seconds or 0.06515335241953532 minutes
+It. 179: OF Values: -2.38422673, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It179, Primal: 0.0023249410943728017, P_Sum: 8, Dual:4.860417596520123e-05, D_Sum: 16, Surplus: 0.6389943992688639, DEC:1, Terminate:0.0
+SMPC took 3.9564805030822754 seconds or 0.06594134171803792 minutes
+It. 180: OF Values: -2.59556516, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It180, Primal: 0.0022907667985763995, P_Sum: 7, Dual:2.7257733295196788e-05, D_Sum: 16, Surplus: -0.6585608365777422, DEC:1, Terminate:0.0
+SMPC took 3.975984811782837 seconds or 0.06626641352971395 minutes
+It. 181: OF Values: -2.91094193, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It181, Primal: 0.002191989148269602, P_Sum: 6, Dual:4.469898611439898e-05, D_Sum: 16, Surplus: -2.8336013286440798, DEC:0, Terminate:0.0
+SMPC took 3.9569339752197266 seconds or 0.06594889958699544 minutes
+It. 182: OF Values: -3.3576332, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It182, Primal: 0.002037617141178401, P_Sum: 7, Dual:0.00010831276877159974, D_Sum: 16, Surplus: -6.0633664779575716, DEC:0, Terminate:0.0
+SMPC took 3.9689879417419434 seconds or 0.06614979902903238 minutes
+It. 183: OF Values: -3.97677975, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It183, Primal: 0.0018789077358479932, P_Sum: 7, Dual:0.00019695268683120044, D_Sum: 16, Surplus: -10.667811147105663, DEC:0, Terminate:0.0
+SMPC took 3.946213722229004 seconds or 0.06577022870381673 minutes
+It. 184: OF Values: -4.75755031, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It184, Primal: 0.0017873739418304006, P_Sum: 9, Dual:0.0003016702098192001, D_Sum: 16, Surplus: -16.567727339596637, DEC:0, Terminate:0.0
+SMPC took 3.9371931552886963 seconds or 0.06561988592147827 minutes
+It. 185: OF Values: -5.66545155, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It185, Primal: 0.0017473707232184069, P_Sum: 9, Dual:0.00041281775625479913, D_Sum: 16, Surplus: -23.493912322197335, DEC:0, Terminate:0.0
+SMPC took 3.935473680496216 seconds or 0.06559122800827026 minutes
+It. 186: OF Values: -6.68878496, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It186, Primal: 0.0016899307424819987, P_Sum: 9, Dual:0.0005147472244464006, D_Sum: 16, Surplus: -31.350999904039604, DEC:0, Terminate:0.0
+SMPC took 3.9447338581085205 seconds or 0.06574556430180868 minutes
+It. 187: OF Values: -7.82526561, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It187, Primal: 0.0016454716237880094, P_Sum: 10, Dual:0.0006045942471384002, D_Sum: 16, Surplus: -40.26807257495368, DEC:0, Terminate:0.0
+SMPC took 4.007964372634888 seconds or 0.06679940621058146 minutes
+It. 188: OF Values: -9.19225858, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It188, Primal: 0.0016041594673535877, P_Sum: 12, Dual:0.0006740687190995991, D_Sum: 16, Surplus: -51.22877724344855, DEC:0, Terminate:0.0
+SMPC took 3.959190845489502 seconds or 0.0659865140914917 minutes
+It. 189: OF Values: -10.7285207, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It189, Primal: 0.0015574628062475955, P_Sum: 12, Dual:0.0007090835814024018, D_Sum: 16, Surplus: -63.546807929453706, DEC:0, Terminate:0.0
+SMPC took 4.018023252487183 seconds or 0.06696705420811971 minutes
+It. 190: OF Values: -12.32869413, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It190, Primal: 0.001507555715333204, P_Sum: 12, Dual:0.0007191393384504003, D_Sum: 16, Surplus: -76.39164636426881, DEC:0, Terminate:0.0
+SMPC took 4.008542060852051 seconds or 0.06680903434753419 minutes
+It. 191: OF Values: -14.13587026, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It191, Primal: 0.0014507705439751838, P_Sum: 12, Dual:0.0007138359061892033, D_Sum: 16, Surplus: -91.28796706237638, DEC:0, Terminate:0.0
+SMPC took 3.911383628845215 seconds or 0.06518972714742025 minutes
+It. 192: OF Values: -16.00098206, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It192, Primal: 0.001413657360078807, P_Sum: 12, Dual:0.0006991432890391973, D_Sum: 16, Surplus: -106.91088423322982, DEC:0, Terminate:0.0
+SMPC took 3.9366142749786377 seconds or 0.06561023791631063 minutes
+It. 193: OF Values: -17.92301239, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It193, Primal: 0.0014231931177967993, P_Sum: 12, Dual:0.0006829717800459988, D_Sum: 16, Surplus: -123.19379445649047, DEC:0, Terminate:0.0
+SMPC took 3.8968119621276855 seconds or 0.06494686603546143 minutes
+It. 194: OF Values: -19.97527971, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It194, Primal: 0.0013877920234876041, P_Sum: 12, Dual:0.0006714867630255989, D_Sum: 16, Surplus: -140.83443451751407, DEC:0, Terminate:0.0
+SMPC took 3.9747862815856934 seconds or 0.06624643802642823 minutes
+It. 195: OF Values: -22.12102667, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It195, Primal: 0.00131093460927359, P_Sum: 13, Dual:0.0006636796515655987, D_Sum: 16, Surplus: -159.4861489586073, DEC:0, Terminate:0.0
+SMPC took 3.8828442096710205 seconds or 0.06471407016118368 minutes
+It. 196: OF Values: -24.34591978, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It196, Primal: 0.0012046276224607932, P_Sum: 14, Dual:0.0007407551644487998, D_Sum: 16, Surplus: -178.88564159076594, DEC:0, Terminate:0.0
+SMPC took 3.934422016143799 seconds or 0.06557370026906331 minutes
+It. 197: OF Values: -26.60906418, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It197, Primal: 0.0010755081042179912, P_Sum: 14, Dual:0.0008279404021236013, D_Sum: 16, Surplus: -198.6218664709425, DEC:0, Terminate:0.0
+SMPC took 4.036070823669434 seconds or 0.06726784706115722 minutes
+It. 198: OF Values: -28.88591558, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It198, Primal: 0.0009294724273135918, P_Sum: 15, Dual:0.0009078537544883873, D_Sum: 16, Surplus: -218.50101679921045, DEC:0, Terminate:0.0
+SMPC took 3.8662638664245605 seconds or 0.06443773110707601 minutes
+It. 199: OF Values: -31.14619583, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It199, Primal: 0.0007755515829824065, P_Sum: 16, Dual:0.0009784757581288333, D_Sum: 16, Surplus: -238.26515911952094, DEC:0, Terminate:0.0
+SMPC took 3.888096332550049 seconds or 0.06480160554250082 minutes
+It. 200: OF Values: -33.35928448, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It200, Primal: 0.000619229089118394, P_Sum: 16, Dual:0.0010389360324247934, D_Sum: 16, Surplus: -257.6357328373191, DEC:0, Terminate:0.0
+SMPC took 3.9757437705993652 seconds or 0.0662623961766561 minutes
+It. 201: OF Values: -35.49376737, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It201, Primal: 0.0004877896455888066, P_Sum: 16, Dual:0.0010894232227627908, D_Sum: 16, Surplus: -276.32427030118487, DEC:0, Terminate:0.0
+SMPC took 3.93934965133667 seconds or 0.06565582752227783 minutes
+It. 202: OF Values: -37.51639956, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It202, Primal: 0.0004399223856899998, P_Sum: 16, Dual:0.0011306878838939982, D_Sum: 16, Surplus: -294.0331882905282, DEC:0, Terminate:0.0
+SMPC took 3.9542510509490967 seconds or 0.06590418418248495 minutes
+It. 203: OF Values: -39.39355399, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It203, Primal: 0.0004363935456191982, P_Sum: 16, Dual:0.0011634041488675954, D_Sum: 16, Surplus: -310.4575917460508, DEC:0, Terminate:0.0
+SMPC took 3.9550716876983643 seconds or 0.0659178614616394 minutes
+It. 204: OF Values: -41.09114582, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It204, Primal: 0.00043433406844279975, P_Sum: 16, Dual:0.0011876887136332175, D_Sum: 16, Surplus: -325.2902326824489, DEC:0, Terminate:0.0
+SMPC took 3.9349772930145264 seconds or 0.06558295488357543 minutes
+It. 205: OF Values: -42.57519145, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It205, Primal: 0.00043354115708199955, P_Sum: 16, Dual:0.0012029274494619784, D_Sum: 16, Surplus: -338.2245415324433, DEC:0, Terminate:0.0
+SMPC took 3.864955425262451 seconds or 0.06441592375437419 minutes
+It. 206: OF Values: -43.81271062, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It206, Primal: 0.00043350425837960013, P_Sum: 16, Dual:0.0012079713315439869, D_Sum: 16, Surplus: -348.96543337674035, DEC:0, Terminate:0.0
+SMPC took 3.938237190246582 seconds or 0.0656372865041097 minutes
+It. 207: OF Values: -44.77267786, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It207, Primal: 0.0004334057050823998, P_Sum: 16, Dual:0.0012015681939648046, D_Sum: 16, Surplus: -357.2383642862317, DEC:0, Terminate:0.0
+SMPC took 3.956019401550293 seconds or 0.06593365669250488 minutes
+It. 208: OF Values: -45.42735902, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It208, Primal: 0.0004322909151715999, P_Sum: 16, Dual:0.0011827998442780123, D_Sum: 16, Surplus: -362.79660008654207, DEC:0, Terminate:0.0
+SMPC took 3.928225040435791 seconds or 0.06547041734059651 minutes
+It. 209: OF Values: -45.75310531, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It209, Primal: 0.0004293071924667994, P_Sum: 16, Dual:0.0011516341967319947, D_Sum: 16, Surplus: -365.430068097968, DEC:0, Terminate:0.0
+SMPC took 3.9457345008850098 seconds or 0.06576224168141682 minutes
+It. 210: OF Values: -45.73096507, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It210, Primal: 0.00044101542146639656, P_Sum: 16, Dual:0.0011088990205536055, D_Sum: 16, Surplus: -364.97502190019065, DEC:0, Terminate:0.0
+SMPC took 3.9685447216033936 seconds or 0.06614241202672323 minutes
+It. 211: OF Values: -45.34772992, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It211, Primal: 0.0004733860689052, P_Sum: 16, Dual:0.001056345279705601, D_Sum: 16, Surplus: -361.3171965145177, DEC:0, Terminate:0.0
+SMPC took 3.9071521759033203 seconds or 0.065119202931722 minutes
+It. 212: OF Values: -44.59627223, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It212, Primal: 0.0005655041787204014, P_Sum: 16, Dual:0.0009962585434108028, D_Sum: 16, Surplus: -354.3993302291218, DEC:0, Terminate:0.0
+SMPC took 3.945284843444824 seconds or 0.06575474739074708 minutes
+It. 213: OF Values: -43.47584421, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It213, Primal: 0.0006811973191451983, P_Sum: 16, Dual:0.0009312815981731922, D_Sum: 16, Surplus: -344.2182194033319, DEC:0, Terminate:0.0
+SMPC took 3.9093172550201416 seconds or 0.06515528758366902 minutes
+It. 214: OF Values: -41.9919332, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It214, Primal: 0.0007819301110604017, P_Sum: 16, Dual:0.0008639620502428004, D_Sum: 16, Surplus: -330.82447079121124, DEC:0, Terminate:0.0
+SMPC took 3.888237714767456 seconds or 0.06480396191279093 minutes
+It. 215: OF Values: -40.1556652, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It215, Primal: 0.0008626914582556015, P_Sum: 16, Dual:0.0007964453703204027, D_Sum: 16, Surplus: -314.3176072400956, DEC:0, Terminate:0.0
+SMPC took 3.9855663776397705 seconds or 0.06642610629399617 minutes
+It. 216: OF Values: -37.98312007, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It216, Primal: 0.0009204780654515998, P_Sum: 16, Dual:0.0007303015326951924, D_Sum: 16, Surplus: -294.8399188542119, DEC:0, Terminate:0.0
+SMPC took 3.9219162464141846 seconds or 0.06536527077356974 minutes
+It. 217: OF Values: -35.49493984, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It217, Primal: 0.0009545048046048056, P_Sum: 16, Dual:0.0006671461227407981, D_Sum: 16, Surplus: -272.5691942301313, DEC:0, Terminate:0.0
+SMPC took 3.9080636501312256 seconds or 0.06513439416885376 minutes
+It. 218: OF Values: -32.71501023, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It218, Primal: 0.0009659635263631982, P_Sum: 16, Dual:0.0006623243395956004, D_Sum: 16, Surplus: -247.71123632141942, DEC:0, Terminate:0.0
+SMPC took 3.887557029724121 seconds or 0.06479261716206869 minutes
+It. 219: OF Values: -29.68291279, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It219, Primal: 0.0009490008182691972, P_Sum: 16, Dual:0.0007908333915539997, D_Sum: 16, Surplus: -220.682308428788, DEC:0, Terminate:0.0
+SMPC took 3.8680546283721924 seconds or 0.06446757713953653 minutes
+It. 220: OF Values: -26.40578573, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It220, Primal: 0.0009027318470267972, P_Sum: 16, Dual:0.0009217953603692001, D_Sum: 16, Surplus: -191.83837002855162, DEC:0, Terminate:0.0
+SMPC took 3.9488768577575684 seconds or 0.06581461429595947 minutes
+It. 221: OF Values: -22.92333034, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It221, Primal: 0.0008414395003975936, P_Sum: 16, Dual:0.0010496786138716, D_Sum: 16, Surplus: -161.33891935197096, DEC:0, Terminate:0.0
+SMPC took 3.9587008953094482 seconds or 0.06597834825515747 minutes
+It. 222: OF Values: -19.27600401, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It222, Primal: 0.0007671488278903981, P_Sum: 16, Dual:0.0011628526872132, D_Sum: 16, Surplus: -129.79231430181292, DEC:0, Terminate:0.0
+SMPC took 3.9603121280670166 seconds or 0.06600520213445028 minutes
+It. 223: OF Values: -15.34276962, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It223, Primal: 0.0007026042606460015, P_Sum: 16, Dual:0.0012469142158111999, D_Sum: 16, Surplus: -96.52765867884865, DEC:0, Terminate:0.0
+SMPC took 3.9688708782196045 seconds or 0.06614784797032675 minutes
+It. 224: OF Values: -11.33509846, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It224, Primal: 0.0006523137991828013, P_Sum: 16, Dual:0.0012914269062844002, D_Sum: 16, Surplus: -63.69853665905311, DEC:0, Terminate:0.0
+SMPC took 3.9582839012145996 seconds or 0.06597139835357665 minutes
+It. 225: OF Values: -7.06859269, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It225, Primal: 0.0006029038616303997, P_Sum: 16, Dual:0.0013302961259135998, D_Sum: 16, Surplus: -29.29777313725562, DEC:0, Terminate:0.0
+SMPC took 4.006941080093384 seconds or 0.06678235133488973 minutes
+It. 226: OF Values: -2.64192597, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It226, Primal: 0.0005332204361591986, P_Sum: 16, Dual:0.0013698506258876006, D_Sum: 16, Surplus: 5.530264517476189, DEC:0, Terminate:0.0
+SMPC took 3.9170334339141846 seconds or 0.06528389056523641 minutes
+It. 227: OF Values: 1.88343009, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It227, Primal: 0.00047360089455919887, P_Sum: 16, Dual:0.0014081578771655999, D_Sum: 16, Surplus: 40.788284592970165, DEC:0, Terminate:0.0
+SMPC took 3.925489902496338 seconds or 0.0654248317082723 minutes
+It. 228: OF Values: 6.50381622, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It228, Primal: 0.000413935331298, P_Sum: 16, Dual:0.0014203667105680002, D_Sum: 16, Surplus: 76.35706858210105, DEC:0, Terminate:0.0
+SMPC took 3.9794557094573975 seconds or 0.06632426182428995 minutes
+It. 229: OF Values: 11.19080656, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It229, Primal: 0.0004139923376520003, P_Sum: 16, Dual:0.0013895348590263997, D_Sum: 16, Surplus: 112.2779515259311, DEC:0, Terminate:0.0
+SMPC took 4.0272746086120605 seconds or 0.06712124347686768 minutes
+It. 230: OF Values: 15.822411, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It230, Primal: 0.00041577810047320127, P_Sum: 16, Dual:0.0013562480612091998, D_Sum: 16, Surplus: 147.86042771376216, DEC:0, Terminate:0.0
+SMPC took 4.077883958816528 seconds or 0.06796473264694214 minutes
+It. 231: OF Values: 20.39077887, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It231, Primal: 0.0004387662348295994, P_Sum: 16, Dual:0.0013143166558776008, D_Sum: 16, Surplus: 182.9927950794385, DEC:0, Terminate:0.0
+SMPC took 4.056427001953125 seconds or 0.06760711669921875 minutes
+It. 232: OF Values: 24.76733958, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It232, Primal: 0.0004905097825664, P_Sum: 16, Dual:0.0012492214616071995, D_Sum: 16, Surplus: 216.7931748023914, DEC:0, Terminate:0.0
+SMPC took 4.445698022842407 seconds or 0.07409496704737345 minutes
+It. 233: OF Values: 29.12889972, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It233, Primal: 0.0005467534914667985, P_Sum: 16, Dual:0.0011799578076172005, D_Sum: 16, Surplus: 250.00469844864577, DEC:0, Terminate:0.0
+SMPC took 4.008664846420288 seconds or 0.06681108077367147 minutes
+It. 234: OF Values: 33.39477428, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It234, Primal: 0.0006072631301811999, P_Sum: 16, Dual:0.0010990963942571997, D_Sum: 16, Surplus: 282.23318899317513, DEC:0, Terminate:0.0
+SMPC took 4.023285627365112 seconds or 0.0670547604560852 minutes
+It. 235: OF Values: 37.52607315, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It235, Primal: 0.0006714780469763991, P_Sum: 16, Dual:0.0010191498901863999, D_Sum: 16, Surplus: 313.4484029911904, DEC:0, Terminate:0.0
+SMPC took 3.9361414909362793 seconds or 0.06560235818227132 minutes
+It. 236: OF Values: 41.47511115, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It236, Primal: 0.0007381836877452007, P_Sum: 16, Dual:0.0009371249089923998, D_Sum: 16, Surplus: 343.29061197735206, DEC:0, Terminate:0.0
+SMPC took 4.025725841522217 seconds or 0.06709543069203695 minutes
+It. 237: OF Values: 45.16321173, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It237, Primal: 0.0008058755192556022, P_Sum: 16, Dual:0.0008432792700404004, D_Sum: 16, Surplus: 370.9860640419436, DEC:0, Terminate:0.0
+SMPC took 3.9597082138061523 seconds or 0.06599513689676921 minutes
+It. 238: OF Values: 48.70373242, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It238, Primal: 0.0008730664892031986, P_Sum: 16, Dual:0.0007551712603835996, D_Sum: 16, Surplus: 397.53189368991303, DEC:0, Terminate:0.0
+SMPC took 3.9448866844177246 seconds or 0.06574811140696207 minutes
+It. 239: OF Values: 51.94084319, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It239, Primal: 0.0009383428537643988, P_Sum: 16, Dual:0.0006607214576624, D_Sum: 16, Surplus: 421.5250301455286, DEC:0, Terminate:0.0
+SMPC took 4.072334051132202 seconds or 0.0678722341855367 minutes
+It. 240: OF Values: 54.97248847, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It240, Primal: 0.001000269399245199, P_Sum: 16, Dual:0.0005701549960911994, D_Sum: 16, Surplus: 443.4952048162295, DEC:0, Terminate:0.0
+SMPC took 3.8908565044403076 seconds or 0.06484760840733846 minutes
+It. 241: OF Values: 57.7163858, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It241, Primal: 0.0010574770026584002, P_Sum: 15, Dual:0.00048637489331080025, D_Sum: 16, Surplus: 463.45341776569825, DEC:0, Terminate:0.0
+SMPC took 3.9570281505584717 seconds or 0.06595046917597452 minutes
+It. 242: OF Values: 60.1727358, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It242, Primal: 0.0011090296466703998, P_Sum: 15, Dual:0.0004077816556292001, D_Sum: 16, Surplus: 481.33973668417, DEC:0, Terminate:0.0
+SMPC took 4.098226308822632 seconds or 0.06830377181371053 minutes
+It. 243: OF Values: 62.34100294, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It243, Primal: 0.0011542274697156003, P_Sum: 15, Dual:0.0003333548632976001, D_Sum: 16, Surplus: 497.1856326300022, DEC:0, Terminate:0.0
+SMPC took 3.99599552154541 seconds or 0.06659992535909016 minutes
+It. 244: OF Values: 64.21122784, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It244, Primal: 0.0011925344949600008, P_Sum: 15, Dual:0.0002620866364099998, D_Sum: 16, Surplus: 510.90013836094556, DEC:0, Terminate:0.0
+SMPC took 4.035401821136475 seconds or 0.06725669701894124 minutes
+It. 245: OF Values: 65.7499901, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It245, Primal: 0.0012235792945767994, P_Sum: 14, Dual:0.00019505665301879983, D_Sum: 16, Surplus: 522.258089088387, DEC:0, Terminate:0.0
+SMPC took 3.9978268146514893 seconds or 0.06663044691085815 minutes
+It. 246: OF Values: 66.89511502, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It246, Primal: 0.0012471314683392017, P_Sum: 14, Dual:0.00013336674373160012, D_Sum: 16, Surplus: 530.7828961501373, DEC:0, Terminate:0.0
+SMPC took 3.9707391262054443 seconds or 0.0661789854367574 minutes
+It. 247: OF Values: 67.7452149, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It247, Primal: 0.0012629771154140032, P_Sum: 14, Dual:8.779893986279996e-05, D_Sum: 16, Surplus: 537.1402168506811, DEC:0, Terminate:0.0
+SMPC took 4.025466203689575 seconds or 0.06709110339482625 minutes
+It. 248: OF Values: 68.23032643, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It248, Primal: 0.0012708613044847994, P_Sum: 14, Dual:5.891717928519977e-05, D_Sum: 16, Surplus: 540.9095127788981, DEC:0, Terminate:0.0
+SMPC took 3.977179765701294 seconds or 0.0662863294283549 minutes
+It. 249: OF Values: 68.33999006, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It249, Primal: 0.0012704028233852006, P_Sum: 14, Dual:4.5225780994401164e-05, D_Sum: 16, Surplus: 542.0203199928349, DEC:0, Terminate:0.0
+SMPC took 4.035211086273193 seconds or 0.06725351810455323 minutes
+It. 250: OF Values: 68.08240798, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It250, Primal: 0.0012608908107224009, P_Sum: 14, Dual:4.843803755879899e-05, D_Sum: 16, Surplus: 540.5168379652118, DEC:0, Terminate:0.0
+SMPC took 3.9632201194763184 seconds or 0.06605366865793864 minutes
+It. 251: OF Values: 67.48783852, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It251, Primal: 0.0012416396231715986, P_Sum: 14, Dual:5.9312186264799765e-05, D_Sum: 16, Surplus: 536.57831981405, DEC:0, Terminate:0.0
+SMPC took 3.916463851928711 seconds or 0.06527439753214519 minutes
+It. 252: OF Values: 66.5809586, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It252, Primal: 0.0012122418087972008, P_Sum: 14, Dual:7.301471373120256e-05, D_Sum: 16, Surplus: 530.3552828081907, DEC:0, Terminate:0.0
+SMPC took 3.958228349685669 seconds or 0.06597047249476115 minutes
+It. 253: OF Values: 65.30547343, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It253, Primal: 0.0011724608753619992, P_Sum: 14, Dual:9.336075626279805e-05, D_Sum: 16, Surplus: 521.4641677031177, DEC:0, Terminate:0.0
+SMPC took 3.9559214115142822 seconds or 0.06593202352523804 minutes
+It. 254: OF Values: 63.68564041, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It254, Primal: 0.001122507053022799, P_Sum: 14, Dual:0.00014022686151640013, D_Sum: 16, Surplus: 510.1028571911741, DEC:0, Terminate:0.0
+SMPC took 4.0467541217803955 seconds or 0.06744590202967325 minutes
+It. 255: OF Values: 61.74804841, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It255, Primal: 0.0010631386172647989, P_Sum: 15, Dual:0.0002044235671704003, D_Sum: 16, Surplus: 496.4217770086109, DEC:0, Terminate:0.0
+SMPC took 3.9975039958953857 seconds or 0.06662506659825643 minutes
+It. 256: OF Values: 59.4790416, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It256, Primal: 0.0009957011785248014, P_Sum: 15, Dual:0.0002784830457823996, D_Sum: 16, Surplus: 480.23165391087144, DEC:0, Terminate:0.0
+SMPC took 3.935152053833008 seconds or 0.06558586756388346 minutes
+It. 257: OF Values: 57.02531094, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It257, Primal: 0.0009218675334055997, P_Sum: 16, Dual:0.0003552024751720003, D_Sum: 16, Surplus: 462.4089286057885, DEC:0, Terminate:0.0
+SMPC took 3.9374818801879883 seconds or 0.06562469800313314 minutes
+It. 258: OF Values: 54.23120454, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It258, Primal: 0.0008434396392576015, P_Sum: 16, Dual:0.0004399507622763999, D_Sum: 16, Surplus: 442.13624736489845, DEC:0, Terminate:0.0
+SMPC took 4.045746088027954 seconds or 0.06742910146713257 minutes
+It. 259: OF Values: 51.15318192, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It259, Primal: 0.000762226826488002, P_Sum: 16, Dual:0.0005300415938164003, D_Sum: 16, Surplus: 419.8056335052135, DEC:0, Terminate:0.0
+SMPC took 4.161151170730591 seconds or 0.06935251951217651 minutes
+It. 260: OF Values: 47.82718122, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It260, Primal: 0.0006798975049692014, P_Sum: 16, Dual:0.0006220131463335996, D_Sum: 16, Surplus: 395.6434848131846, DEC:0, Terminate:0.0
+SMPC took 3.9484825134277344 seconds or 0.06580804189046224 minutes
+It. 261: OF Values: 44.26747459, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It261, Primal: 0.0005981312236543999, P_Sum: 16, Dual:0.0007136801649868004, D_Sum: 16, Surplus: 369.7371126117071, DEC:0, Terminate:0.0
+SMPC took 3.94464373588562 seconds or 0.06574406226476033 minutes
+It. 262: OF Values: 40.58485617, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It262, Primal: 0.0005183433096467998, P_Sum: 16, Dual:0.0007939881433871999, D_Sum: 16, Surplus: 342.8146102005967, DEC:0, Terminate:0.0
+SMPC took 3.9990010261535645 seconds or 0.06665001710255941 minutes
+It. 263: OF Values: 36.72996208, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It263, Primal: 0.00044169133697119874, P_Sum: 16, Dual:0.0008709309772968004, D_Sum: 16, Surplus: 314.27922816328277, DEC:0, Terminate:0.0
+SMPC took 3.95029354095459 seconds or 0.0658382256825765 minutes
+It. 264: OF Values: 32.72729887, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It264, Primal: 0.00036917365265880014, P_Sum: 16, Dual:0.0009477093788691994, D_Sum: 16, Surplus: 284.3452066044764, DEC:0, Terminate:0.0
+SMPC took 3.8881354331970215 seconds or 0.06480225721995035 minutes
+It. 265: OF Values: 28.56617185, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It265, Primal: 0.0003016894435884003, P_Sum: 16, Dual:0.0010230135788732006, D_Sum: 16, Surplus: 253.1197301877735, DEC:0, Terminate:0.0
+SMPC took 3.986694574356079 seconds or 0.06644490957260132 minutes
+It. 266: OF Values: 24.40123739, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It266, Primal: 0.00024016684899759986, P_Sum: 16, Dual:0.0010841859386540001, D_Sum: 16, Surplus: 221.3850148953865, DEC:0, Terminate:0.0
+SMPC took 4.040797710418701 seconds or 0.06734662850697835 minutes
+It. 267: OF Values: 20.03077213, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It267, Primal: 0.00018539591892319978, P_Sum: 16, Dual:0.0011452922600875997, D_Sum: 16, Surplus: 188.21054579551628, DEC:0, Terminate:0.0
+SMPC took 4.095541000366211 seconds or 0.06825901667277018 minutes
+It. 268: OF Values: 15.58912908, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It268, Primal: 0.0001379878839472, P_Sum: 16, Dual:0.0011978540133964007, D_Sum: 16, Surplus: 154.42195762394098, DEC:0, Terminate:0.0
+SMPC took 3.959096908569336 seconds or 0.0659849484761556 minutes
+It. 269: OF Values: 11.0841572, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It269, Primal: 9.845247101040066e-05, P_Sum: 16, Dual:0.0012388340394096002, D_Sum: 16, Surplus: 120.10451568094231, DEC:0, Terminate:0.0
+SMPC took 3.860196352005005 seconds or 0.06433660586675008 minutes
+It. 270: OF Values: 6.54299539, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It270, Primal: 7.979763879999956e-05, P_Sum: 16, Dual:0.0012660688300259993, D_Sum: 16, Surplus: 85.46984870026418, DEC:0, Terminate:0.0
+SMPC took 4.016769886016846 seconds or 0.06694616476694742 minutes
+It. 271: OF Values: 2.23669511, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It271, Primal: 7.543703396520064e-05, P_Sum: 16, Dual:0.0012559851934372003, D_Sum: 16, Surplus: 51.96075260195985, DEC:0, Terminate:0.0
+SMPC took 3.9598286151885986 seconds or 0.06599714358647664 minutes
+It. 272: OF Values: -2.21614194, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It272, Primal: 6.91517086359996e-05, P_Sum: 16, Dual:0.0012551008565327999, D_Sum: 16, Surplus: 17.171707830824875, DEC:0, Terminate:0.0
+SMPC took 3.98673939704895 seconds or 0.0664456566174825 minutes
+It. 273: OF Values: -6.47994031, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It273, Primal: 6.139063283399976e-05, P_Sum: 16, Dual:0.0012345238561572, D_Sum: 16, Surplus: -16.522289484767352, DEC:0, Terminate:0.0
+SMPC took 4.016892194747925 seconds or 0.06694820324579874 minutes
+It. 274: OF Values: -10.44392559, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It274, Primal: 5.266587068919993e-05, P_Sum: 16, Dual:0.0011721396044840002, D_Sum: 16, Surplus: -48.246537756205434, DEC:0, Terminate:0.0
+SMPC took 3.9357311725616455 seconds or 0.06559551954269409 minutes
+It. 275: OF Values: -14.35721856, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It275, Primal: 4.474033553639967e-05, P_Sum: 16, Dual:0.0011173299028919995, D_Sum: 16, Surplus: -80.53771735675772, DEC:0, Terminate:0.0
+SMPC took 3.955840587615967 seconds or 0.06593067646026611 minutes
+It. 276: OF Values: -18.0733274, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It276, Primal: 6.58644225096002e-05, P_Sum: 16, Dual:0.0010583455841144008, D_Sum: 16, Surplus: -111.75942478443572, DEC:0, Terminate:0.0
+SMPC took 3.8884024620056152 seconds or 0.06480670770009359 minutes
+It. 277: OF Values: -21.68274936, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It277, Primal: 9.403390303679953e-05, P_Sum: 16, Dual:0.0010025630980387999, D_Sum: 16, Surplus: -142.50901787832404, DEC:0, Terminate:0.0
+SMPC took 3.9358971118927 seconds or 0.06559828519821168 minutes
+It. 278: OF Values: -24.92332081, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It278, Primal: 0.00012795235075959986, P_Sum: 16, Dual:0.0009166420411476001, D_Sum: 16, Surplus: -170.54536961594104, DEC:0, Terminate:0.0
+SMPC took 3.978170394897461 seconds or 0.06630283991495768 minutes
+It. 279: OF Values: -28.16440883, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It279, Primal: 0.0001662753340532, P_Sum: 16, Dual:0.0008463294831480001, D_Sum: 16, Surplus: -199.081806970182, DEC:0, Terminate:0.0
+SMPC took 3.9659907817840576 seconds or 0.06609984636306762 minutes
+It. 280: OF Values: -31.16230653, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It280, Primal: 0.0002077841039764006, P_Sum: 16, Dual:0.0007657569961651997, D_Sum: 16, Surplus: -225.4422508165603, DEC:0, Terminate:0.0
+SMPC took 3.893220901489258 seconds or 0.06488701502482096 minutes
+It. 281: OF Values: -33.99361431, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It281, Primal: 0.0002515742118356004, P_Sum: 16, Dual:0.0006836595098440003, D_Sum: 16, Surplus: -250.57958772887238, DEC:0, Terminate:0.0
+SMPC took 3.846921920776367 seconds or 0.06411536534627278 minutes
+It. 282: OF Values: -36.64466302, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It282, Primal: 0.00029659471136719986, P_Sum: 16, Dual:0.0006005173803864, D_Sum: 16, Surplus: -274.1777718245765, DEC:0, Terminate:0.0
+SMPC took 3.987090587615967 seconds or 0.06645150979359944 minutes
+It. 283: OF Values: -39.09214543, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It283, Primal: 0.00034210397363120036, P_Sum: 16, Dual:0.0005162434307892, D_Sum: 16, Surplus: -295.9752514181599, DEC:0, Terminate:0.0
+SMPC took 3.896247148513794 seconds or 0.0649374524752299 minutes
+It. 284: OF Values: -41.32688996, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It284, Primal: 0.00038744882884719984, P_Sum: 16, Dual:0.00043321466617480013, D_Sum: 16, Surplus: -315.9033070711601, DEC:0, Terminate:0.0
+SMPC took 3.9375593662261963 seconds or 0.06562598943710327 minutes
+It. 285: OF Values: -43.33926637, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It285, Primal: 0.0004319716285768002, P_Sum: 16, Dual:0.0004096837221252047, D_Sum: 16, Surplus: -333.8690008984947, DEC:0, Terminate:0.0
+SMPC took 3.926675319671631 seconds or 0.06544458866119385 minutes
+It. 286: OF Values: -45.12097867, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It286, Primal: 0.0004750368526092003, P_Sum: 16, Dual:0.0004096606327152008, D_Sum: 16, Surplus: -349.79425021610956, DEC:0, Terminate:0.0
+SMPC took 4.187418460845947 seconds or 0.06979030768076579 minutes
+It. 287: OF Values: -46.62493414, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It287, Primal: 0.0005158897019240003, P_Sum: 16, Dual:0.0004069699341003972, D_Sum: 16, Surplus: -363.184046774024, DEC:0, Terminate:0.0
+SMPC took 3.974194288253784 seconds or 0.0662365714708964 minutes
+It. 288: OF Values: -47.88926651, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It288, Primal: 0.0005537587792208001, P_Sum: 16, Dual:0.00040143925216560086, D_Sum: 16, Surplus: -374.57496000262256, DEC:0, Terminate:0.0
+SMPC took 4.03653883934021 seconds or 0.06727564732233683 minutes
+It. 289: OF Values: -48.9221956, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It289, Primal: 0.0005879443335459995, P_Sum: 16, Dual:0.0003929890419999895, D_Sum: 16, Surplus: -383.9699081762643, DEC:0, Terminate:0.0
+SMPC took 3.968231678009033 seconds or 0.06613719463348389 minutes
+It. 290: OF Values: -49.7128105, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It290, Primal: 0.0006178522133676, P_Sum: 16, Dual:0.00038162000631241597, D_Sum: 16, Surplus: -391.11045171751687, DEC:0, Terminate:0.0
+SMPC took 3.8973782062530518 seconds or 0.06495630343755086 minutes
+It. 291: OF Values: -50.25966094, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It291, Primal: 0.0006429626802844001, P_Sum: 16, Dual:0.00036740500238398706, D_Sum: 16, Surplus: -396.0638616962035, DEC:0, Terminate:0.0
+SMPC took 3.982250928878784 seconds or 0.0663708488146464 minutes
+It. 292: OF Values: -50.56734432, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It292, Primal: 0.0006630101816520005, P_Sum: 16, Dual:0.000350488381830799, D_Sum: 16, Surplus: -398.8517236508963, DEC:0, Terminate:0.0
+SMPC took 4.005894660949707 seconds or 0.06676491101582845 minutes
+It. 293: OF Values: -50.64058291, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It293, Primal: 0.0006781018598948013, P_Sum: 16, Dual:0.00033107724021921067, D_Sum: 16, Surplus: -399.5104890897354, DEC:0, Terminate:0.0
+SMPC took 3.95036244392395 seconds or 0.06583937406539916 minutes
+It. 294: OF Values: -50.48608107, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It294, Primal: 0.0006885402346016022, P_Sum: 16, Dual:0.00030943719433679977, D_Sum: 16, Surplus: -398.0935268973123, DEC:0, Terminate:0.0
+SMPC took 3.977410078048706 seconds or 0.06629016796747843 minutes
+It. 295: OF Values: -50.11943721, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It295, Primal: 0.0006947221352767994, P_Sum: 16, Dual:0.00028589450265840657, D_Sum: 16, Surplus: -394.8007711728539, DEC:0, Terminate:0.0
+SMPC took 3.996842861175537 seconds or 0.06661404768625895 minutes
+It. 296: OF Values: -49.56322445, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It296, Primal: 0.0006971288447552009, P_Sum: 16, Dual:0.0002608316772611915, D_Sum: 16, Surplus: -389.92822216156, DEC:0, Terminate:0.0
+SMPC took 4.036388874053955 seconds or 0.06727314790089925 minutes
+It. 297: OF Values: -48.77631692, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It297, Primal: 0.0006961529511928011, P_Sum: 16, Dual:0.00023468429459080553, D_Sum: 16, Surplus: -382.9082378106714, DEC:0, Terminate:0.0
+SMPC took 4.020825386047363 seconds or 0.06701375643412272 minutes
+It. 298: OF Values: -47.80427442, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It298, Primal: 0.000692020904612002, P_Sum: 16, Dual:0.00020794438788999448, D_Sum: 16, Surplus: -374.1897854770956, DEC:0, Terminate:0.0
+SMPC took 3.9756245613098145 seconds or 0.06626040935516357 minutes
+It. 299: OF Values: -46.66462062, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It299, Primal: 0.0006851905523475979, P_Sum: 16, Dual:0.00018112440460759402, D_Sum: 16, Surplus: -363.9337525337622, DEC:0, Terminate:0.0
+SMPC took 4.087892293930054 seconds or 0.06813153823216757 minutes
+It. 300: OF Values: -45.37031645, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It300, Primal: 0.0006761797374444, P_Sum: 16, Dual:0.00015472888033920572, D_Sum: 16, Surplus: -352.25647690332744, DEC:0, Terminate:0.0
+SMPC took 3.93727445602417 seconds or 0.06562124093373617 minutes
+It. 301: OF Values: -43.93841096, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It301, Primal: 0.0006756266140964015, P_Sum: 16, Dual:0.0001762285898936009, D_Sum: 16, Surplus: -339.30515914429105, DEC:0, Terminate:0.0
+SMPC took 3.936894416809082 seconds or 0.06561490694681803 minutes
+It. 302: OF Values: -42.3864535, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It302, Primal: 0.0006833025663263944, P_Sum: 16, Dual:0.00020654740261759932, D_Sum: 16, Surplus: -325.2374560675613, DEC:0, Terminate:0.0
+SMPC took 3.905768394470215 seconds or 0.06509613990783691 minutes
+It. 303: OF Values: -40.73214388, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It303, Primal: 0.0006889667187515997, P_Sum: 16, Dual:0.00023499621398999983, D_Sum: 16, Surplus: -310.2140773651568, DEC:0, Terminate:0.0
+SMPC took 3.9256460666656494 seconds or 0.06542743444442749 minutes
+It. 304: OF Values: -38.99297878, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It304, Primal: 0.0006926350568639933, P_Sum: 16, Dual:0.00026067667965880054, D_Sum: 16, Surplus: -294.3942789761865, DEC:0, Terminate:0.0
+SMPC took 3.9088263511657715 seconds or 0.06514710585276286 minutes
+It. 305: OF Values: -37.18593434, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It305, Primal: 0.0006946453562891805, P_Sum: 16, Dual:0.0002828415738067993, D_Sum: 16, Surplus: -277.9329609653008, DEC:0, Terminate:0.0
+SMPC took 3.9638569355010986 seconds or 0.06606428225835165 minutes
+It. 306: OF Values: -35.32762793, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It306, Primal: 0.0006949222750768033, P_Sum: 16, Dual:0.0003010266712952002, D_Sum: 16, Surplus: -260.980032178827, DEC:0, Terminate:0.0
+SMPC took 4.005696058273315 seconds or 0.06676160097122193 minutes
+It. 307: OF Values: -33.43384399, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It307, Primal: 0.0006932216945980067, P_Sum: 16, Dual:0.00031493019298759996, D_Sum: 16, Surplus: -243.6803510177992, DEC:0, Terminate:0.0
+SMPC took 3.970928430557251 seconds or 0.06618214050928752 minutes
+It. 308: OF Values: -31.56771541, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It308, Primal: 0.0006895707095999937, P_Sum: 16, Dual:0.0003169217958352, D_Sum: 16, Surplus: -226.85631627170434, DEC:0, Terminate:0.0
+SMPC took 3.926675319671631 seconds or 0.06544458866119385 minutes
+It. 309: OF Values: -29.61223226, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It309, Primal: 0.0006901292664139993, P_Sum: 16, Dual:0.0003215353408188002, D_Sum: 16, Surplus: -209.2708111358439, DEC:0, Terminate:0.0
+SMPC took 4.034027338027954 seconds or 0.06723378896713257 minutes
+It. 310: OF Values: -27.71281982, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It310, Primal: 0.0007045114634308036, P_Sum: 16, Dual:0.0003201317536095999, D_Sum: 16, Surplus: -192.2620797747225, DEC:0, Terminate:0.0
+SMPC took 3.9775636196136475 seconds or 0.06629272699356079 minutes
+It. 311: OF Values: -25.80672954, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It311, Primal: 0.0007137038947728009, P_Sum: 16, Dual:0.0003156373472584001, D_Sum: 16, Surplus: -175.25789812178104, DEC:0, Terminate:0.0
+SMPC took 4.068263053894043 seconds or 0.06780438423156739 minutes
+It. 312: OF Values: -23.9055132, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It312, Primal: 0.0007176134595403977, P_Sum: 16, Dual:0.00030889678198160004, D_Sum: 16, Surplus: -158.299622755162, DEC:0, Terminate:0.0
+SMPC took 3.965252161026001 seconds or 0.06608753601710002 minutes
+It. 313: OF Values: -22.0583196, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It313, Primal: 0.000716842664711203, P_Sum: 16, Dual:0.0002979586577679998, D_Sum: 16, Surplus: -141.8246286983862, DEC:0, Terminate:0.0
+SMPC took 3.936655044555664 seconds or 0.06561091740926107 minutes
+It. 314: OF Values: -20.37276825, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It314, Primal: 0.0007153071397607953, P_Sum: 16, Dual:0.0002766495279012001, D_Sum: 16, Surplus: -126.87669977198865, DEC:0, Terminate:0.0
+SMPC took 3.9561197757720947 seconds or 0.06593532959620158 minutes
+It. 315: OF Values: -18.65425243, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It315, Primal: 0.0007040843495068009, P_Sum: 16, Dual:0.0002541975773228, D_Sum: 16, Surplus: -112.11447431911432, DEC:0, Terminate:0.0
+SMPC took 3.929053544998169 seconds or 0.06548422574996948 minutes
+It. 316: OF Values: -16.97259853, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It316, Primal: 0.0006710436973120005, P_Sum: 16, Dual:0.00023521930457199997, D_Sum: 16, Surplus: -97.93499918071838, DEC:0, Terminate:0.0
+SMPC took 4.026733875274658 seconds or 0.06711223125457763 minutes
+It. 317: OF Values: -15.36310521, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It317, Primal: 0.0006413750605932001, P_Sum: 16, Dual:0.00022021265114319986, D_Sum: 16, Surplus: -84.48265894207188, DEC:0, Terminate:0.0
+SMPC took 3.926081418991089 seconds or 0.06543469031651815 minutes
+It. 318: OF Values: -13.83658758, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It318, Primal: 0.000606572756798796, P_Sum: 16, Dual:0.00019719900838400004, D_Sum: 16, Surplus: -71.82149949524661, DEC:0, Terminate:0.0
+SMPC took 3.968844413757324 seconds or 0.0661474068959554 minutes
+It. 319: OF Values: -12.31426948, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It319, Primal: 0.0005858830314719964, P_Sum: 16, Dual:0.00017982349448880013, D_Sum: 16, Surplus: -59.379775973716725, DEC:0, Terminate:0.0
+SMPC took 3.909893035888672 seconds or 0.06516488393147786 minutes
+It. 320: OF Values: -10.8888328, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It320, Primal: 0.0005634044526748095, P_Sum: 16, Dual:0.0001819110255652072, D_Sum: 16, Surplus: -47.7689799254099, DEC:0, Terminate:0.0
+SMPC took 3.971022129058838 seconds or 0.06618370215098063 minutes
+It. 321: OF Values: -9.62183797, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It321, Primal: 0.0005390779236428035, P_Sum: 16, Dual:0.000210629578611597, D_Sum: 16, Surplus: -37.54507492137811, DEC:0, Terminate:0.0
+SMPC took 3.963622808456421 seconds or 0.06606038014094034 minutes
+It. 322: OF Values: -8.29371034, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It322, Primal: 0.00048353210349840104, P_Sum: 16, Dual:0.0002459558804916077, D_Sum: 16, Surplus: -26.994840079036894, DEC:0, Terminate:0.0
+SMPC took 3.9376401901245117 seconds or 0.0656273365020752 minutes
+It. 323: OF Values: -7.07302924, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It323, Primal: 0.00043413481998920997, P_Sum: 16, Dual:0.00028237666320399306, D_Sum: 16, Surplus: -17.272215999576893, DEC:0, Terminate:0.0
+SMPC took 3.985074758529663 seconds or 0.06641791264216106 minutes
+It. 324: OF Values: -5.9344035, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It324, Primal: 0.00037960535771719596, P_Sum: 16, Dual:0.0003192628318711947, D_Sum: 16, Surplus: -8.203166922641792, DEC:0, Terminate:0.0
+SMPC took 3.8757522106170654 seconds or 0.06459587017695109 minutes
+It. 325: OF Values: -4.87617619, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It325, Primal: 0.0003240090198760057, P_Sum: 16, Dual:0.0003559023831160122, D_Sum: 16, Surplus: 0.23689711302037006, DEC:1, Terminate:1.0
+SMPC Decision took 42.919437885284424 seconds or 0.7153239647547404 minutes
+CENTRAL It325, Primal: 0.0003240090198760057, P_Sum: 16, Dual:0.0003559023831160122, D_Sum: 16, F_Dec: 1.0, Surplus: 0.23689711302037006, DEC:1, Terminate:1.0
+At time: 2023-04-30 16:04 W. Europe Summer Time
+Begin SMPC BALANCE
+SMPC Balance took 183.4295358657837 seconds or 3.057158931096395 minutes
+Global Variables same between both SMPCs!
+Net Battery Charge: [-0.031464722623885444, 0.010428686702398481, 0.05083136939184376, 0.03653986308594334, 0.008959529128897852, 0.00351194067128131, -0.026304835536542306, -0.054741536487721724, -0.009357825931716563, 0.0020530395359099896, 0.015366386222667342, 0.04353846345815502, 0.030692880107179472, 0.001969489776701203, 0.0003074486608394128, -0.008537593869025379, -0.04243560923121139, -0.08121425708596548, -0.027333645860444643, -0.006758799753253931, -7.679922902894838e-05, 0.00041767043440718316, 0.07490124300728651, 0.008707641370821688]
+Final Balance
+[-4.871321693945449, 0.21709379737835444, -0.14271551809524524, -1.1045711839690626, -2.350381491342237, -3.748971944348113, -2.549784690603208, 7.830784880558918, -2.693419286198517, -3.948049890085206, -4.038050266679569, -2.8534443714594477, 12.457499890532238, 0.2541918970950567, -1.1558675893871133, -1.1530500790968465]
+Final Surplus
+-9.850057539645444
+Final Balance SMPC
+[-3.65839042  0.40868531  0.05678863 -0.26804317 -1.22496902 -3.70014576
+ -2.51336325  7.8451736  -2.68686952 -3.72937154 -4.00065495 -2.8128539
+ 12.45568379  0.24680156 -1.15318363 -1.14143531]
+Final Surplus SMPC
+-5.876147580000001
+[4.171058103457976, -1.706554203932627, -6.305295640045602, -5.778603835119269, -1.846552254551302, -0.2555001303017191, 5.007994980362215, 5.850713143133249, 2.275285653406368, -0.9296558979236013, -3.5327952357961974, -5.380880606202897, -4.8752399349617255, -0.940880832969432, -0.9270217093876573, 1.6744615021115048, 7.545805199643706, 9.858067542615357, 5.240193408821042, 0.10341503504985537, -1.4431021033754021, -1.4300084888619797, -10.95627548516897, -5.268685749648341]
+Flow Surplus
+[0.0012202394225487015, 7.526580324152725e-05, 0.0006310609001957002, 0.0006907194896290246, 0.00029086889149148925, 6.434085042520635e-05, 0.0008000394448687536, 0.0011401743533448836, 0.0009891706171976447, 0.0010560548135815293, 0.0014557661830776891, 0.0014646416063921266, 0.0014682014687044855, -0.0006372397029090595, -0.00040563691852659074, 0.00041464234402692826, -0.0003550608597981796, 0.00011526638139611883, -0.0006539170039308283, -0.0009712888716682123, -0.003367069634760368, -0.0029879251127047134, -0.0008784892058571591, -0.0011798485367758562]
+Total Flow Surplus
+0.00043997672319084045
+Energy Residual
+0.00043998
+Total Relative Surplus
+0.23689711302037006
+Took 31.75833917458852 minutes to Solve Problem
+Final it: 325, Rho:15000.0, Final Value: -4.87617619, Total Flow Surplus: 0.00043997672319084045
+NORMAL
+Mode 0, Scenario 0, Multi 0.0
+325 its, 31.76 minutes, 0.2369 %, 0.000439977 abs.

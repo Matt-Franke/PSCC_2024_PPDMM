@@ -1,0 +1,1010 @@
+Total arguments passed: 5
+Begin mode 0 with scenario 0 with Multi 0.0
+Data Import Complete
+Setup Data Bundling and Community
+Spawn Nodes
+DCP CHECK: True, Vals: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Begin Nodes
+It. 0: OF Values: 4590835.732594905, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It0, Primal: 2.476429817906508, Dual:175.38153025572126, Flow: 8.367873411813491, Surplus: -96.2084295116393, Terminate:0.0
+CENTRAL It0, Primal: 0, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 1: OF Values: 35317.70688827769, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It1, Primal: 0.7103806117030531, Dual:1.1435316646181113, Flow: 8.07973414396464, Surplus: -77.97490132564845, Terminate:0.0
+CENTRAL It1, Primal: 0, Dual:0, Flow: 3, Surplus: 0, Terminate:0.0
+It. 2: OF Values: 33856.453687493056, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It2, Primal: 0.7130146361256905, Dual:0.5528187827910886, Flow: 11.808604122094462, Surplus: -96.55311995223002, Terminate:0.0
+CENTRAL It2, Primal: 1, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 3: OF Values: 36694.99457009805, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It3, Primal: 0.24859428662780464, Dual:0.3758114256081614, Flow: 70.73616612138477, Surplus: -547.5614954476492, Terminate:0.0
+CENTRAL It3, Primal: 0, Dual:1, Flow: 0, Surplus: 0, Terminate:0.0
+It. 4: OF Values: 37812.75747242485, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It4, Primal: 0.15773146571243654, Dual:0.3192256588740057, Flow: 118.23708684396718, Surplus: -914.8773758304678, Terminate:0.0
+CENTRAL It4, Primal: 0, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 5: OF Values: 36455.07821350248, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It5, Primal: 0.15732344515335028, Dual:0.2566920696342712, Flow: 135.16090412175367, Surplus: -1048.2633484493892, Terminate:0.0
+CENTRAL It5, Primal: 0, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 6: OF Values: 34639.850375877504, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It6, Primal: 0.16922354925212174, Dual:0.18091871920079522, Flow: 127.57480477459421, Surplus: -992.0277975300775, Terminate:0.0
+CENTRAL It6, Primal: 0, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 7: OF Values: 33826.12740265476, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It7, Primal: 0.16726296577034436, Dual:0.10440928387107153, Flow: 106.22308847137572, Surplus: -829.1585441153552, Terminate:0.0
+CENTRAL It7, Primal: 0, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 8: OF Values: 34139.79627741806, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It8, Primal: 0.14554125709756827, Dual:0.08407244072935524, Flow: 79.46598141380991, Surplus: -622.6097162310681, Terminate:0.0
+CENTRAL It8, Primal: 0, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 9: OF Values: 34769.56838024643, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It9, Primal: 0.10933805013719401, Dual:0.13330516453962135, Flow: 51.3146962611563, Surplus: -408.50481292702807, Terminate:0.0
+CENTRAL It9, Primal: 0, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 10: OF Values: 34720.862900167915, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It10, Primal: 0.0706593042179278, Dual:0.15730950808783595, Flow: 24.852545022332976, Surplus: -205.9853765263395, Terminate:0.0
+CENTRAL It10, Primal: 0, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 11: OF Values: 33367.9591447825, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It11, Primal: 0.04037592954171887, Dual:0.15882728084065464, Flow: 4.214584094117731, Surplus: -34.33398963648118, Terminate:0.0
+CENTRAL It11, Primal: 1, Dual:0, Flow: 19, Surplus: 0, Terminate:0.0
+It. 12: OF Values: 30667.299302100677, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It12, Primal: 0.039991148305329974, Dual:0.13108881037458434, Flow: 16.32442804154742, Surplus: 114.6098098858055, Terminate:0.0
+CENTRAL It12, Primal: 1, Dual:0, Flow: 3, Surplus: 0, Terminate:0.0
+It. 13: OF Values: 27057.2847235883, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It13, Primal: 0.075590255316223, Dual:0.08820363768946281, Flow: 32.36786166070574, Surplus: 240.1149107810289, Terminate:0.0
+CENTRAL It13, Primal: 0, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 14: OF Values: 23258.254576497886, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It14, Primal: 0.11175277143193346, Dual:0.049591981372413343, Flow: 45.15994373954197, Surplus: 340.58905516136645, Terminate:0.0
+CENTRAL It14, Primal: 1, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 15: OF Values: 20034.96250633161, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It15, Primal: 0.13632071835104534, Dual:0.021167207354865915, Flow: 55.512912644996426, Surplus: 420.49674754372285, Terminate:0.0
+CENTRAL It15, Primal: 0, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 16: OF Values: 17996.96042977443, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It16, Primal: 0.14454945120572354, Dual:0.01511885687796138, Flow: 63.66899477284646, Surplus: 484.4150187328101, Terminate:0.0
+CENTRAL It16, Primal: 0, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 17: OF Values: 17470.179857727686, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It17, Primal: 0.1366886659768096, Dual:0.01247472172818487, Flow: 70.18838664266872, Surplus: 536.0606985943629, Terminate:0.0
+CENTRAL It17, Primal: 1, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 18: OF Values: 18449.416197424543, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It18, Primal: 0.11667049765284251, Dual:0.017031250474318353, Flow: 75.4444510981522, Surplus: 578.3078054949603, Terminate:0.0
+CENTRAL It18, Primal: 1, Dual:1, Flow: 0, Surplus: 0, Terminate:0.0
+It. 19: OF Values: 20630.229449646013, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It19, Primal: 0.09024615686587241, Dual:0.03065712487495468, Flow: 79.76031485753771, Surplus: 613.2409399098964, Terminate:0.0
+CENTRAL It19, Primal: 1, Dual:3, Flow: 0, Surplus: 0, Terminate:0.0
+It. 20: OF Values: 23507.539761772776, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It20, Primal: 0.06311553191130298, Dual:0.042562886309126226, Flow: 83.3214738319448, Surplus: 642.2731639985528, Terminate:0.0
+CENTRAL It20, Primal: 2, Dual:3, Flow: 0, Surplus: 0, Terminate:0.0
+It. 21: OF Values: 26511.64736806086, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It21, Primal: 0.039583056776412, Dual:0.052744463105004434, Flow: 86.25960718010292, Surplus: 666.3911315359906, Terminate:0.0
+CENTRAL It21, Primal: 2, Dual:3, Flow: 0, Surplus: 0, Terminate:0.0
+It. 22: OF Values: 29134.48109488054, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It22, Primal: 0.028655859696414845, Dual:0.05736637787090436, Flow: 88.41383549662619, Surplus: 685.001312209642, Terminate:0.0
+CENTRAL It22, Primal: 1, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 23: OF Values: 31019.101296156943, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It23, Primal: 0.026202194810068285, Dual:0.05634232592438739, Flow: 89.96574010957201, Surplus: 698.9103705791141, Terminate:0.0
+CENTRAL It23, Primal: 1, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 24: OF Values: 31985.239575373984, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It24, Primal: 0.020925022404112193, Dual:0.05139581156723416, Flow: 90.81307443374757, Surplus: 706.7659899307899, Terminate:0.0
+CENTRAL It24, Primal: 3, Dual:3, Flow: 0, Surplus: 0, Terminate:0.0
+It. 25: OF Values: 32005.368609035497, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It25, Primal: 0.01407622530201151, Dual:0.04763475787594308, Flow: 90.86799217191391, Surplus: 708.0334808573939, Terminate:0.0
+CENTRAL It25, Primal: 3, Dual:3, Flow: 0, Surplus: 0, Terminate:0.0
+It. 26: OF Values: 31154.46473686731, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It26, Primal: 0.008139328328972018, Dual:0.0457730362131119, Flow: 90.04675584976108, Surplus: 702.1954046904089, Terminate:0.0
+CENTRAL It26, Primal: 3, Dual:5, Flow: 0, Surplus: 0, Terminate:0.0
+It. 27: OF Values: 29558.975433423075, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It27, Primal: 0.01267955167533072, Dual:0.04391188702616939, Flow: 88.3311269509272, Surplus: 689.1257379230692, Terminate:0.0
+CENTRAL It27, Primal: 1, Dual:5, Flow: 0, Surplus: 0, Terminate:0.0
+It. 28: OF Values: 27365.218724331018, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It28, Primal: 0.018030114083704814, Dual:0.039428945645647515, Flow: 85.7548492605756, Surplus: 669.1631547995897, Terminate:0.0
+CENTRAL It28, Primal: 1, Dual:4, Flow: 0, Surplus: 0, Terminate:0.0
+It. 29: OF Values: 24731.4043086374, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It29, Primal: 0.023435570551225478, Dual:0.03297335808798635, Flow: 82.44012338022583, Surplus: 643.0802397776309, Terminate:0.0
+CENTRAL It29, Primal: 3, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 30: OF Values: 21834.010510597032, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It30, Primal: 0.028381906670056332, Dual:0.025389401082319085, Flow: 78.59007721574984, Surplus: 611.9819055712226, Terminate:0.0
+CENTRAL It30, Primal: 1, Dual:1, Flow: 0, Surplus: 0, Terminate:0.0
+It. 31: OF Values: 18875.44581618541, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It31, Primal: 0.032528906481304645, Dual:0.019070449788262066, Flow: 74.25734256122877, Surplus: 577.094682867966, Terminate:0.0
+CENTRAL It31, Primal: 1, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 32: OF Values: 16081.151167425714, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It32, Primal: 0.035651987260812715, Dual:0.013277919533806444, Flow: 69.62740960796219, Surplus: 539.6406045470732, Terminate:0.0
+CENTRAL It32, Primal: 1, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 33: OF Values: 13678.855494444007, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It33, Primal: 0.037603147567735834, Dual:0.00779563890234939, Flow: 64.77563661403656, Surplus: 500.72827058290795, Terminate:0.0
+CENTRAL It33, Primal: 1, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 34: OF Values: 11866.345373184355, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It34, Primal: 0.04135673581631968, Dual:0.006633839241822256, Flow: 59.8357720235634, Surplus: 461.2562705573754, Terminate:0.0
+CENTRAL It34, Primal: 1, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 35: OF Values: 10773.073513967774, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It35, Primal: 0.04312623548198892, Dual:0.005852429229450389, Flow: 54.90440817880146, Surplus: 421.90292306120324, Terminate:0.0
+CENTRAL It35, Primal: 1, Dual:8, Flow: 0, Surplus: 0, Terminate:0.0
+It. 36: OF Values: 10433.565070212508, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It36, Primal: 0.04122872973983529, Dual:0.004679021731895113, Flow: 50.11136724610016, Surplus: 383.1910779658582, Terminate:0.0
+CENTRAL It36, Primal: 1, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 37: OF Values: 10776.62091550945, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It37, Primal: 0.03612623737285764, Dual:0.0036963464327356746, Flow: 45.4991716953842, Surplus: 346.21134985071086, Terminate:0.0
+CENTRAL It37, Primal: 1, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 38: OF Values: 11639.66303739781, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It38, Primal: 0.028994211608967813, Dual:0.007824200966521531, Flow: 41.06075277055988, Surplus: 309.94980174544327, Terminate:0.0
+CENTRAL It38, Primal: 1, Dual:1, Flow: 0, Surplus: 0, Terminate:0.0
+It. 39: OF Values: 12797.855963863887, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It39, Primal: 0.024374248840330397, Dual:0.012645749648443769, Flow: 36.898623228159664, Surplus: 275.5107230340571, Terminate:0.0
+CENTRAL It39, Primal: 1, Dual:1, Flow: 0, Surplus: 0, Terminate:0.0
+It. 40: OF Values: 14006.138444075072, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It40, Primal: 0.019356647770928787, Dual:0.017477466095747022, Flow: 32.92542492213828, Surplus: 243.03202519637122, Terminate:0.0
+CENTRAL It40, Primal: 2, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 41: OF Values: 15039.102093184889, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It41, Primal: 0.01429833112351664, Dual:0.021695106551854564, Flow: 29.091767397810028, Surplus: 213.68268551843465, Terminate:0.0
+CENTRAL It41, Primal: 3, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 42: OF Values: 15721.10979843155, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It42, Primal: 0.009582891896237926, Dual:0.024796273508469815, Flow: 25.381707514218256, Surplus: 185.67434905356436, Terminate:0.0
+CENTRAL It42, Primal: 3, Dual:3, Flow: 0, Surplus: 0, Terminate:0.0
+It. 43: OF Values: 15943.501283731355, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It43, Primal: 0.005591155531685432, Dual:0.026442297540283793, Flow: 21.849026667566815, Surplus: 159.7844694516109, Terminate:0.0
+CENTRAL It43, Primal: 6, Dual:3, Flow: 0, Surplus: 0, Terminate:0.0
+It. 44: OF Values: 15668.014235420793, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It44, Primal: 0.004395270437386742, Dual:0.026479707958139496, Flow: 18.73628505936345, Surplus: 134.98861508902206, Terminate:0.0
+CENTRAL It44, Primal: 6, Dual:3, Flow: 0, Surplus: 0, Terminate:0.0
+It. 45: OF Values: 14919.906921158683, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It45, Primal: 0.00844137045546353, Dual:0.024944432482345964, Flow: 15.740607824400687, Surplus: 111.1810895251368, Terminate:0.0
+CENTRAL It45, Primal: 8, Dual:4, Flow: 0, Surplus: 0, Terminate:0.0
+It. 46: OF Values: 13775.150963933524, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It46, Primal: 0.013776032558025116, Dual:0.02204829125060462, Flow: 12.619976441643425, Surplus: 86.8043813297328, Terminate:0.0
+CENTRAL It46, Primal: 9, Dual:3, Flow: 7, Surplus: 0, Terminate:0.0
+It. 47: OF Values: 12345.628949624803, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It47, Primal: 0.019487024808473762, Dual:0.018150670799719867, Flow: 9.28038631736605, Surplus: 60.032512085861214, Terminate:0.0
+CENTRAL It47, Primal: 8, Dual:5, Flow: 14, Surplus: 0, Terminate:0.0
+It. 48: OF Values: 10764.411889344186, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It48, Primal: 0.0247295864555403, Dual:0.013716198192447659, Flow: 5.638125133587176, Surplus: 30.276709217472398, Terminate:0.0
+CENTRAL It48, Primal: 6, Dual:5, Flow: 17, Surplus: 0, Terminate:0.0
+It. 49: OF Values: 9171.627786036674, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It49, Primal: 0.0288443190729009, Dual:0.011039958906903615, Flow: 1.3322126801015741, Surplus: -2.3542445797702545, Terminate:0.0
+CENTRAL It49, Primal: 6, Dual:5, Flow: 24, Surplus: 0, Terminate:0.0
+It. 50: OF Values: 7700.930948407837, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It50, Primal: 0.03108897607443822, Dual:0.009148231163120702, Flow: 5.221375559195437, Surplus: -39.54318514898544, Terminate:0.0
+CENTRAL It50, Primal: 5, Dual:7, Flow: 19, Surplus: 0, Terminate:0.0
+It. 51: OF Values: 6463.395378634505, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It51, Primal: 0.031257029921959556, Dual:0.007354398113900709, Flow: 11.175792925046718, Surplus: -81.91865973485277, Terminate:0.0
+CENTRAL It51, Primal: 5, Dual:7, Flow: 5, Surplus: 0, Terminate:0.0
+It. 52: OF Values: 5538.5900709304915, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It52, Primal: 0.03007223123736072, Dual:0.005930562843004823, Flow: 16.740486398956026, Surplus: -132.19001951030702, Terminate:0.0
+CENTRAL It52, Primal: 4, Dual:9, Flow: 0, Surplus: 0, Terminate:0.0
+It. 53: OF Values: 4971.759000825104, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It53, Primal: 0.02784310333894268, Dual:0.00520745147953195, Flow: 24.596488263409782, Surplus: -189.684935632251, Terminate:0.0
+CENTRAL It53, Primal: 3, Dual:10, Flow: 0, Surplus: 0, Terminate:0.0
+It. 54: OF Values: 4765.852501582361, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It54, Primal: 0.02470405422150627, Dual:0.005061591432972498, Flow: 33.199395237060166, Surplus: -254.16206666078162, Terminate:0.0
+CENTRAL It54, Primal: 2, Dual:10, Flow: 0, Surplus: 0, Terminate:0.0
+It. 55: OF Values: 4880.052116392256, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It55, Primal: 0.02088374219212317, Dual:0.005658994262011458, Flow: 42.13475984040597, Surplus: -323.85841140798397, Terminate:0.0
+CENTRAL It55, Primal: 3, Dual:8, Flow: 0, Surplus: 0, Terminate:0.0
+It. 56: OF Values: 5237.10164692612, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It56, Primal: 0.016738153825222115, Dual:0.006973549060017933, Flow: 51.095465445496494, Surplus: -397.7538507532552, Terminate:0.0
+CENTRAL It56, Primal: 3, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 57: OF Values: 5734.123020232027, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It57, Primal: 0.012571065492623407, Dual:0.008671767245028087, Flow: 61.27488675826744, Surplus: -477.4629240881024, Terminate:0.0
+CENTRAL It57, Primal: 3, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 58: OF Values: 6258.312973041646, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It58, Primal: 0.008711540584066407, Dual:0.010607283658339189, Flow: 71.57199419759532, Surplus: -558.7972661444813, Terminate:0.0
+CENTRAL It58, Primal: 2, Dual:5, Flow: 0, Surplus: 0, Terminate:0.0
+It. 59: OF Values: 6702.800832015972, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It59, Primal: 0.005393091764591654, Dual:0.012747156728525118, Flow: 82.14058110984496, Surplus: -641.9602725384702, Terminate:0.0
+CENTRAL It59, Primal: 2, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 60: OF Values: 6981.195863699808, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It60, Primal: 0.003996110450711172, Dual:0.014117200287420589, Flow: 92.56894502307885, Surplus: -724.6969812465633, Terminate:0.0
+CENTRAL It60, Primal: 3, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 61: OF Values: 7037.6690257715445, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It61, Primal: 0.0041229517724639736, Dual:0.014545948809102652, Flow: 102.78357972216675, Surplus: -805.6132451044367, Terminate:0.0
+CENTRAL It61, Primal: 5, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 62: OF Values: 6853.124491494591, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It62, Primal: 0.004318105694062115, Dual:0.014009167598391924, Flow: 112.68144676883284, Surplus: -883.0182917916652, Terminate:0.0
+CENTRAL It62, Primal: 7, Dual:1, Flow: 0, Surplus: 0, Terminate:0.0
+It. 63: OF Values: 6445.410505596505, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It63, Primal: 0.004562286786118568, Dual:0.012624065972633616, Flow: 122.04329197329328, Surplus: -952.8594880721979, Terminate:0.0
+CENTRAL It63, Primal: 7, Dual:1, Flow: 0, Surplus: 0, Terminate:0.0
+It. 64: OF Values: 5865.09545957905, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It64, Primal: 0.004835464337823964, Dual:0.010612531930133189, Flow: 130.72454474560206, Surplus: -1016.923203239882, Terminate:0.0
+CENTRAL It64, Primal: 2, Dual:1, Flow: 0, Surplus: 0, Terminate:0.0
+It. 65: OF Values: 5186.691249017762, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It65, Primal: 0.00511728463858976, Dual:0.008255247214736685, Flow: 138.5444732380515, Surplus: -1073.1706281320226, Terminate:0.0
+CENTRAL It65, Primal: 1, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 66: OF Values: 4499.495809457211, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It66, Primal: 0.006326630129435273, Dual:0.0058460059734797695, Flow: 145.39822272147583, Surplus: -1119.8776104675394, Terminate:0.0
+CENTRAL It66, Primal: 1, Dual:0, Flow: 0, Surplus: 0, Terminate:0.0
+It. 67: OF Values: 3896.7357925943347, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It67, Primal: 0.008220940949210427, Dual:0.0038742620585299533, Flow: 151.1085104338566, Surplus: -1156.6762539067536, Terminate:0.0
+CENTRAL It67, Primal: 1, Dual:3, Flow: 0, Surplus: 0, Terminate:0.0
+It. 68: OF Values: 3464.296569443308, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It68, Primal: 0.009681881858368793, Dual:0.0025703053361183542, Flow: 155.45875162347886, Surplus: -1183.213072749926, Terminate:0.0
+CENTRAL It68, Primal: 1, Dual:5, Flow: 0, Surplus: 0, Terminate:0.0
+It. 69: OF Values: 3271.740767105804, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It69, Primal: 0.011086442144163346, Dual:0.001462471308744859, Flow: 158.1546545777896, Surplus: -1200.5132580496322, Terminate:0.0
+CENTRAL It69, Primal: 1, Dual:13, Flow: 0, Surplus: 0, Terminate:0.0
+It. 70: OF Values: 3365.3085558756898, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It70, Primal: 0.012313864704037582, Dual:0.0008416562560404696, Flow: 158.24496866235356, Surplus: -1210.195912479862, Terminate:0.0
+CENTRAL It70, Primal: 1, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 71: OF Values: 3764.2195644630356, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It71, Primal: 0.012826417951969765, Dual:0.0006759031863943656, Flow: 158.2779552366121, Surplus: -1212.041646649812, Terminate:0.0
+CENTRAL It71, Primal: 1, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 72: OF Values: 4459.886940746142, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It72, Primal: 0.012545694787786827, Dual:0.000687120802381569, Flow: 157.31594767528244, Surplus: -1205.2157432467004, Terminate:0.0
+CENTRAL It72, Primal: 1, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 73: OF Values: 5417.447562139143, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It73, Primal: 0.0114345855560492, Dual:0.001562512277781015, Flow: 154.79931017518587, Surplus: -1185.1898067866014, Terminate:0.0
+CENTRAL It73, Primal: 1, Dual:10, Flow: 0, Surplus: 0, Terminate:0.0
+It. 74: OF Values: 6578.976200581295, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It74, Primal: 0.009649361512655642, Dual:0.0028088917167785094, Flow: 149.85317304943501, Surplus: -1151.1464988852974, Terminate:0.0
+CENTRAL It74, Primal: 1, Dual:9, Flow: 0, Surplus: 0, Terminate:0.0
+It. 75: OF Values: 7870.698205493953, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It75, Primal: 0.00747682719152627, Dual:0.004329658968342196, Flow: 143.800419351204, Surplus: -1107.5133950997815, Terminate:0.0
+CENTRAL It75, Primal: 1, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 76: OF Values: 9212.056478868522, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It76, Primal: 0.005234643291692338, Dual:0.005958917775129386, Flow: 136.7813147157355, Surplus: -1053.9893540998337, Terminate:0.0
+CENTRAL It76, Primal: 1, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 77: OF Values: 10523.943364677982, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It77, Primal: 0.0033179083496128504, Dual:0.0075115908761541235, Flow: 128.75625307216092, Surplus: -991.3143896806114, Terminate:0.0
+CENTRAL It77, Primal: 2, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 78: OF Values: 11736.756951425694, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It78, Primal: 0.002671143977164112, Dual:0.008880866543853139, Flow: 119.72462973953286, Surplus: -920.5065394981125, Terminate:0.0
+CENTRAL It78, Primal: 6, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 79: OF Values: 12796.738515824703, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It79, Primal: 0.0022151371467624094, Dual:0.01006216064568954, Flow: 109.7639872959803, Surplus: -842.6660010810859, Terminate:0.0
+CENTRAL It79, Primal: 9, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 80: OF Values: 13669.843491637974, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It80, Primal: 0.0018438155984259051, Dual:0.010910833765129573, Flow: 98.82869643305348, Surplus: -758.9255763414627, Terminate:0.0
+CENTRAL It80, Primal: 10, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 81: OF Values: 14343.170674976629, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It81, Primal: 0.0015314216929023469, Dual:0.011390494621390185, Flow: 87.44619955316372, Surplus: -670.4109636645413, Terminate:0.0
+CENTRAL It81, Primal: 12, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 82: OF Values: 14823.743021901624, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It82, Primal: 0.0014524562248933522, Dual:0.011465389883633624, Flow: 75.4691669650198, Surplus: -578.9521729920207, Terminate:0.0
+CENTRAL It82, Primal: 10, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 83: OF Values: 15135.356945698668, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It83, Primal: 0.00247407154661529, Dual:0.01123623304511228, Flow: 63.11559794963586, Surplus: -484.35324485301203, Terminate:0.0
+CENTRAL It83, Primal: 10, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 84: OF Values: 15312.541012999242, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It84, Primal: 0.0037535207056678837, Dual:0.010686685193706306, Flow: 50.458097486898055, Surplus: -389.42026737759767, Terminate:0.0
+CENTRAL It84, Primal: 9, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 85: OF Values: 15396.253654671214, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It85, Primal: 0.004995041518614828, Dual:0.00987745330291518, Flow: 39.76322185498517, Surplus: -295.47171373208744, Terminate:0.0
+CENTRAL It85, Primal: 8, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 86: OF Values: 15426.77610780206, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It86, Primal: 0.006024047290696299, Dual:0.00906468863424718, Flow: 27.30842737596405, Surplus: -200.76005793217396, Terminate:0.0
+CENTRAL It86, Primal: 7, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 87: OF Values: 15437.251417858275, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It87, Primal: 0.006734722044177344, Dual:0.008209093120523205, Flow: 15.723221155194205, Surplus: -109.11416246723506, Terminate:0.0
+CENTRAL It87, Primal: 7, Dual:10, Flow: 0, Surplus: 0, Terminate:0.0
+It. 88: OF Values: 15452.211141655043, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It88, Primal: 0.007051996739111765, Dual:0.007224422371017957, Flow: 4.539104185606288, Surplus: -24.321670756887393, Terminate:0.0
+CENTRAL It88, Primal: 6, Dual:10, Flow: 19, Surplus: 0, Terminate:0.0
+It. 89: OF Values: 15485.10509914066, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It89, Primal: 0.006941505581933585, Dual:0.006426403366413317, Flow: 7.250563141268925, Surplus: 57.495473138817296, Terminate:0.0
+CENTRAL It89, Primal: 6, Dual:10, Flow: 15, Surplus: 0, Terminate:0.0
+It. 90: OF Values: 15533.26231057391, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It90, Primal: 0.006452431843840939, Dual:0.005986811871432443, Flow: 17.361607317931167, Surplus: 137.46040516903463, Terminate:0.0
+CENTRAL It90, Primal: 7, Dual:10, Flow: 0, Surplus: 0, Terminate:0.0
+It. 91: OF Values: 15580.689871406312, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It91, Primal: 0.005672011175943882, Dual:0.005705380630247626, Flow: 26.714205521335078, Surplus: 211.0975676395033, Terminate:0.0
+CENTRAL It91, Primal: 7, Dual:10, Flow: 0, Surplus: 0, Terminate:0.0
+It. 92: OF Values: 15603.321856346802, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It92, Primal: 0.0046797799215009175, Dual:0.005529028175240456, Flow: 35.58981332679563, Surplus: 278.4461481422788, Terminate:0.0
+CENTRAL It92, Primal: 9, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 93: OF Values: 15571.094007292631, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It93, Primal: 0.0035838335829056463, Dual:0.005530316392707679, Flow: 44.0221548864074, Surplus: 342.28136357331863, Terminate:0.0
+CENTRAL It93, Primal: 9, Dual:5, Flow: 0, Surplus: 0, Terminate:0.0
+It. 94: OF Values: 15451.34881209165, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It94, Primal: 0.0025142651910932687, Dual:0.005587613314923048, Flow: 51.61027674077803, Surplus: 399.5934682039261, Terminate:0.0
+CENTRAL It94, Primal: 9, Dual:3, Flow: 0, Surplus: 0, Terminate:0.0
+It. 95: OF Values: 15215.539525725675, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It95, Primal: 0.001563261103316134, Dual:0.005896849796331935, Flow: 58.43686631907104, Surplus: 452.1321189562186, Terminate:0.0
+CENTRAL It95, Primal: 13, Dual:3, Flow: 0, Surplus: 0, Terminate:0.0
+It. 96: OF Values: 14841.91241965552, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It96, Primal: 0.0008520516179727413, Dual:0.0060532274331577575, Flow: 64.59215985976167, Surplus: 499.29480970483183, Terminate:0.0
+CENTRAL It96, Primal: 16, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 97: OF Values: 14319.320955595187, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It97, Primal: 0.0009375083058244168, Dual:0.0060159773905808355, Flow: 70.03181730914345, Surplus: 541.4619165027617, Terminate:0.0
+CENTRAL It97, Primal: 16, Dual:2, Flow: 0, Surplus: 0, Terminate:0.0
+It. 98: OF Values: 13648.705670432295, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It98, Primal: 0.0011186285593006162, Dual:0.0057658540082850904, Flow: 74.88345290865898, Surplus: 579.0069476483161, Terminate:0.0
+CENTRAL It98, Primal: 15, Dual:3, Flow: 0, Surplus: 0, Terminate:0.0
+It. 99: OF Values: 12843.613371453812, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It99, Primal: 0.0013777813146306937, Dual:0.005309433534690856, Flow: 79.28622496173426, Surplus: 612.3472458016711, Terminate:0.0
+CENTRAL It99, Primal: 12, Dual:4, Flow: 0, Surplus: 0, Terminate:0.0
+It. 100: OF Values: 11928.8841096599, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It100, Primal: 0.001704199704219651, Dual:0.004678567481829825, Flow: 83.30217181787069, Surplus: 641.9270030212627, Terminate:0.0
+CENTRAL It100, Primal: 12, Dual:4, Flow: 0, Surplus: 0, Terminate:0.0
+It. 101: OF Values: 10938.326519005388, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It101, Primal: 0.002078532627427808, Dual:0.003924355459658601, Flow: 86.96094451195268, Surplus: 668.1921028627058, Terminate:0.0
+CENTRAL It101, Primal: 7, Dual:5, Flow: 0, Surplus: 0, Terminate:0.0
+It. 102: OF Values: 9911.387360275025, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It102, Primal: 0.0024754109558348977, Dual:0.003111889903136748, Flow: 90.29218097587523, Surplus: 691.5657522171549, Terminate:0.0
+CENTRAL It102, Primal: 5, Dual:5, Flow: 0, Surplus: 0, Terminate:0.0
+It. 103: OF Values: 8889.323029610576, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It103, Primal: 0.0029360365145775285, Dual:0.0023122563970975466, Flow: 93.31014707602453, Surplus: 712.4288427695777, Terminate:0.0
+CENTRAL It103, Primal: 4, Dual:5, Flow: 0, Surplus: 0, Terminate:0.0
+It. 104: OF Values: 7911.3260468895, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It104, Primal: 0.0035243415772342195, Dual:0.0015941252924430208, Flow: 96.07528237352214, Surplus: 731.1023734127119, Terminate:0.0
+CENTRAL It104, Primal: 2, Dual:8, Flow: 0, Surplus: 0, Terminate:0.0
+It. 105: OF Values: 7010.930712844672, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It105, Primal: 0.003924442062257855, Dual:0.0010164005316525555, Flow: 98.60370707604862, Surplus: 747.0553559884404, Terminate:0.0
+CENTRAL It105, Primal: 2, Dual:15, Flow: 0, Surplus: 0, Terminate:0.0
+It. 106: OF Values: 6213.753566656025, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It106, Primal: 0.004091162429399395, Dual:0.0007790747739950697, Flow: 100.8292736228211, Surplus: 761.2203902063025, Terminate:0.0
+CENTRAL It106, Primal: 2, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 107: OF Values: 5535.212298184956, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It107, Primal: 0.004009221000171851, Dual:0.0006168866906972125, Flow: 102.74980691031848, Surplus: 773.8178027059242, Terminate:0.0
+CENTRAL It107, Primal: 2, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 108: OF Values: 4980.163506985139, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It108, Primal: 0.003960683081393186, Dual:0.0004913484492546156, Flow: 104.36171120330513, Surplus: 784.8422960764949, Terminate:0.0
+CENTRAL It108, Primal: 1, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 109: OF Values: 4543.525750901461, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It109, Primal: 0.0039419311935241985, Dual:0.0006535408179984751, Flow: 105.8706920089338, Surplus: 794.3413444346176, Terminate:0.0
+CENTRAL It109, Primal: 1, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 110: OF Values: 4211.889262391756, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It110, Primal: 0.0038551945820691504, Dual:0.0010102360865706385, Flow: 107.06615120429377, Surplus: 802.2075843026504, Terminate:0.0
+CENTRAL It110, Primal: 1, Dual:15, Flow: 0, Surplus: 0, Terminate:0.0
+It. 111: OF Values: 3965.6661727332016, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It111, Primal: 0.003715712639549684, Dual:0.0014687466414681641, Flow: 107.93021292444396, Surplus: 808.2354585489053, Terminate:0.0
+CENTRAL It111, Primal: 1, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 112: OF Values: 3782.2832785130377, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It112, Primal: 0.003540762803382627, Dual:0.001971999213466403, Flow: 108.44035983875243, Surplus: 812.1179831452449, Terminate:0.0
+CENTRAL It112, Primal: 3, Dual:9, Flow: 0, Surplus: 0, Terminate:0.0
+It. 113: OF Values: 3638.8185343607956, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It113, Primal: 0.0033476388964029844, Dual:0.002461169424051021, Flow: 108.59239700759073, Surplus: 813.5209630268893, Terminate:0.0
+CENTRAL It113, Primal: 5, Dual:8, Flow: 0, Surplus: 0, Terminate:0.0
+It. 114: OF Values: 3514.7220279837024, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It114, Primal: 0.0031519366918315787, Dual:0.002885489513187618, Flow: 108.34818612456363, Surplus: 812.1222019124986, Terminate:0.0
+CENTRAL It114, Primal: 7, Dual:8, Flow: 0, Surplus: 0, Terminate:0.0
+It. 115: OF Values: 3393.940482572685, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It115, Primal: 0.00296622575623834, Dual:0.003206561571835693, Flow: 107.67851056142041, Surplus: 807.6085711506616, Terminate:0.0
+CENTRAL It115, Primal: 8, Dual:8, Flow: 0, Surplus: 0, Terminate:0.0
+It. 116: OF Values: 3266.376514306006, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It116, Primal: 0.002798928915862003, Dual:0.003401434540306907, Flow: 106.54198219926748, Surplus: 799.6611566208757, Terminate:0.0
+CENTRAL It116, Primal: 9, Dual:8, Flow: 0, Surplus: 0, Terminate:0.0
+It. 117: OF Values: 3128.317992614337, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It117, Primal: 0.0026538863829006147, Dual:0.0034635931033586025, Flow: 104.88894040970357, Surplus: 788.0193449013285, Terminate:0.0
+CENTRAL It117, Primal: 9, Dual:8, Flow: 0, Surplus: 0, Terminate:0.0
+It. 118: OF Values: 2982.334774106589, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It118, Primal: 0.0025306437554956937, Dual:0.0034028970443677684, Flow: 102.68416236747805, Surplus: 772.4092019678556, Terminate:0.0
+CENTRAL It118, Primal: 9, Dual:8, Flow: 0, Surplus: 0, Terminate:0.0
+It. 119: OF Values: 2836.1836601579084, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It119, Primal: 0.0024252363901194596, Dual:0.003241215492883231, Flow: 99.91361508184796, Surplus: 752.2048182632626, Terminate:0.0
+CENTRAL It119, Primal: 7, Dual:8, Flow: 0, Surplus: 0, Terminate:0.0
+It. 120: OF Values: 2701.1232041202343, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It120, Primal: 0.0023313713145370948, Dual:0.003010757592317631, Flow: 96.55919059040092, Surplus: 727.4396432002445, Terminate:0.0
+CENTRAL It120, Primal: 7, Dual:9, Flow: 0, Surplus: 0, Terminate:0.0
+It. 121: OF Values: 2590.0764026671463, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It121, Primal: 0.002485796394033548, Dual:0.0027501746678646067, Flow: 92.6036633855506, Surplus: 698.0756019013537, Terminate:0.0
+CENTRAL It121, Primal: 5, Dual:12, Flow: 0, Surplus: 0, Terminate:0.0
+It. 122: OF Values: 2515.6014762729724, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It122, Primal: 0.0030789295364008536, Dual:0.002521451555093312, Flow: 88.05080151422545, Surplus: 664.0595745221837, Terminate:0.0
+CENTRAL It122, Primal: 5, Dual:12, Flow: 0, Surplus: 0, Terminate:0.0
+It. 123: OF Values: 2487.948394298388, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It123, Primal: 0.0035720161662174087, Dual:0.002375649933787023, Flow: 82.91717905128672, Surplus: 625.4592087462561, Terminate:0.0
+CENTRAL It123, Primal: 5, Dual:12, Flow: 0, Surplus: 0, Terminate:0.0
+It. 124: OF Values: 2513.4950046844233, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It124, Primal: 0.003918078234086325, Dual:0.002361339338044677, Flow: 77.20239413746367, Surplus: 582.589775873472, Terminate:0.0
+CENTRAL It124, Primal: 6, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 125: OF Values: 2593.8145169390395, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It125, Primal: 0.004081830448765816, Dual:0.0025678990655365673, Flow: 70.95408622368177, Surplus: 535.9492306630143, Terminate:0.0
+CENTRAL It125, Primal: 8, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 126: OF Values: 2725.072329393037, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It126, Primal: 0.004046353344887575, Dual:0.0028558382967009254, Flow: 64.21525806639477, Surplus: 484.99406089135437, Terminate:0.0
+CENTRAL It126, Primal: 8, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 127: OF Values: 2899.075073033874, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It127, Primal: 0.0038081138654423225, Dual:0.0031680339829141695, Flow: 57.01923477971051, Surplus: 430.7643380883011, Terminate:0.0
+CENTRAL It127, Primal: 9, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 128: OF Values: 3104.5625077928407, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It128, Primal: 0.003391245835538545, Dual:0.003425787958167906, Flow: 49.48645024634728, Surplus: 373.68823290995556, Terminate:0.0
+CENTRAL It128, Primal: 9, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 129: OF Values: 3329.21441329502, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It129, Primal: 0.002855395816833029, Dual:0.0036433926137883063, Flow: 41.74151064569968, Surplus: 315.50950726774056, Terminate:0.0
+CENTRAL It129, Primal: 9, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 130: OF Values: 3560.179775996167, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It130, Primal: 0.0022821809364196016, Dual:0.0038539527384331774, Flow: 33.77521048049262, Surplus: 255.4208194161347, Terminate:0.0
+CENTRAL It130, Primal: 10, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 131: OF Values: 3785.691912613399, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It131, Primal: 0.0017338117048283413, Dual:0.004031169526580139, Flow: 25.654689425134002, Surplus: 194.38038943052854, Terminate:0.0
+CENTRAL It131, Primal: 12, Dual:9, Flow: 0, Surplus: 0, Terminate:0.0
+It. 132: OF Values: 3996.2378464220265, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It132, Primal: 0.0013581244952906005, Dual:0.004133576388527092, Flow: 17.488468063932626, Surplus: 133.23722109894894, Terminate:0.0
+CENTRAL It132, Primal: 13, Dual:9, Flow: 0, Surplus: 0, Terminate:0.0
+It. 133: OF Values: 4185.6650737624495, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It133, Primal: 0.0014987441835300074, Dual:0.0041535183173927615, Flow: 9.421079920966603, Surplus: 71.94704103988192, Terminate:0.0
+CENTRAL It133, Primal: 14, Dual:9, Flow: 9, Surplus: 0, Terminate:0.0
+It. 134: OF Values: 4351.882237390997, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It134, Primal: 0.0017417287807049487, Dual:0.004013352597354679, Flow: 2.8466926962043373, Surplus: 13.257016986917096, Terminate:0.0
+CENTRAL It134, Primal: 12, Dual:9, Flow: 24, Surplus: 0, Terminate:0.0
+It. 135: OF Values: 4497.102741149013, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It135, Primal: 0.002076548780550514, Dual:0.003738987166277184, Flow: 6.475615581979702, Surplus: -42.90350144412467, Terminate:0.0
+CENTRAL It135, Primal: 12, Dual:9, Flow: 18, Surplus: 0, Terminate:0.0
+It. 136: OF Values: 4627.3332485114925, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It136, Primal: 0.0024858095182513093, Dual:0.0032978089239772404, Flow: 13.273044222605561, Surplus: -93.66895887090585, Terminate:0.0
+CENTRAL It136, Primal: 12, Dual:10, Flow: 5, Surplus: 0, Terminate:0.0
+It. 137: OF Values: 4751.548876927701, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It137, Primal: 0.002919533569211146, Dual:0.002916774525765449, Flow: 20.124025336910446, Surplus: -144.83178205767896, Terminate:0.0
+CENTRAL It137, Primal: 12, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 138: OF Values: 4879.387496202424, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It138, Primal: 0.0033600254317991966, Dual:0.0025265803474746216, Flow: 26.444667286208944, Surplus: -192.17780214693093, Terminate:0.0
+CENTRAL It138, Primal: 12, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 139: OF Values: 5021.083584944495, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It139, Primal: 0.0037524665599826647, Dual:0.0021093772157165127, Flow: 32.23190518260808, Surplus: -235.15261361729787, Terminate:0.0
+CENTRAL It139, Primal: 12, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 140: OF Values: 5186.048140271453, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It140, Primal: 0.004049546360879296, Dual:0.001685825373429769, Flow: 37.414062042265414, Surplus: -273.5899317675053, Terminate:0.0
+CENTRAL It140, Primal: 12, Dual:13, Flow: 0, Surplus: 0, Terminate:0.0
+It. 141: OF Values: 5381.610665909441, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It141, Primal: 0.004218158566854237, Dual:0.0012811210524932427, Flow: 41.84950453317918, Surplus: -307.1832599213484, Terminate:0.0
+CENTRAL It141, Primal: 12, Dual:14, Flow: 0, Surplus: 0, Terminate:0.0
+It. 142: OF Values: 5612.114725170659, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It142, Primal: 0.004239524130833634, Dual:0.0009075159919141728, Flow: 45.38237206592639, Surplus: -335.0083600524741, Terminate:0.0
+CENTRAL It142, Primal: 12, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 143: OF Values: 5878.33484723491, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It143, Primal: 0.004107231555978436, Dual:0.0008171548014452089, Flow: 48.33776828893813, Surplus: -358.3023523155664, Terminate:0.0
+CENTRAL It143, Primal: 12, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 144: OF Values: 6177.250220271861, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It144, Primal: 0.0038379733833551, Dual:0.0009938776487371677, Flow: 50.71375684761278, Surplus: -376.2576421803269, Terminate:0.0
+CENTRAL It144, Primal: 12, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 145: OF Values: 6502.16479138945, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It145, Primal: 0.003447017104842151, Dual:0.0011750489561059554, Flow: 51.3896767288236, Surplus: -388.68319576625345, Terminate:0.0
+CENTRAL It145, Primal: 12, Dual:13, Flow: 0, Surplus: 0, Terminate:0.0
+It. 146: OF Values: 6843.835702396543, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It146, Primal: 0.002969467110871737, Dual:0.0013522049126209535, Flow: 52.40734698958865, Surplus: -396.33650479630643, Terminate:0.0
+CENTRAL It146, Primal: 12, Dual:12, Flow: 0, Surplus: 0, Terminate:0.0
+It. 147: OF Values: 7190.735958114232, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It147, Primal: 0.002443864510373428, Dual:0.0015178461334786086, Flow: 52.93932447097957, Surplus: -399.55228213214644, Terminate:0.0
+CENTRAL It147, Primal: 12, Dual:8, Flow: 0, Surplus: 0, Terminate:0.0
+It. 148: OF Values: 7530.2727423789665, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It148, Primal: 0.0019099832632135702, Dual:0.0016655423618859352, Flow: 53.04153107108414, Surplus: -398.53547662092353, Terminate:0.0
+CENTRAL It148, Primal: 12, Dual:8, Flow: 0, Surplus: 0, Terminate:0.0
+It. 149: OF Values: 7849.821767676812, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It149, Primal: 0.001405907453783095, Dual:0.0017904888459460385, Flow: 53.08089809947036, Surplus: -393.8150774960797, Terminate:0.0
+CENTRAL It149, Primal: 12, Dual:8, Flow: 0, Surplus: 0, Terminate:0.0
+It. 150: OF Values: 8137.7101678520485, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It150, Primal: 0.0009623264136764222, Dual:0.0018908088056436305, Flow: 51.61154941024998, Surplus: -385.20394445769097, Terminate:0.0
+CENTRAL It150, Primal: 16, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 151: OF Values: 8383.930830333604, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It151, Primal: 0.0007098846808643083, Dual:0.001965628950967537, Flow: 50.33271640939133, Surplus: -373.3521097210911, Terminate:0.0
+CENTRAL It151, Primal: 16, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 152: OF Values: 8580.577646303107, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It152, Primal: 0.0005444262654337518, Dual:0.002014700432587218, Flow: 48.537260053015714, Surplus: -358.9251857513859, Terminate:0.0
+CENTRAL It152, Primal: 16, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 153: OF Values: 8722.849922184128, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It153, Primal: 0.000468372330576915, Dual:0.002039593910254329, Flow: 46.252682308849295, Surplus: -342.3783453189161, Terminate:0.0
+CENTRAL It153, Primal: 16, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 154: OF Values: 8808.277056880372, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It154, Primal: 0.0004400156017480977, Dual:0.00204165894493634, Flow: 43.6500663304899, Surplus: -323.4115055000126, Terminate:0.0
+CENTRAL It154, Primal: 16, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 155: OF Values: 8836.46069944893, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It155, Primal: 0.00041801485711308865, Dual:0.0020222474500850825, Flow: 40.92704906126149, Surplus: -302.96763353109833, Terminate:0.0
+CENTRAL It155, Primal: 16, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 156: OF Values: 8809.20683809035, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It156, Primal: 0.0004909522853043227, Dual:0.001982687057081762, Flow: 38.011008207887585, Surplus: -281.3706197882507, Terminate:0.0
+CENTRAL It156, Primal: 16, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 157: OF Values: 8729.850802156836, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It157, Primal: 0.0005521701046989009, Dual:0.0019243754145566168, Flow: 35.00120094681167, Surplus: -259.00025599199176, Terminate:0.0
+CENTRAL It157, Primal: 16, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 158: OF Values: 8602.22871979171, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It158, Primal: 0.0006806235182656765, Dual:0.001848922727940745, Flow: 32.07934949937348, Surplus: -236.22723600276547, Terminate:0.0
+CENTRAL It158, Primal: 16, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 159: OF Values: 8429.93224095312, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It159, Primal: 0.0008766679538836658, Dual:0.0017582734568009554, Flow: 29.14208816907233, Surplus: -213.4011745654493, Terminate:0.0
+CENTRAL It159, Primal: 16, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 160: OF Values: 8216.476199750281, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It160, Primal: 0.0010589999697700285, Dual:0.0016547845614254644, Flow: 26.23835068503694, Surplus: -190.8399293618495, Terminate:0.0
+CENTRAL It160, Primal: 15, Dual:7, Flow: 0, Surplus: 0, Terminate:0.0
+It. 161: OF Values: 7965.069099190406, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It161, Primal: 0.0012131933523860338, Dual:0.0015412117811775736, Flow: 23.41282161313317, Surplus: -168.82714917562706, Terminate:0.0
+CENTRAL It161, Primal: 15, Dual:6, Flow: 0, Surplus: 0, Terminate:0.0
+It. 162: OF Values: 7678.075252692826, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It162, Primal: 0.0013309828876026174, Dual:0.0014205974074816153, Flow: 20.70441585070124, Surplus: -147.88926831357986, Terminate:0.0
+CENTRAL It162, Primal: 15, Dual:6, Flow: 0, Surplus: 0, Terminate:0.0
+It. 163: OF Values: 7357.090982789305, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It163, Primal: 0.001410900316213211, Dual:0.0013483083189901397, Flow: 18.141795435505205, Surplus: -128.47365956204447, Terminate:0.0
+CENTRAL It163, Primal: 14, Dual:5, Flow: 1, Surplus: 0, Terminate:0.0
+It. 164: OF Values: 7003.816999045268, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It164, Primal: 0.0014534728097999106, Dual:0.0013941632558009194, Flow: 15.829647059381077, Surplus: -110.57218568820099, Terminate:0.0
+CENTRAL It164, Primal: 14, Dual:8, Flow: 3, Surplus: 0, Terminate:0.0
+It. 165: OF Values: 6619.718049020836, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It165, Primal: 0.0014646782171637129, Dual:0.001427509195515619, Flow: 14.832115266778683, Surplus: -93.89912114225206, Terminate:0.0
+CENTRAL It165, Primal: 13, Dual:9, Flow: 6, Surplus: 0, Terminate:0.0
+It. 166: OF Values: 6206.579264452156, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It166, Primal: 0.001455163309442944, Dual:0.0014717384214334047, Flow: 12.958837922343275, Surplus: -78.64964193478656, Terminate:0.0
+CENTRAL It166, Primal: 13, Dual:11, Flow: 8, Surplus: 0, Terminate:0.0
+It. 167: OF Values: 5766.981357004157, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It167, Primal: 0.001435733187944131, Dual:0.0014928429146185943, Flow: 10.909974410896814, Surplus: -64.39575885194935, Terminate:0.0
+CENTRAL It167, Primal: 13, Dual:12, Flow: 11, Surplus: 0, Terminate:0.0
+It. 168: OF Values: 5304.612711517454, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It168, Primal: 0.0014179207125474755, Dual:0.0014730513119139033, Flow: 9.363213357003719, Surplus: -51.85210782145426, Terminate:0.0
+CENTRAL It168, Primal: 12, Dual:12, Flow: 12, Surplus: 0, Terminate:0.0
+It. 169: OF Values: 4824.6960542800025, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It169, Primal: 0.0014100305929359144, Dual:0.0014106926158467072, Flow: 7.950844667008308, Surplus: -41.29467536787054, Terminate:0.0
+CENTRAL It169, Primal: 12, Dual:13, Flow: 16, Surplus: 0, Terminate:0.0
+It. 170: OF Values: 4333.937702660529, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It170, Primal: 0.0014150894217458754, Dual:0.0013069773506511556, Flow: 6.62386748451604, Surplus: -32.089806889932966, Terminate:0.0
+CENTRAL It170, Primal: 12, Dual:13, Flow: 19, Surplus: 0, Terminate:0.0
+It. 171: OF Values: 3840.1403952718124, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It171, Primal: 0.0014407463506119155, Dual:0.001166635332374965, Flow: 5.883817819225147, Surplus: -23.967462336161596, Terminate:0.0
+CENTRAL It171, Primal: 12, Dual:13, Flow: 19, Surplus: 0, Terminate:0.0
+It. 172: OF Values: 3352.563410795515, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It172, Primal: 0.0014823713540651111, Dual:0.0009985551023736752, Flow: 5.085677882833494, Surplus: -17.03211921732465, Terminate:0.0
+CENTRAL It172, Primal: 12, Dual:16, Flow: 19, Surplus: 0, Terminate:0.0
+It. 173: OF Values: 2881.0404224943413, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It173, Primal: 0.0015381488289803612, Dual:0.0008138558894407873, Flow: 4.170458837746151, Surplus: -11.484425354458981, Terminate:0.0
+CENTRAL It173, Primal: 11, Dual:16, Flow: 20, Surplus: 0, Terminate:0.0
+It. 174: OF Values: 2435.678547281558, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It174, Primal: 0.0016031764311163457, Dual:0.0006256243501204993, Flow: 3.3461833196077997, Surplus: -6.879786460135865, Terminate:0.0
+CENTRAL It174, Primal: 11, Dual:16, Flow: 23, Surplus: 0, Terminate:0.0
+It. 175: OF Values: 2026.2205576846343, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It175, Primal: 0.0017953831975338773, Dual:0.0004466637447496055, Flow: 2.6145472848647757, Surplus: -3.3129738614364697, Terminate:0.0
+CENTRAL It175, Primal: 10, Dual:16, Flow: 24, Surplus: 0, Terminate:0.0
+It. 176: OF Values: 1661.5999782451088, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It176, Primal: 0.0020171125383923578, Dual:0.0002886319384511813, Flow: 2.168453898662731, Surplus: -0.8103142393460568, Terminate:0.0
+CENTRAL It176, Primal: 9, Dual:16, Flow: 24, Surplus: 1, Terminate:0.0
+It. 177: OF Values: 1349.4414027939995, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It177, Primal: 0.0021853547078852357, Dual:0.0001692574811561643, Flow: 1.8313698597626094, Surplus: 0.6721558932227261, Terminate:0.0
+CENTRAL It177, Primal: 8, Dual:16, Flow: 24, Surplus: 1, Terminate:0.0
+It. 178: OF Values: 1095.6663578370185, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It178, Primal: 0.002289748405139579, Dual:8.695117613157558e-05, Flow: 1.3553237904087754, Surplus: 1.1444081828558215, Terminate:0.0
+CENTRAL It178, Primal: 8, Dual:16, Flow: 24, Surplus: 1, Terminate:0.0
+It. 179: OF Values: 904.2509626651655, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It179, Primal: 0.002324941964639909, Dual:4.860215864466312e-05, Flow: 1.2139488211183331, Surplus: 0.6389616342322131, Terminate:0.0
+CENTRAL It179, Primal: 7, Dual:16, Flow: 24, Surplus: 1, Terminate:0.0
+It. 180: OF Values: 777.1227239282337, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It180, Primal: 0.002290766214366842, Dual:2.7257480140108956e-05, Flow: 1.1329091089926744, Surplus: -0.6574573344552993, Terminate:0.0
+CENTRAL It180, Primal: 6, Dual:16, Flow: 24, Surplus: 1, Terminate:0.0
+It. 181: OF Values: 714.1849947147804, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It181, Primal: 0.002191987543434783, Dual:4.470089612765673e-05, Flow: 1.220235509349838, Surplus: -2.83268181370467, Terminate:0.0
+CENTRAL It181, Primal: 7, Dual:16, Flow: 24, Surplus: 0, Terminate:0.0
+It. 182: OF Values: 713.5438898832698, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It182, Primal: 0.002037615680762841, Dual:0.00010831303935554899, Flow: 1.4652531094382582, Surplus: -6.062824728775439, Terminate:0.0
+CENTRAL It182, Primal: 7, Dual:16, Flow: 24, Surplus: 0, Terminate:0.0
+It. 183: OF Values: 771.7994639197761, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It183, Primal: 0.0018789142850423623, Dual:0.00019695156246265033, Flow: 1.898981104594665, Surplus: -10.668062533578537, Terminate:0.0
+CENTRAL It183, Primal: 9, Dual:16, Flow: 24, Surplus: 0, Terminate:0.0
+It. 184: OF Values: 884.1575094176117, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It184, Primal: 0.0017873795931538303, Dual:0.0003016673312316716, Flow: 2.5039630771656927, Surplus: -16.568087223215038, Terminate:0.0
+CENTRAL It184, Primal: 9, Dual:16, Flow: 24, Surplus: 0, Terminate:0.0
+It. 185: OF Values: 1044.7353625136138, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It185, Primal: 0.0017473709912858221, Dual:0.000412816250279684, Flow: 3.2662554569143265, Surplus: -23.494783778413513, Terminate:0.0
+CENTRAL It185, Primal: 9, Dual:16, Flow: 23, Surplus: 0, Terminate:0.0
+It. 186: OF Values: 1247.6132400618494, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It186, Primal: 0.0016899361542475372, Dual:0.0005147478349612049, Flow: 4.195212167965607, Surplus: -31.348764241531214, Terminate:0.0
+CENTRAL It186, Primal: 10, Dual:16, Flow: 20, Surplus: 0, Terminate:0.0
+It. 187: OF Values: 1486.0977169883522, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It187, Primal: 0.0016454739615566522, Dual:0.0006045961378048465, Flow: 5.027197376334346, Surplus: -40.26663633627304, Terminate:0.0
+CENTRAL It187, Primal: 12, Dual:16, Flow: 17, Surplus: 0, Terminate:0.0
+It. 188: OF Values: 1753.043666061675, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It188, Primal: 0.001604158853898406, Dual:0.0006740679495506172, Flow: 6.1331733763370115, Surplus: -51.22966770711249, Terminate:0.0
+CENTRAL It188, Primal: 12, Dual:16, Flow: 17, Surplus: 0, Terminate:0.0
+It. 189: OF Values: 2042.709328027358, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It189, Primal: 0.0015574569207482676, Dual:0.0007090776372575173, Flow: 7.99291548578283, Surplus: -63.54828253445339, Terminate:0.0
+CENTRAL It189, Primal: 12, Dual:16, Flow: 13, Surplus: 0, Terminate:0.0
+It. 190: OF Values: 2349.988926878172, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It190, Primal: 0.001507549733765401, Dual:0.0007191320940549531, Flow: 9.984912824471008, Surplus: -76.39404280477055, Terminate:0.0
+CENTRAL It190, Primal: 12, Dual:16, Flow: 7, Surplus: 0, Terminate:0.0
+It. 191: OF Values: 2670.0811394043353, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It191, Primal: 0.0014507652111802917, Dual:0.0007138317207225682, Flow: 12.158234178426637, Surplus: -91.28929982256952, Terminate:0.0
+CENTRAL It191, Primal: 12, Dual:16, Flow: 1, Surplus: 0, Terminate:0.0
+It. 192: OF Values: 2999.2301999241736, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It192, Primal: 0.0014136636372559354, Dual:0.0006991436446737292, Flow: 14.512949837024701, Surplus: -106.91274862368753, Terminate:0.0
+CENTRAL It192, Primal: 12, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 193: OF Values: 3334.699205888515, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It193, Primal: 0.0014232038496465394, Dual:0.0006829751602289233, Flow: 17.00213667247231, Surplus: -123.19448719277966, Terminate:0.0
+CENTRAL It193, Primal: 12, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 194: OF Values: 3673.8202970258703, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It194, Primal: 0.0013877934956540942, Dual:0.0006714918397860577, Flow: 19.593207587713046, Surplus: -140.83624145600803, Terminate:0.0
+CENTRAL It194, Primal: 13, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 195: OF Values: 4013.7429748748814, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It195, Primal: 0.0013109323509754838, Dual:0.0006636840296800662, Flow: 22.15647909873981, Surplus: -159.488080354779, Terminate:0.0
+CENTRAL It195, Primal: 14, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 196: OF Values: 4351.579038314993, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It196, Primal: 0.0012046232183941662, Dual:0.0007407653496605592, Flow: 24.732017423449772, Surplus: -178.88752837229384, Terminate:0.0
+CENTRAL It196, Primal: 14, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 197: OF Values: 4684.242702391608, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It197, Primal: 0.0010755035204207234, Dual:0.000827950898498721, Flow: 26.88156066011617, Surplus: -198.62355674696133, Terminate:0.0
+CENTRAL It197, Primal: 15, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 198: OF Values: 5008.391669334711, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It198, Primal: 0.0009294680816955344, Dual:0.0009078638709788726, Flow: 28.75454899752464, Surplus: -218.50301082331737, Terminate:0.0
+CENTRAL It198, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 199: OF Values: 5320.796596262643, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It199, Primal: 0.0007755481104899399, Dual:0.0009784848718086296, Flow: 30.867344589458398, Surplus: -238.26681734687085, Terminate:0.0
+CENTRAL It199, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 200: OF Values: 5618.180794910763, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It200, Primal: 0.0006192260025403868, Dual:0.0010389442946754587, Flow: 32.99694935795821, Surplus: -257.63750731420646, Terminate:0.0
+CENTRAL It200, Primal: 16, Dual:15, Flow: 0, Surplus: 0, Terminate:0.0
+It. 201: OF Values: 5897.441710733984, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It201, Primal: 0.00048779513883395005, Dual:0.0010894315309117485, Flow: 35.52757907567745, Surplus: -276.32586056665804, Terminate:0.0
+CENTRAL It201, Primal: 16, Dual:14, Flow: 0, Surplus: 0, Terminate:0.0
+It. 202: OF Values: 6155.726653308494, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It202, Primal: 0.000439916608022442, Dual:0.0011306938265224218, Flow: 38.026255136549956, Surplus: -294.0342545801183, Terminate:0.0
+CENTRAL It202, Primal: 16, Dual:13, Flow: 0, Surplus: 0, Terminate:0.0
+It. 203: OF Values: 6390.831636599329, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It203, Primal: 0.00043639062152236774, Dual:0.0011634075691335935, Flow: 40.33138344251895, Surplus: -310.4587151564683, Terminate:0.0
+CENTRAL It203, Primal: 16, Dual:12, Flow: 0, Surplus: 0, Terminate:0.0
+It. 204: OF Values: 6601.017475540256, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It204, Primal: 0.0004343320472404561, Dual:0.0011876880356218086, Flow: 42.38197632271122, Surplus: -325.2910742118131, Terminate:0.0
+CENTRAL It204, Primal: 16, Dual:12, Flow: 0, Surplus: 0, Terminate:0.0
+It. 205: OF Values: 6785.3759671414155, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It205, Primal: 0.000433541161130016, Dual:0.0012029206422924678, Flow: 44.13425598563701, Surplus: -338.2248094587269, Terminate:0.0
+CENTRAL It205, Primal: 16, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 206: OF Values: 6943.652189163351, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It206, Primal: 0.0004335047900443065, Dual:0.0012079585659799344, Flow: 45.5611498599151, Surplus: -348.96586266249045, Terminate:0.0
+CENTRAL It206, Primal: 16, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 207: OF Values: 7076.188293317762, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It207, Primal: 0.00043340626244053063, Dual:0.0012015500921025944, Flow: 46.633145771444354, Surplus: -357.2386314676758, Terminate:0.0
+CENTRAL It207, Primal: 16, Dual:11, Flow: 0, Surplus: 0, Terminate:0.0
+It. 208: OF Values: 7184.135114767416, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It208, Primal: 0.0004322922742916306, Dual:0.0011827784690963854, Flow: 47.33353289675991, Surplus: -362.79668308635496, Terminate:0.0
+CENTRAL It208, Primal: 16, Dual:12, Flow: 0, Surplus: 0, Terminate:0.0
+It. 209: OF Values: 7268.985707609068, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It209, Primal: 0.0004293074252409081, Dual:0.001151609758527741, Flow: 47.65051450866782, Surplus: -365.4299617154351, Terminate:0.0
+CENTRAL It209, Primal: 16, Dual:13, Flow: 0, Surplus: 0, Terminate:0.0
+It. 210: OF Values: 7332.764064540435, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It210, Primal: 0.00044102237060615943, Dual:0.0011088754865097882, Flow: 47.543462558150786, Surplus: -364.9747184955534, Terminate:0.0
+CENTRAL It210, Primal: 16, Dual:14, Flow: 0, Surplus: 0, Terminate:0.0
+It. 211: OF Values: 7377.553538330595, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It211, Primal: 0.00047339384112305154, Dual:0.0010563224824057364, Flow: 47.0446999297666, Surplus: -361.31675208851397, Terminate:0.0
+CENTRAL It211, Primal: 16, Dual:14, Flow: 0, Surplus: 0, Terminate:0.0
+It. 212: OF Values: 7405.393982796154, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It212, Primal: 0.0005655062987644738, Dual:0.0009962390848277827, Flow: 46.16496857938666, Surplus: -354.39876002579524, Terminate:0.0
+CENTRAL It212, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 213: OF Values: 7418.018954439734, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It213, Primal: 0.0006812014415683533, Dual:0.000931267503222473, Flow: 44.8422264372262, Surplus: -344.2175409968867, Terminate:0.0
+CENTRAL It213, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 214: OF Values: 7416.979229737996, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It214, Primal: 0.0007819367563184655, Dual:0.0008639549649872344, Flow: 43.120421015337676, Surplus: -330.82374142935413, Terminate:0.0
+CENTRAL It214, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 215: OF Values: 7403.293356459223, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It215, Primal: 0.0008627016509721315, Dual:0.0007964461394250847, Flow: 41.01471952540235, Surplus: -314.3168403201695, Terminate:0.0
+CENTRAL It215, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 216: OF Values: 7377.491544563105, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It216, Primal: 0.0009204916856646214, Dual:0.000730310053882017, Flow: 38.51987660341627, Surplus: -294.8391006945109, Terminate:0.0
+CENTRAL It216, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 217: OF Values: 7339.630288464154, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It217, Primal: 0.0009545200058901381, Dual:0.0006671548917362565, Flow: 35.67618834562496, Surplus: -272.5683410301606, Terminate:0.0
+CENTRAL It217, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 218: OF Values: 7289.355206407923, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It218, Primal: 0.0009659796128434062, Dual:0.0006623294190334988, Flow: 32.5012565992456, Surplus: -247.71037773355837, Terminate:0.0
+CENTRAL It218, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 219: OF Values: 7225.991938964869, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It219, Primal: 0.0009490121518814868, Dual:0.0007908323125100195, Flow: 29.00770404612515, Surplus: -220.68181146234664, Terminate:0.0
+CENTRAL It219, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 220: OF Values: 7148.634050422205, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It220, Primal: 0.0009027379295425304, Dual:0.0009218021720064046, Flow: 25.2263125320194, Surplus: -191.83749412232885, Terminate:0.0
+CENTRAL It220, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 221: OF Values: 7056.0986554889105, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It221, Primal: 0.0008414399368207291, Dual:0.001049695656394809, Flow: 21.176281506266275, Surplus: -161.3375727621283, Terminate:0.0
+CENTRAL It221, Primal: 16, Dual:15, Flow: 0, Surplus: 0, Terminate:0.0
+It. 222: OF Values: 6947.341663604011, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It222, Primal: 0.0007671480324088998, Dual:0.0011628717526533906, Flow: 16.883289530148495, Surplus: -129.79072481772977, Terminate:0.0
+CENTRAL It222, Primal: 16, Dual:15, Flow: 0, Surplus: 0, Terminate:0.0
+It. 223: OF Values: 6821.5408601682775, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It223, Primal: 0.0007026176186466938, Dual:0.0012468494646123874, Flow: 13.667448037760906, Surplus: -96.5301451005038, Terminate:0.0
+CENTRAL It223, Primal: 16, Dual:14, Flow: 2, Surplus: 0, Terminate:0.0
+It. 224: OF Values: 6678.283043644259, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It224, Primal: 0.0006523121212736224, Dual:0.0012914221020064083, Flow: 9.026184352774154, Surplus: -63.69757687717337, Terminate:0.0
+CENTRAL It224, Primal: 16, Dual:14, Flow: 13, Surplus: 0, Terminate:0.0
+It. 225: OF Values: 6517.834073290913, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It225, Primal: 0.0006029052757945601, Dual:0.0013302919112116853, Flow: 4.266122030717086, Surplus: -29.297864000740137, Terminate:0.0
+CENTRAL It225, Primal: 16, Dual:13, Flow: 19, Surplus: 0, Terminate:0.0
+It. 226: OF Values: 6340.425718101646, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It226, Primal: 0.0005332171896610161, Dual:0.001369858701722155, Flow: 1.0411286273059834, Surplus: 5.530733176313275, Terminate:0.0
+CENTRAL It226, Primal: 16, Dual:13, Flow: 24, Surplus: 0, Terminate:0.0
+It. 227: OF Values: 6146.364963175638, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It227, Primal: 0.00047359941515874734, Dual:0.0014081480680183647, Flow: 5.7474910634517995, Surplus: 40.788025480730404, Terminate:0.0
+CENTRAL It227, Primal: 16, Dual:13, Flow: 17, Surplus: 0, Terminate:0.0
+It. 228: OF Values: 5936.359981054823, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It228, Primal: 0.0004139392594220135, Dual:0.0014203705393722686, Flow: 10.710844284195428, Surplus: 76.35767376560317, Terminate:0.0
+CENTRAL It228, Primal: 16, Dual:13, Flow: 8, Surplus: 0, Terminate:0.0
+It. 229: OF Values: 5711.7406882899795, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It229, Primal: 0.00041399366877295263, Dual:0.0013895433146602462, Flow: 15.280522076359278, Surplus: 112.27859437357395, Terminate:0.0
+CENTRAL It229, Primal: 16, Dual:13, Flow: 0, Surplus: 0, Terminate:0.0
+It. 230: OF Values: 5474.4204359680925, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It230, Primal: 0.0004157798828326691, Dual:0.001356255989537452, Flow: 19.780000680835457, Surplus: 147.86126285531734, Terminate:0.0
+CENTRAL It230, Primal: 16, Dual:13, Flow: 0, Surplus: 0, Terminate:0.0
+It. 231: OF Values: 5226.3741810435795, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It231, Primal: 0.00043877459560985854, Dual:0.001314322892758339, Flow: 24.55194324250106, Surplus: 182.99378832788193, Terminate:0.0
+CENTRAL It231, Primal: 16, Dual:14, Flow: 0, Surplus: 0, Terminate:0.0
+It. 232: OF Values: 4969.783781800568, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It232, Primal: 0.0004905179679196924, Dual:0.0012492238467769622, Flow: 29.234141804946074, Surplus: 216.79385901869045, Terminate:0.0
+CENTRAL It232, Primal: 16, Dual:14, Flow: 0, Surplus: 0, Terminate:0.0
+It. 233: OF Values: 4707.130316080088, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It233, Primal: 0.0005467617765605632, Dual:0.001179932852431035, Flow: 33.796283999945175, Surplus: 250.0047588426761, Terminate:0.0
+CENTRAL It233, Primal: 16, Dual:14, Flow: 0, Surplus: 0, Terminate:0.0
+It. 234: OF Values: 4440.663255873614, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It234, Primal: 0.0006072712945963656, Dual:0.0010991287329978566, Flow: 38.12640652636232, Surplus: 282.23430893438695, Terminate:0.0
+CENTRAL It234, Primal: 16, Dual:15, Flow: 0, Surplus: 0, Terminate:0.0
+It. 235: OF Values: 4172.7679760324945, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It235, Primal: 0.000671485998024969, Dual:0.0010192112391992675, Flow: 42.30517892592532, Surplus: 313.4497154882663, Terminate:0.0
+CENTRAL It235, Primal: 16, Dual:15, Flow: 0, Surplus: 0, Terminate:0.0
+It. 236: OF Values: 3905.996739562764, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It236, Primal: 0.0007381866365040061, Dual:0.0009371402476232681, Flow: 46.24010009618785, Surplus: 343.29208186433453, Terminate:0.0
+CENTRAL It236, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 237: OF Values: 3642.93865220846, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It237, Primal: 0.0008058716725631831, Dual:0.0008432667528408022, Flow: 49.95535094840643, Surplus: 370.98769363540487, Terminate:0.0
+CENTRAL It237, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 238: OF Values: 3386.2349862741785, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It238, Primal: 0.0008730614515788185, Dual:0.0007551241961564701, Flow: 53.467518663409315, Surplus: 397.53165098247945, Terminate:0.0
+CENTRAL It238, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 239: OF Values: 3138.596274186947, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It239, Primal: 0.0009383427020111213, Dual:0.0006606429723201259, Flow: 56.65610310582953, Surplus: 421.52100633141947, Terminate:0.0
+CENTRAL It239, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 240: OF Values: 2902.828036273218, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It240, Primal: 0.0010002776059721517, Dual:0.0005701147176876225, Flow: 59.63002855590039, Surplus: 443.49386202800235, Terminate:0.0
+CENTRAL It240, Primal: 15, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 241: OF Values: 2681.621374539725, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It241, Primal: 0.0010574920889865687, Dual:0.00048634791146753115, Flow: 62.41981508545281, Surplus: 463.4519528399972, Terminate:0.0
+CENTRAL It241, Primal: 15, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 242: OF Values: 2477.681178408532, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It242, Primal: 0.0011090485408519599, Dual:0.00040777695398231436, Flow: 64.99177769541652, Surplus: 481.3383788942408, Terminate:0.0
+CENTRAL It242, Primal: 15, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 243: OF Values: 2293.5472088307624, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It243, Primal: 0.001154245810866314, Dual:0.00033338759844127064, Flow: 67.28352515959162, Surplus: 497.1828285409953, Terminate:0.0
+CENTRAL It243, Primal: 15, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 244: OF Values: 2131.667381450961, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It244, Primal: 0.001192543479124893, Dual:0.0002621032505265042, Flow: 69.15129463851521, Surplus: 510.8968747661126, Terminate:0.0
+CENTRAL It244, Primal: 14, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 245: OF Values: 1994.3846840776312, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It245, Primal: 0.0012235774902172609, Dual:0.00019502343671847115, Flow: 70.71235241630917, Surplus: 522.252813585995, Terminate:0.0
+CENTRAL It245, Primal: 14, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 246: OF Values: 1883.8398159541352, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It246, Primal: 0.0012471174043809045, Dual:0.00013336621822705, Flow: 71.85338600996775, Surplus: 530.7800175360849, Terminate:0.0
+CENTRAL It246, Primal: 14, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 247: OF Values: 1801.693169281667, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It247, Primal: 0.0012629590635796785, Dual:8.763618246157096e-05, Flow: 72.57004210271705, Surplus: 537.1427446097528, Terminate:0.0
+CENTRAL It247, Primal: 14, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 248: OF Values: 1749.0583680533023, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It248, Primal: 0.0012708265169926792, Dual:5.8819893904869966e-05, Flow: 73.1776801510728, Surplus: 540.9108903276871, Terminate:0.0
+CENTRAL It248, Primal: 14, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 249: OF Values: 1726.6287379299843, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It249, Primal: 0.0012703386365038119, Dual:4.515297669432664e-05, Flow: 73.50651925197893, Surplus: 542.0211721434085, Terminate:0.0
+CENTRAL It249, Primal: 14, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 250: OF Values: 1734.5428409263639, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It250, Primal: 0.0012608044844619384, Dual:4.840102664233936e-05, Flow: 73.45826487562628, Surplus: 540.5172633797132, Terminate:0.0
+CENTRAL It250, Primal: 14, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 251: OF Values: 1772.348413761279, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It251, Primal: 0.0012415581792130752, Dual:5.930994178723284e-05, Flow: 73.05822928189397, Surplus: 536.5755892386153, Terminate:0.0
+CENTRAL It251, Primal: 14, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 252: OF Values: 1838.9917743360447, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It252, Primal: 0.0012121861233473962, Dual:7.300538031001656e-05, Flow: 72.29267506889657, Surplus: 530.351831571852, Terminate:0.0
+CENTRAL It252, Primal: 14, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 253: OF Values: 1932.8172918585037, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It253, Primal: 0.0011724442160909224, Dual:9.338303690525565e-05, Flow: 71.15734179507912, Surplus: 521.46218022442, Terminate:0.0
+CENTRAL It253, Primal: 14, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 254: OF Values: 2051.8058779336966, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It254, Primal: 0.0011225267545040766, Dual:0.00014025044724352877, Flow: 69.68759375496072, Surplus: 510.09956979698785, Terminate:0.0
+CENTRAL It254, Primal: 15, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 255: OF Values: 2193.350965403985, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It255, Primal: 0.0010631769495769293, Dual:0.0002044477433880491, Flow: 67.83765227020878, Surplus: 496.418167504909, Terminate:0.0
+CENTRAL It255, Primal: 15, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 256: OF Values: 2354.395700997367, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It256, Primal: 0.0009957456174179869, Dual:0.00027849879351384845, Flow: 65.66225821700795, Surplus: 480.2279314793714, Terminate:0.0
+CENTRAL It256, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 257: OF Values: 2532.0639204707295, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It257, Primal: 0.000921902732840155, Dual:0.00035521283788772685, Flow: 63.17501462788235, Surplus: 462.40407734596306, Terminate:0.0
+CENTRAL It257, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 258: OF Values: 2722.7523226957696, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It258, Primal: 0.0008434542835687861, Dual:0.0004399345422388434, Flow: 60.390336089447146, Surplus: 442.13286903701857, Terminate:0.0
+CENTRAL It258, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 259: OF Values: 2922.941471115996, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It259, Primal: 0.0007622202922628054, Dual:0.00053000878506625, Flow: 57.291769447587974, Surplus: 419.8024113848203, Terminate:0.0
+CENTRAL It259, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 260: OF Values: 3128.991034514089, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It260, Primal: 0.0006798762084261935, Dual:0.0006219715890398735, Flow: 53.94206727925657, Surplus: 395.6406505576048, Terminate:0.0
+CENTRAL It260, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 261: OF Values: 3337.534107554829, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It261, Primal: 0.0005981021915229857, Dual:0.000713636782353612, Flow: 50.3565857352043, Surplus: 369.7347019507324, Terminate:0.0
+CENTRAL It261, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 262: OF Values: 3545.3572515983947, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It262, Primal: 0.0005183153243618408, Dual:0.0007939477446965343, Flow: 46.522119965233344, Surplus: 342.81258110969117, Terminate:0.0
+CENTRAL It262, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 263: OF Values: 3749.0303359872423, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It263, Primal: 0.0004416702857338259, Dual:0.0008709044945589797, Flow: 42.47755541328672, Surplus: 314.27708220670826, Terminate:0.0
+CENTRAL It263, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 264: OF Values: 3945.398287527925, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It264, Primal: 0.00036916125621865817, Dual:0.0009476851200726156, Flow: 38.45339799194221, Surplus: 284.3436541812809, Terminate:0.0
+CENTRAL It264, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 265: OF Values: 4131.7438151934275, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It265, Primal: 0.0003016853499775332, Dual:0.0010230185316898821, Flow: 34.32217722178467, Surplus: 253.11681453281656, Terminate:0.0
+CENTRAL It265, Primal: 16, Dual:15, Flow: 0, Surplus: 0, Terminate:0.0
+It. 266: OF Values: 4305.502621672705, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It266, Primal: 0.00024016977398373307, Dual:0.0010841795342197552, Flow: 30.02391967350429, Surplus: 221.38307062838942, Terminate:0.0
+CENTRAL It266, Primal: 16, Dual:15, Flow: 0, Surplus: 0, Terminate:0.0
+It. 267: OF Values: 4464.279004441772, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It267, Primal: 0.00018540082611296895, Dual:0.0011452859074629152, Flow: 25.59445094438255, Surplus: 188.20810617859595, Terminate:0.0
+CENTRAL It267, Primal: 16, Dual:15, Flow: 0, Surplus: 0, Terminate:0.0
+It. 268: OF Values: 4606.073712769646, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It268, Primal: 0.00013799364264973778, Dual:0.0011978471938267122, Flow: 21.056693920551872, Surplus: 154.41916279995056, Terminate:0.0
+CENTRAL It268, Primal: 16, Dual:14, Flow: 0, Surplus: 0, Terminate:0.0
+It. 269: OF Values: 4729.106374303667, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It269, Primal: 9.845689061331834e-05, Dual:0.0012388230632241716, Flow: 16.41803861047189, Surplus: 120.10144142034098, Terminate:0.0
+CENTRAL It269, Primal: 16, Dual:14, Flow: 0, Surplus: 0, Terminate:0.0
+It. 270: OF Values: 4831.927802441105, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It270, Primal: 7.980952477919911e-05, Dual:0.0012660498148508814, Flow: 11.702781325027054, Surplus: 85.46670856397668, Terminate:0.0
+CENTRAL It270, Primal: 16, Dual:14, Flow: 7, Surplus: 0, Terminate:0.0
+It. 271: OF Values: 4913.498610279075, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It271, Primal: 7.54489763351683e-05, Dual:0.0012559560261704756, Flow: 6.954806187550285, Surplus: 51.95760641685727, Terminate:0.0
+CENTRAL It271, Primal: 16, Dual:13, Flow: 14, Surplus: 0, Terminate:0.0
+It. 272: OF Values: 4973.0247617382765, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It272, Primal: 6.916419460819034e-05, Dual:0.0012550332645765005, Flow: 2.2550963471476555, Surplus: 17.170576050171384, Terminate:0.0
+CENTRAL It272, Primal: 16, Dual:13, Flow: 24, Surplus: 0, Terminate:0.0
+It. 273: OF Values: 5010.200655282707, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It273, Primal: 6.140088363724031e-05, Dual:0.0012344793276975543, Flow: 3.327845524842679, Surplus: -16.5245366296305, Terminate:0.0
+CENTRAL It273, Primal: 16, Dual:14, Flow: 23, Surplus: 0, Terminate:0.0
+It. 274: OF Values: 5025.157865230692, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It274, Primal: 5.267375740148272e-05, Dual:0.001171990010412567, Flow: 7.905814755530067, Surplus: -48.2422007208814, Terminate:0.0
+CENTRAL It274, Primal: 16, Dual:14, Flow: 17, Surplus: 0, Terminate:0.0
+It. 275: OF Values: 5018.149903855636, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It275, Primal: 4.474068750422019e-05, Dual:0.0011173793006084827, Flow: 12.221516540400891, Surplus: -80.54340470939978, Terminate:0.0
+CENTRAL It275, Primal: 16, Dual:14, Flow: 7, Surplus: 0, Terminate:0.0
+It. 276: OF Values: 4989.838786163319, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It276, Primal: 6.586530555550566e-05, Dual:0.001058304132960132, Flow: 16.23152580256658, Surplus: -111.75820220659125, Terminate:0.0
+CENTRAL It276, Primal: 16, Dual:15, Flow: 0, Surplus: 0, Terminate:0.0
+It. 277: OF Values: 4941.461111715423, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It277, Primal: 9.403422301646237e-05, Dual:0.001002492312616745, Flow: 20.66186980022485, Surplus: -142.50679517143394, Terminate:0.0
+CENTRAL It277, Primal: 16, Dual:15, Flow: 0, Surplus: 0, Terminate:0.0
+It. 278: OF Values: 4874.164500939815, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It278, Primal: 0.00012795021977431384, Dual:0.0009165982878057999, Flow: 24.82600198749239, Surplus: -170.54239310166665, Terminate:0.0
+CENTRAL It278, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 279: OF Values: 4789.2658676578485, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It279, Primal: 0.00016627029315240452, Dual:0.0008462985753011132, Flow: 28.889637930776182, Surplus: -199.07758341435374, Terminate:0.0
+CENTRAL It279, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 280: OF Values: 4689.010770283893, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It280, Primal: 0.00020777988027732196, Dual:0.0007657531609304067, Flow: 32.67012524389159, Surplus: -225.43834572139147, Terminate:0.0
+CENTRAL It280, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 281: OF Values: 4575.035831490282, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It281, Primal: 0.0002515693485872986, Dual:0.0006836431621402373, Flow: 36.19621429673463, Surplus: -250.5730553107603, Terminate:0.0
+CENTRAL It281, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 282: OF Values: 4449.2367725872855, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It282, Primal: 0.00029658956315278405, Dual:0.0006005019918441384, Flow: 39.40289688178785, Surplus: -274.170745231259, Terminate:0.0
+CENTRAL It282, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 283: OF Values: 4313.703219320682, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It283, Primal: 0.0003420976989334952, Dual:0.0005162304680359037, Flow: 42.213694354507176, Surplus: -295.96787135468134, Terminate:0.0
+CENTRAL It283, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 284: OF Values: 4170.66177288945, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It284, Primal: 0.00038744060630596145, Dual:0.00043320577265884536, Flow: 44.66000131054346, Surplus: -315.89582963036736, Terminate:0.0
+CENTRAL It284, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 285: OF Values: 4022.184495093326, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It285, Primal: 0.0004319614865439427, Dual:0.0004096560497944035, Flow: 46.864266679037115, Surplus: -333.8614986073629, Terminate:0.0
+CENTRAL It285, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 286: OF Values: 3870.21694698565, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It286, Primal: 0.0004750239089113738, Dual:0.0004096153719971768, Flow: 48.8129040871802, Surplus: -349.78668035577397, Terminate:0.0
+CENTRAL It286, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 287: OF Values: 3716.648570005988, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It287, Primal: 0.0005158722490028106, Dual:0.00040691286851368203, Flow: 50.532290105672566, Surplus: -363.17087585003617, Terminate:0.0
+CENTRAL It287, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 288: OF Values: 3563.125226392977, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It288, Primal: 0.0005537391693545716, Dual:0.0004013781004241047, Flow: 52.33517513438075, Surplus: -374.56736089532006, Terminate:0.0
+CENTRAL It288, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 289: OF Values: 3411.245362104507, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It289, Primal: 0.0005879270144475318, Dual:0.0003929327748077523, Flow: 53.89126659088522, Surplus: -383.96152265439736, Terminate:0.0
+CENTRAL It289, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 290: OF Values: 3262.5794910141944, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It290, Primal: 0.0006178407995974733, Dual:0.0003815765637680164, Flow: 55.112508463492254, Surplus: -391.1022389683203, Terminate:0.0
+CENTRAL It290, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 291: OF Values: 3118.2836331391773, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It291, Primal: 0.000642955887532907, Dual:0.0003673782623456459, Flow: 55.936376735981646, Surplus: -396.0561234483118, Terminate:0.0
+CENTRAL It291, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 292: OF Values: 2979.29332842662, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It292, Primal: 0.0006630076791151069, Dual:0.00035047883616644065, Flow: 56.35496443451548, Surplus: -398.8446211395264, Terminate:0.0
+CENTRAL It292, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 293: OF Values: 2846.7261890090754, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It293, Primal: 0.0006781027326554891, Dual:0.00033108334978418905, Flow: 56.41477794092811, Surplus: -399.5041508286402, Terminate:0.0
+CENTRAL It293, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 294: OF Values: 2721.4536535287425, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It294, Primal: 0.0006885400773388567, Dual:0.0003094534287782613, Flow: 56.179278348797794, Surplus: -398.0880017073285, Terminate:0.0
+CENTRAL It294, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 295: OF Values: 2604.2439125222577, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It295, Primal: 0.0006947179186865145, Dual:0.0002859152921517759, Flow: 55.641315357245304, Surplus: -394.79277684647866, Terminate:0.0
+CENTRAL It295, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 296: OF Values: 2495.5084874125437, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It296, Primal: 0.0006971163938455518, Dual:0.0002608516596527329, Flow: 54.84622180329096, Surplus: -389.92086128883557, Terminate:0.0
+CENTRAL It296, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 297: OF Values: 2396.141453470563, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It297, Primal: 0.0006961316213900262, Dual:0.00023470056260962925, Flow: 53.82693942425835, Surplus: -382.90518433133997, Terminate:0.0
+CENTRAL It297, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 298: OF Values: 2306.7636290314927, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It298, Primal: 0.0006919871139297947, Dual:0.00020795624692766145, Flow: 52.621764372040886, Surplus: -374.18720761752326, Terminate:0.0
+CENTRAL It298, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 299: OF Values: 2227.937312960089, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It299, Primal: 0.0006851507162488551, Dual:0.00018113171663692253, Flow: 51.21053456484336, Surplus: -363.93229520701163, Terminate:0.0
+CENTRAL It299, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 300: OF Values: 2160.0068756029677, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It300, Primal: 0.0006761376904265282, Dual:0.00015473396793760347, Flow: 49.56906290762624, Surplus: -352.2562074761172, Terminate:0.0
+CENTRAL It300, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 301: OF Values: 2103.3885075237345, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It301, Primal: 0.0006755983856615682, Dual:0.00017620421110856404, Flow: 47.721648500905715, Surplus: -339.30582680692277, Terminate:0.0
+CENTRAL It301, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 302: OF Values: 2058.4592148379065, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It302, Primal: 0.0006832874660149752, Dual:0.00020652547982240047, Flow: 45.65759437448991, Surplus: -325.2387934025336, Terminate:0.0
+CENTRAL It302, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 303: OF Values: 2025.5537919907174, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It303, Primal: 0.0006889630539017786, Dual:0.0002349790190841931, Flow: 43.40939315101372, Surplus: -310.21584027718063, Terminate:0.0
+CENTRAL It303, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 304: OF Values: 2004.963387290052, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It304, Primal: 0.0006926449150365342, Dual:0.00026066512261949993, Flow: 41.01233252600064, Surplus: -294.39615044403433, Terminate:0.0
+CENTRAL It304, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 305: OF Values: 1996.8243329186002, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It305, Primal: 0.000694664500868993, Dual:0.0002828362055348788, Flow: 38.49272813390926, Surplus: -277.9346675614901, Terminate:0.0
+CENTRAL It305, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 306: OF Values: 2001.4590260700331, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It306, Primal: 0.0006949429578103818, Dual:0.0003010281696647388, Flow: 35.877096387840886, Surplus: -260.9814553405287, Terminate:0.0
+CENTRAL It306, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 307: OF Values: 2019.0223691023236, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It307, Primal: 0.0006932486226858642, Dual:0.00031493570466020147, Flow: 33.213271969128755, Surplus: -243.6812102538292, Terminate:0.0
+CENTRAL It307, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 308: OF Values: 2049.531061282992, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It308, Primal: 0.0006895964254403897, Dual:0.0003169257400694273, Flow: 30.531980251903992, Surplus: -226.8564510700425, Terminate:0.0
+CENTRAL It308, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 309: OF Values: 2093.3351822468994, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It309, Primal: 0.0006902247490925653, Dual:0.000321540816079045, Flow: 27.785943385071793, Surplus: -209.26984608839288, Terminate:0.0
+CENTRAL It309, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 310: OF Values: 2150.1417933656894, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It310, Primal: 0.0007066876300650624, Dual:0.0003200085182578848, Flow: 25.057465189945816, Surplus: -192.2774841803854, Terminate:0.0
+CENTRAL It310, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 311: OF Values: 2220.0401755252333, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It311, Primal: 0.0007159794085626034, Dual:0.0003155701587224428, Flow: 22.3810792810383, Surplus: -175.25577737410165, Terminate:0.0
+CENTRAL It311, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 312: OF Values: 2302.829172737565, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It312, Primal: 0.0007194440680140864, Dual:0.00030887696254966473, Flow: 19.7797749063957, Surplus: -158.29962915969685, Terminate:0.0
+CENTRAL It312, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 313: OF Values: 2398.21593399376, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It313, Primal: 0.0007181303364975153, Dual:0.000297944040230109, Flow: 17.323003202876894, Surplus: -141.82632125972032, Terminate:0.0
+CENTRAL It313, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 314: OF Values: 2505.868063634187, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It314, Primal: 0.000713927531744412, Dual:0.0002766221910588528, Flow: 15.679450250124017, Surplus: -126.87956169010215, Terminate:0.0
+CENTRAL It314, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 315: OF Values: 2625.5092482387245, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It315, Primal: 0.0007022237335860155, Dual:0.0002541929197001107, Flow: 14.355268918594323, Surplus: -112.11337184710102, Terminate:0.0
+CENTRAL It315, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 316: OF Values: 2756.432316641172, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It316, Primal: 0.0006697964831574353, Dual:0.0002352496643224222, Flow: 11.71379607886084, Surplus: -97.93195484244275, Terminate:0.0
+CENTRAL It316, Primal: 16, Dual:16, Flow: 0, Surplus: 0, Terminate:0.0
+It. 317: OF Values: 2897.6810569418317, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It317, Primal: 0.0006407738843638421, Dual:0.0002200796821626625, Flow: 10.10812140555775, Surplus: -84.493416957093, Terminate:0.0
+CENTRAL It317, Primal: 16, Dual:16, Flow: 2, Surplus: 0, Terminate:0.0
+It. 318: OF Values: 3048.2155352612017, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It318, Primal: 0.0006069104196886362, Dual:0.00019695632375426708, Flow: 8.243423524820917, Surplus: -71.8406916235358, Terminate:0.0
+CENTRAL It318, Primal: 16, Dual:16, Flow: 9, Surplus: 0, Terminate:0.0
+It. 319: OF Values: 3206.989571255973, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It319, Primal: 0.0005878143010497939, Dual:0.00017970324647803787, Flow: 6.550755265748276, Surplus: -59.386457063407725, Terminate:0.0
+CENTRAL It319, Primal: 16, Dual:16, Flow: 15, Surplus: 0, Terminate:0.0
+It. 320: OF Values: 3372.65009128027, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It320, Primal: 0.0005647869144197553, Dual:0.00018180699404098468, Flow: 5.028056504376612, Surplus: -47.79464592378093, Terminate:0.0
+CENTRAL It320, Primal: 16, Dual:16, Flow: 17, Surplus: 0, Terminate:0.0
+It. 321: OF Values: 3543.826289327616, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It321, Primal: 0.0005376026797277234, Dual:0.00021077384532269504, Flow: 4.384486840573552, Surplus: -37.56150296508148, Terminate:0.0
+CENTRAL It321, Primal: 16, Dual:16, Flow: 18, Surplus: 0, Terminate:0.0
+It. 322: OF Values: 3718.9800124464173, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It322, Primal: 0.00048191126375854665, Dual:0.0002461606545397364, Flow: 3.3359964766884107, Surplus: -27.015582047048937, Terminate:0.0
+CENTRAL It322, Primal: 16, Dual:16, Flow: 23, Surplus: 0, Terminate:0.0
+It. 323: OF Values: 3895.9805902184644, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It323, Primal: 0.0004338262365333886, Dual:0.0002826300481663133, Flow: 2.2066299119325055, Surplus: -17.294995168516223, Terminate:0.0
+CENTRAL It323, Primal: 16, Dual:16, Flow: 24, Surplus: 0, Terminate:0.0
+It. 324: OF Values: 4072.577352797606, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It324, Primal: 0.00037914016042766825, Dual:0.0003195406554069213, Flow: 1.7805267007572152, Surplus: -8.228046080045058, Terminate:0.0
+CENTRAL It324, Primal: 16, Dual:16, Flow: 24, Surplus: 0, Terminate:0.0
+It. 325: OF Values: 4246.491353144212, stats: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+CENTRAL It325, Primal: 0.00032358814353565296, Dual:0.00035618112190300924, Flow: 1.5440290931057543, Surplus: 0.20916857045949075, Terminate:1.0
+CENTRAL It325, Primal: 16, Dual:16, Flow: 24, Surplus: 1, Terminate:1.0
+Net Battery Charge: [-0.031461367612038244, 0.010429097703902181, 0.05083482627155052, 0.036534314075051255, 0.008965939918745681, 0.003510289807242802, -0.026309742112437876, -0.054734119743138264, -0.009362567880171526, 0.002047418488499142, 0.015360447202973327, 0.043547566584519734, 0.0306892100113461, 0.0019709815807707892, 0.00029951049956978247, -0.008526349523472839, -0.042435518731653084, -0.08122347880748879, -0.027330530945661607, -0.006754694200166133, -7.714672510186326e-05, 0.00041516259606625035, 0.07489687825766683, 0.008713898513868713]
+Final Balance
+[-4.87522181161388, 0.21703012082908557, -0.1426969350771662, -1.1047376297753253, -2.350428259058908, -3.7491839577194366, -2.5505005236206526, 7.830596935716814, -2.6936418647876392, -3.9482646552798926, -4.038256558840794, -2.853658600771717, 12.457942016419306, 0.254099723224152, -1.1558348186868987, -1.1530867637281166]
+Final Surplus
+-9.855843582771067
+Surplus
+[4.169913129014753, -1.7066182226926434, -6.304167827590828, -5.7797492140587305, -1.8480154052722306, -0.2556200548273377, 5.0084537692975495, 5.849268963990914, 2.27683056173332, -0.9285560976466648, -3.5328977750268096, -5.381625460184436, -4.8749349625865115, -0.9415860968028267, -0.9265562447695561, 1.672414197668076, 7.5457341431964995, 9.859915678869537, 5.239578413873279, 0.1016383560708482, -1.443562207512941, -1.4296265033159814, -10.955360919866825, -5.270713804331523]
+Flow Surplus
+[0.0012178795849991531, 7.33786789000046e-05, 0.0006295157846421796, 0.0006891702679618877, 0.0002856519774622323, 6.219748554670045e-05, 0.0007963816528293996, 0.001138749772689636, 0.000987202417627394, 0.0010553124117681535, 0.0014529619620486135, 0.001461901109501694, 0.0014653692875089813, -0.0006391015451401331, -0.0004059727403289415, 0.00040634407201504616, -0.0003566714710247273, 0.00011639862547201119, -0.0006531765583631215, -0.000979959253390724, -0.0033690421365491323, -0.0029900253553750986, -0.0008725561837121974, -0.0011834298949394842]
+Total Flow Surplus
+0.00038847995214952736
+Energy Residual
+[ 1.21787963e-03  7.33787147e-05  6.29515838e-04  6.89170317e-04
+  2.85652015e-04  6.21975133e-05  7.96381694e-04  1.13874981e-03
+  9.87202460e-04  1.05531244e-03  1.45296199e-03  1.46190116e-03
+  1.46536933e-03 -6.39101513e-04 -4.05972714e-04  4.06344117e-04
+ -3.56671432e-04  1.16398660e-04 -6.53176521e-04 -9.79959225e-04
+ -3.36904211e-03 -2.99002533e-03 -8.72556149e-04 -1.18342986e-03]
+Total Relative Surplus
+0.20916857045949075
+Took 6.275458864370981 minutes to Solve Problem
+Final it: 325, Rho:15000.0, Final Value: 4246.491353144212, Total Flow Surplus: 0.00038847995214952736
+NORMAL
+Mode 0, Scenario 0, Multi 0.0
+325 its, 6.28 minutes, 0.2092 %, 0.00038848 abs.

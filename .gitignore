@@ -1,0 +1,16 @@
+.git
+.idea
+__pycache__
+venv
+playground/.pytest_cache
+playground/plots/*.html
+plots/*.html
+playground/states/*.json
+playground/it/*.json
+it/*.json
+states/*.json
+playground/*.json
+playground/Analysis/files/*.json
+runtime/*.json
+runtime/temp/*.json
+runtime/states/*.json
