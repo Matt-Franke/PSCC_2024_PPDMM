@@ -1,5 +1,5 @@
 # Code Base for PSCC 2024 Paper: Privacy-Preserving Distributed Market Mechanism for Active Distribution Networks
-# Authors: Matthias Franke (ETH), Ognjen Stanojev (ETH), Lesia Mitridate (DTU), Gabriela Hug (ETH)
+# Authors: Matthias Franke (ETH), Ognjen Stanojev (ETH), Lesia Mitridati (DTU), Gabriela Hug (ETH)
 # Main Developer: Matthias Franke (ETH)
 
 This repository contains the code for the simulations of this paper, as well as the various results in the /data folder.
